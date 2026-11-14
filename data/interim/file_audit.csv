@@ -1,0 +1,962 @@
+match_id,filename,start_date,end_date,gender,team_type,match_type,format,team_1,team_2,opponent,event,venue,outcome_winner,outcome_result,outcome_method,n_innings_total,n_innings_england,included,exclusion_reason
+1022347,1022347.json,01-06-2017,01-06-2017,male,international,ODI,ODI,England,Bangladesh,Bangladesh,ICC Champions Trophy,The Oval,England,,,2,1,False,before_window
+1022357,1022357.json,06-06-2017,06-06-2017,male,international,ODI,ODI,England,New Zealand,New Zealand,ICC Champions Trophy,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+1022365,1022365.json,10-06-2017,10-06-2017,male,international,ODI,ODI,England,Australia,Australia,ICC Champions Trophy,Edgbaston,England,,D/L,2,1,False,before_window
+1022371,1022371.json,14-06-2017,14-06-2017,male,international,ODI,ODI,England,Pakistan,Pakistan,ICC Champions Trophy,"Sophia Gardens, Cardiff",Pakistan,,,2,1,False,before_window
+1027315,1027315.json,03-03-2017,03-03-2017,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,"Sir Vivian Richards Stadium, North Sound, Antigua",England,,,2,1,False,before_window
+1027317,1027317.json,05-03-2017,05-03-2017,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,"Sir Vivian Richards Stadium, North Sound, Antigua",England,,,2,1,False,before_window
+1027319,1027319.json,09-03-2017,09-03-2017,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,Kensington Oval,England,,,2,1,False,before_window
+1029001,1029001.json,05-05-2017,05-05-2017,male,international,ODI,ODI,England,Ireland,Ireland,Ireland in England ODI Series,"County Ground, Bristol",England,,,2,1,False,before_window
+1029003,1029003.json,07-05-2017,07-05-2017,male,international,ODI,ODI,England,Ireland,Ireland,Ireland in England ODI Series,Lord's,England,,,2,1,False,before_window
+1029819,1029819.json,07-10-2016,07-10-2016,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England in Bangladesh ODI Series,"Shere Bangla National Stadium, Mirpur",England,,,2,1,False,before_window
+1029821,1029821.json,09-10-2016,09-10-2016,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England in Bangladesh ODI Series,"Shere Bangla National Stadium, Mirpur",Bangladesh,,,2,1,False,before_window
+1029823,1029823.json,12-10-2016,12-10-2016,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England in Bangladesh ODI Series,"Zahur Ahmed Chowdhury Stadium, Chittagong",England,,,2,1,False,before_window
+1029825,1029825.json,20-10-2016,24-10-2016,male,international,Test,Test,Bangladesh,England,Bangladesh,England in Bangladesh Test Series,"Zahur Ahmed Chowdhury Stadium, Chittagong",England,,,4,2,False,before_window
+1029827,1029827.json,28-10-2016,30-10-2016,male,international,Test,Test,Bangladesh,England,Bangladesh,England in Bangladesh Test Series,"Shere Bangla National Stadium, Mirpur",Bangladesh,,,4,2,False,before_window
+1031425,1031425.json,24-05-2017,24-05-2017,male,international,ODI,ODI,England,South Africa,South Africa,South Africa in England ODI Series,Headingley,England,,,2,1,False,before_window
+1031427,1031427.json,27-05-2017,27-05-2017,male,international,ODI,ODI,England,South Africa,South Africa,South Africa in England ODI Series,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+1031429,1031429.json,29-05-2017,29-05-2017,male,international,ODI,ODI,England,South Africa,South Africa,South Africa in England ODI Series,Lord's,South Africa,,,2,1,False,before_window
+1031431,1031431.json,21-06-2017,21-06-2017,male,international,T20,T20I,England,South Africa,South Africa,South Africa in England T20I Series,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+1031433,1031433.json,23-06-2017,23-06-2017,male,international,T20,T20I,England,South Africa,South Africa,South Africa in England T20I Series,"The County Ground, Taunton",South Africa,,,2,1,False,before_window
+1031435,1031435.json,25-06-2017,25-06-2017,male,international,T20,T20I,England,South Africa,South Africa,South Africa in England T20I Series,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+1031437,1031437.json,06-07-2017,09-07-2017,male,international,Test,Test,England,South Africa,South Africa,Basil D'Oliveira Trophy,Lord's,England,,,4,2,False,before_window
+1031439,1031439.json,14-07-2017,17-07-2017,male,international,Test,Test,South Africa,England,South Africa,South Africa tour of England,Trent Bridge,South Africa,,,4,2,False,before_window
+1031441,1031441.json,27-07-2017,31-07-2017,male,international,Test,Test,England,South Africa,South Africa,South Africa tour of England,The Oval,England,,,4,2,False,before_window
+1031443,1031443.json,04-08-2017,07-08-2017,male,international,Test,Test,England,South Africa,South Africa,South Africa tour of England,Old Trafford,England,,,4,2,False,before_window
+1031659,1031659.json,17-08-2017,19-08-2017,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England,Edgbaston,England,,,3,1,False,before_window
+1031661,1031661.json,25-08-2017,29-08-2017,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England,Headingley,West Indies,,,4,2,False,before_window
+1031663,1031663.json,07-09-2017,09-09-2017,male,international,Test,Test,West Indies,England,West Indies,West Indies tour of England,Lord's,England,,,4,2,False,before_window
+1031665,1031665.json,16-09-2017,16-09-2017,male,international,T20,T20I,West Indies,England,West Indies,West Indies tour of England,"Riverside Ground, Chester-le-Street",West Indies,,,2,1,False,before_window
+1031667,1031667.json,19-09-2017,19-09-2017,male,international,ODI,ODI,West Indies,England,West Indies,West Indies tour of England,Old Trafford,England,,,2,1,False,before_window
+1031669,1031669.json,21-09-2017,21-09-2017,male,international,ODI,ODI,England,West Indies,West Indies,West Indies tour of England,Trent Bridge,,no result,,1,1,False,before_window
+1031671,1031671.json,24-09-2017,24-09-2017,male,international,ODI,ODI,England,West Indies,West Indies,West Indies tour of England,"County Ground, Bristol",England,,,2,1,False,before_window
+1031673,1031673.json,27-09-2017,27-09-2017,male,international,ODI,ODI,West Indies,England,West Indies,West Indies tour of England,The Oval,England,,D/L,2,1,False,before_window
+1031675,1031675.json,29-09-2017,29-09-2017,male,international,ODI,ODI,West Indies,England,West Indies,West Indies tour of England,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+1034809,1034809.json,09-11-2016,13-11-2016,male,international,Test,Test,India,England,India,England in India Test Series,"Saurashtra Cricket Association Stadium, Rajkot",,draw,,4,2,False,before_window
+1034811,1034811.json,17-11-2016,21-11-2016,male,international,Test,Test,India,England,India,England in India Test Series,"Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium, Visakhapatnam",India,,,4,2,False,before_window
+1034813,1034813.json,26-11-2016,29-11-2016,male,international,Test,Test,India,England,India,England in India Test Series,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,,,4,2,False,before_window
+1034815,1034815.json,08-12-2016,12-12-2016,male,international,Test,Test,India,England,India,England in India Test Series,"Wankhede Stadium, Mumbai",India,,,3,2,False,before_window
+1034817,1034817.json,16-12-2016,20-12-2016,male,international,Test,Test,India,England,India,England in India Test Series,MA Chidambaram Stadium,India,,,3,2,False,before_window
+1034819,1034819.json,15-01-2017,15-01-2017,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Maharashtra Cricket Association Stadium, Pune",India,,,2,1,False,before_window
+1034821,1034821.json,19-01-2017,19-01-2017,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Barabati Stadium, Cuttack",India,,,2,1,False,before_window
+1034823,1034823.json,22-01-2017,22-01-2017,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Eden Gardens, Kolkata",England,,,2,1,False,before_window
+1034825,1034825.json,26-01-2017,26-01-2017,male,international,T20,T20I,India,England,India,England in India T20I Series,"Green Park, Kanpur",England,,,2,1,False,before_window
+1034827,1034827.json,29-01-2017,29-01-2017,male,international,T20,T20I,India,England,India,England in India T20I Series,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",India,,,2,1,False,before_window
+1034829,1034829.json,01-02-2017,01-02-2017,male,international,T20,T20I,India,England,India,England in India T20I Series,"M Chinnaswamy Stadium, Bengaluru",India,,,2,1,False,before_window
+1072305,1072305.json,23-11-2017,27-11-2017,male,international,Test,Test,England,Australia,Australia,England tour of Australia and New Zealand,Brisbane Cricket Ground,Australia,,,4,2,False,before_window
+1072306,1072306.json,02-12-2017,06-12-2017,male,international,Test,Test,Australia,England,Australia,England tour of Australia and New Zealand,Adelaide Oval,Australia,,,4,2,False,before_window
+1072307,1072307.json,14-12-2017,18-12-2017,male,international,Test,Test,England,Australia,Australia,England tour of Australia and New Zealand,"WACA, Perth",Australia,,,3,2,False,before_window
+1072308,1072308.json,26-12-2017,30-12-2017,male,international,Test,Test,Australia,England,Australia,England tour of Australia and New Zealand,Melbourne Cricket Ground,,draw,,3,1,False,before_window
+1072309,1072309.json,04-01-2018,08-01-2018,male,international,Test,Test,England,Australia,Australia,England tour of Australia and New Zealand,Sydney Cricket Ground,Australia,,,3,2,False,before_window
+1072310,1072310.json,14-01-2018,14-01-2018,male,international,ODI,ODI,Australia,England,Australia,England tour of Australia and New Zealand,Melbourne Cricket Ground,England,,,2,1,False,before_window
+1072311,1072311.json,19-01-2018,19-01-2018,male,international,ODI,ODI,Australia,England,Australia,England tour of Australia and New Zealand,Brisbane Cricket Ground,England,,,2,1,False,before_window
+1072312,1072312.json,21-01-2018,21-01-2018,male,international,ODI,ODI,England,Australia,Australia,England tour of Australia and New Zealand,Sydney Cricket Ground,England,,,2,1,False,before_window
+1072313,1072313.json,26-01-2018,26-01-2018,male,international,ODI,ODI,England,Australia,Australia,England tour of Australia and New Zealand,Adelaide Oval,Australia,,,2,1,False,before_window
+1072314,1072314.json,28-01-2018,28-01-2018,male,international,ODI,ODI,England,Australia,Australia,England tour of Australia and New Zealand,Perth Stadium,England,,,2,1,False,before_window
+1072317,1072317.json,07-02-2018,07-02-2018,male,international,T20,T20I,England,Australia,Australia,Trans-Tasman Twenty20 Trophy,"Bellerive Oval, Hobart",Australia,,,2,1,False,before_window
+1072318,1072318.json,10-02-2018,10-02-2018,male,international,T20,T20I,England,Australia,Australia,Trans-Tasman Twenty20 Trophy,Melbourne Cricket Ground,Australia,,,2,1,False,before_window
+1072319,1072319.json,13-02-2018,13-02-2018,male,international,T20,T20I,New Zealand,England,New Zealand,Trans-Tasman Twenty20 Trophy,"Westpac Stadium, Wellington",New Zealand,,,2,1,False,before_window
+1072321,1072321.json,18-02-2018,18-02-2018,male,international,T20,T20I,England,New Zealand,New Zealand,Trans-Tasman Twenty20 Trophy,"Seddon Park, Hamilton",England,,,2,1,False,before_window
+1115775,1115775.json,25-02-2018,25-02-2018,male,international,ODI,ODI,England,New Zealand,New Zealand,England tour of Australia and New Zealand,"Seddon Park, Hamilton",New Zealand,,,2,1,False,before_window
+1115776,1115776.json,28-02-2018,28-02-2018,male,international,ODI,ODI,New Zealand,England,New Zealand,England tour of Australia and New Zealand,"Bay Oval, Mount Maunganui",England,,,2,1,False,before_window
+1115777,1115777.json,03-03-2018,03-03-2018,male,international,ODI,ODI,England,New Zealand,New Zealand,England tour of Australia and New Zealand,"Westpac Stadium, Wellington",England,,,2,1,False,before_window
+1115778,1115778.json,07-03-2018,07-03-2018,male,international,ODI,ODI,England,New Zealand,New Zealand,England tour of Australia and New Zealand,"University Oval, Dunedin",New Zealand,,,2,1,False,before_window
+1115779,1115779.json,10-03-2018,10-03-2018,male,international,ODI,ODI,New Zealand,England,New Zealand,England tour of Australia and New Zealand,"Hagley Oval, Christchurch",England,,,2,1,False,before_window
+1115780,1115780.json,22-03-2018,26-03-2018,male,international,Test,Test,England,New Zealand,New Zealand,England tour of Australia and New Zealand,"Eden Park, Auckland",New Zealand,,,3,2,False,before_window
+1115781,1115781.json,30-03-2018,03-04-2018,male,international,Test,Test,England,New Zealand,New Zealand,England tour of Australia and New Zealand,"Hagley Oval, Christchurch",,draw,,4,2,False,before_window
+1119535,1119535.json,24-05-2018,27-05-2018,male,international,Test,Test,England,Pakistan,Pakistan,"Pakistan tour of Ireland, England and Scotland",Lord's,Pakistan,,,4,2,False,before_window
+1119536,1119536.json,01-06-2018,03-06-2018,male,international,Test,Test,Pakistan,England,Pakistan,"Pakistan tour of Ireland, England and Scotland",Headingley,England,,,3,1,False,before_window
+1119537,1119537.json,13-06-2018,13-06-2018,male,international,ODI,ODI,Australia,England,Australia,Australia tour of England,The Oval,England,,,2,1,False,before_window
+1119538,1119538.json,16-06-2018,16-06-2018,male,international,ODI,ODI,England,Australia,Australia,Australia tour of England,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+1119539,1119539.json,19-06-2018,19-06-2018,male,international,ODI,ODI,England,Australia,Australia,Australia tour of England,Trent Bridge,England,,,2,1,False,before_window
+1119540,1119540.json,21-06-2018,21-06-2018,male,international,ODI,ODI,Australia,England,Australia,Australia tour of England,"Riverside Ground, Chester-le-Street",England,,,2,1,False,before_window
+1119541,1119541.json,24-06-2018,24-06-2018,male,international,ODI,ODI,Australia,England,Australia,Australia tour of England,Old Trafford,England,,,2,1,False,before_window
+1119542,1119542.json,27-06-2018,27-06-2018,male,international,T20,T20I,England,Australia,Australia,Australia tour of England,Edgbaston,England,,,2,1,False,before_window
+1119543,1119543.json,03-07-2018,03-07-2018,male,international,T20,T20I,England,India,India,India tour of Ireland and England,Old Trafford,India,,,2,1,False,before_window
+1119544,1119544.json,06-07-2018,06-07-2018,male,international,T20,T20I,India,England,India,India tour of Ireland and England,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+1119545,1119545.json,08-07-2018,08-07-2018,male,international,T20,T20I,England,India,India,India tour of Ireland and England,"County Ground, Bristol",India,,,2,1,False,before_window
+1119546,1119546.json,12-07-2018,12-07-2018,male,international,ODI,ODI,England,India,India,India tour of Ireland and England,Trent Bridge,India,,,2,1,False,before_window
+1119547,1119547.json,14-07-2018,14-07-2018,male,international,ODI,ODI,England,India,India,India tour of Ireland and England,Lord's,England,,,2,1,False,before_window
+1119548,1119548.json,17-07-2018,17-07-2018,male,international,ODI,ODI,India,England,India,India tour of Ireland and England,Headingley,England,,,2,1,False,before_window
+1119549,1119549.json,01-08-2018,04-08-2018,male,international,Test,Test,England,India,India,India tour of Ireland and England,Edgbaston,England,,,4,2,False,before_window
+1119550,1119550.json,09-08-2018,12-08-2018,male,international,Test,Test,India,England,India,India tour of Ireland and England,Lord's,England,,,3,1,False,before_window
+1119551,1119551.json,18-08-2018,22-08-2018,male,international,Test,Test,India,England,India,India tour of Ireland and England,Trent Bridge,India,,,4,2,False,before_window
+1119552,1119552.json,30-08-2018,02-09-2018,male,international,Test,Test,England,India,India,India tour of Ireland and England,"The Rose Bowl, Southampton",England,,,4,2,False,before_window
+1119553,1119553.json,07-09-2018,11-09-2018,male,international,Test,Test,England,India,India,India tour of Ireland and England,The Oval,England,,,4,2,False,before_window
+1140379,1140379.json,10-10-2018,10-10-2018,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,Rangiri Dambulla International Stadium,,no result,,1,1,False,before_window
+1140380,1140380.json,13-10-2018,13-10-2018,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,Rangiri Dambulla International Stadium,England,,D/L,2,1,False,before_window
+1140381,1140381.json,17-10-2018,17-10-2018,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,Pallekele International Cricket Stadium,England,,,2,1,False,before_window
+1140382,1140382.json,20-10-2018,20-10-2018,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,Pallekele International Cricket Stadium,England,,D/L,2,1,False,before_window
+1140383,1140383.json,23-10-2018,23-10-2018,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,"R Premadasa Stadium, Colombo",Sri Lanka,,D/L,2,1,False,before_window
+1140384,1140384.json,27-10-2018,27-10-2018,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,"R Premadasa Stadium, Colombo",England,,,2,1,False,before_window
+1140385,1140385.json,06-11-2018,09-11-2018,male,international,Test,Test,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,Galle International Stadium,England,,,4,2,False,before_window
+1140386,1140386.json,14-11-2018,18-11-2018,male,international,Test,Test,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,Pallekele International Cricket Stadium,England,,,4,2,False,before_window
+1140387,1140387.json,23-11-2018,26-11-2018,male,international,Test,Test,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,Sinhalese Sports Club Ground,England,,,4,2,False,before_window
+1144483,1144483.json,30-05-2019,30-05-2019,male,international,ODI,ODI,England,South Africa,South Africa,World Cup,The Oval,England,,,2,1,False,before_window
+1144488,1144488.json,03-06-2019,03-06-2019,male,international,ODI,ODI,England,Pakistan,Pakistan,World Cup,Trent Bridge,Pakistan,,,2,1,False,before_window
+1144494,1144494.json,08-06-2019,08-06-2019,male,international,ODI,ODI,England,Bangladesh,Bangladesh,World Cup,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+1144501,1144501.json,14-06-2019,14-06-2019,male,international,ODI,ODI,England,West Indies,West Indies,World Cup,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+1144509,1144509.json,21-06-2019,21-06-2019,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,World Cup,Headingley,Sri Lanka,,,2,1,False,before_window
+1144514,1144514.json,25-06-2019,25-06-2019,male,international,ODI,ODI,England,Australia,Australia,World Cup,Lord's,Australia,,,2,1,False,before_window
+1144520,1144520.json,30-06-2019,30-06-2019,male,international,ODI,ODI,England,India,India,World Cup,Edgbaston,England,,,2,1,False,before_window
+1144523,1144523.json,03-07-2019,03-07-2019,male,international,ODI,ODI,England,New Zealand,New Zealand,World Cup,"Riverside Ground, Chester-le-Street",England,,,2,1,False,before_window
+1144529,1144529.json,11-07-2019,11-07-2019,male,international,ODI,ODI,Australia,England,Australia,World Cup,Edgbaston,England,,,2,1,False,before_window
+1144530,1144530.json,14-07-2019,14-07-2019,male,international,ODI,ODI,England,New Zealand,New Zealand,World Cup,Lord's,,tie,,4,2,False,before_window
+1152839,1152839.json,24-07-2019,26-07-2019,male,international,Test,Test,England,Ireland,Ireland,Ireland tour of England,Lord's,England,,,4,2,False,before_window
+1152840,1152840.json,05-05-2019,05-05-2019,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan tour of England,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+1152841,1152841.json,08-05-2019,08-05-2019,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan tour of England,The Oval,,no result,,1,0,False,before_window
+1152842,1152842.json,11-05-2019,11-05-2019,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan tour of England,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+1152843,1152843.json,14-05-2019,14-05-2019,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan tour of England,"County Ground, Bristol",England,,,2,1,False,before_window
+1152844,1152844.json,17-05-2019,17-05-2019,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan tour of England,Trent Bridge,England,,,2,1,False,before_window
+1152845,1152845.json,19-05-2019,19-05-2019,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan tour of England,Headingley,England,,,2,1,False,before_window
+1152846,1152846.json,01-08-2019,05-08-2019,male,international,Test,Test,England,Australia,Australia,The Ashes,Edgbaston,Australia,,,4,2,False,before_window
+1152847,1152847.json,14-08-2019,18-08-2019,male,international,Test,Test,England,Australia,Australia,The Ashes,Lord's,,draw,,4,2,False,before_window
+1152848,1152848.json,22-08-2019,25-08-2019,male,international,Test,Test,England,Australia,Australia,The Ashes,Headingley,England,,,4,2,False,before_window
+1152849,1152849.json,04-09-2019,08-09-2019,male,international,Test,Test,England,Australia,Australia,The Ashes,Old Trafford,Australia,,,4,2,False,before_window
+1152850,1152850.json,12-09-2019,15-09-2019,male,international,Test,Test,England,Australia,Australia,The Ashes,The Oval,England,,,4,2,False,before_window
+1158062,1158062.json,23-01-2019,26-01-2019,male,international,Test,Test,West Indies,England,West Indies,England tour of West Indies,Kensington Oval,West Indies,,,4,2,False,before_window
+1158063,1158063.json,31-01-2019,02-02-2019,male,international,Test,Test,West Indies,England,West Indies,England tour of West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,,,4,2,False,before_window
+1158064,1158064.json,09-02-2019,12-02-2019,male,international,Test,Test,West Indies,England,West Indies,England tour of West Indies,"Darren Sammy National Cricket Stadium, Gros Islet, St Lucia",England,,,4,2,False,before_window
+1158066,1158066.json,20-02-2019,20-02-2019,male,international,ODI,ODI,West Indies,England,West Indies,England tour of West Indies,Kensington Oval,England,,,2,1,False,before_window
+1158067,1158067.json,22-02-2019,22-02-2019,male,international,ODI,ODI,West Indies,England,West Indies,England tour of West Indies,Kensington Oval,West Indies,,,2,1,False,before_window
+1158069,1158069.json,27-02-2019,27-02-2019,male,international,ODI,ODI,West Indies,England,West Indies,England tour of West Indies,"National Cricket Stadium, St George's, Grenada",England,,,2,1,False,before_window
+1158070,1158070.json,02-03-2019,02-03-2019,male,international,ODI,ODI,West Indies,England,West Indies,England tour of West Indies,"Darren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,,,2,1,False,before_window
+1158071,1158071.json,05-03-2019,05-03-2019,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,"Darren Sammy National Cricket Stadium, Gros Islet, St Lucia",England,,,2,1,False,before_window
+1158072,1158072.json,08-03-2019,08-03-2019,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,"Warner Park, St Kitts",England,,,2,1,False,before_window
+1158073,1158073.json,10-03-2019,10-03-2019,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,"Warner Park, St Kitts",England,,,2,1,False,before_window
+1161014,1161014.json,03-05-2019,03-05-2019,male,international,ODI,ODI,Ireland,England,Ireland,England tour of Ireland,"Malahide Cricket Ground, Dublin",England,,,2,1,False,before_window
+1185304,1185304.json,26-12-2019,29-12-2019,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"SuperSport Park, Centurion",South Africa,,,4,2,False,before_window
+1185305,1185305.json,03-01-2020,07-01-2020,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"Newlands, Cape Town",England,,,4,2,True,
+1185306,1185306.json,16-01-2020,20-01-2020,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"St George's Park, Port Elizabeth",England,,,3,1,True,
+1185307,1185307.json,24-01-2020,27-01-2020,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"Wanderers Stadium, Johannesburg",England,,,4,2,True,
+1185310,1185310.json,04-02-2020,04-02-2020,male,international,ODI,ODI,South Africa,England,South Africa,England tour of South Africa,"Newlands, Cape Town",South Africa,,,2,1,True,
+1185311,1185311.json,07-02-2020,07-02-2020,male,international,ODI,ODI,South Africa,England,South Africa,England tour of South Africa,"Kingsmead, Durban",,no result,,1,0,True,
+1185312,1185312.json,09-02-2020,09-02-2020,male,international,ODI,ODI,South Africa,England,South Africa,England tour of South Africa,"Wanderers Stadium, Johannesburg",England,,,2,1,True,
+1185313,1185313.json,12-02-2020,12-02-2020,male,international,T20,T20I,South Africa,England,South Africa,England tour of South Africa,"Buffalo Park, East London",South Africa,,,2,1,True,
+1185314,1185314.json,14-02-2020,14-02-2020,male,international,T20,T20I,South Africa,England,South Africa,England tour of South Africa,"Kingsmead, Durban",England,,,2,1,True,
+1185315,1185315.json,16-02-2020,16-02-2020,male,international,T20,T20I,South Africa,England,South Africa,England tour of South Africa,"SuperSport Park, Centurion",England,,,2,1,True,
+1187665,1187665.json,01-11-2019,01-11-2019,male,international,T20,T20I,New Zealand,England,New Zealand,England tour of New Zealand,"Hagley Oval, Christchurch",England,,,2,1,False,before_window
+1187666,1187666.json,03-11-2019,03-11-2019,male,international,T20,T20I,New Zealand,England,New Zealand,England tour of New Zealand,"Westpac Stadium, Wellington",New Zealand,,,2,1,False,before_window
+1187667,1187667.json,05-11-2019,05-11-2019,male,international,T20,T20I,New Zealand,England,New Zealand,England tour of New Zealand,"Saxton Oval, Nelson",New Zealand,,,2,1,False,before_window
+1187668,1187668.json,08-11-2019,08-11-2019,male,international,T20,T20I,New Zealand,England,New Zealand,England tour of New Zealand,"McLean Park, Napier",England,,,2,1,False,before_window
+1187669,1187669.json,10-11-2019,10-11-2019,male,international,T20,T20I,New Zealand,England,New Zealand,England tour of New Zealand,"Eden Park, Auckland",,tie,,4,2,False,before_window
+1187671,1187671.json,21-11-2019,25-11-2019,male,international,Test,Test,New Zealand,England,New Zealand,England in New Zealand Test Series,"Bay Oval, Mount Maunganui",New Zealand,,,3,2,False,before_window
+1187672,1187672.json,29-11-2019,03-12-2019,male,international,Test,Test,New Zealand,England,New Zealand,England in New Zealand Test Series,"Seddon Park, Hamilton",,draw,,3,1,False,before_window
+1198235,1198235.json,04-09-2020,04-09-2020,male,international,T20,T20I,England,Australia,Australia,Australia tour of England,"The Rose Bowl, Southampton",England,,,2,1,True,
+1198236,1198236.json,06-09-2020,06-09-2020,male,international,T20,T20I,Australia,England,Australia,Australia tour of England,"The Rose Bowl, Southampton",England,,,2,1,True,
+1198237,1198237.json,08-09-2020,08-09-2020,male,international,T20,T20I,England,Australia,Australia,Australia tour of England,"The Rose Bowl, Southampton",Australia,,,2,1,True,
+1198238,1198238.json,11-09-2020,11-09-2020,male,international,ODI,ODI,Australia,England,Australia,Australia tour of England,Old Trafford,Australia,,,2,1,True,
+1198239,1198239.json,13-09-2020,13-09-2020,male,international,ODI,ODI,England,Australia,Australia,Australia tour of England,Old Trafford,England,,,2,1,True,
+1198240,1198240.json,16-09-2020,16-09-2020,male,international,ODI,ODI,England,Australia,Australia,Australia tour of England,Old Trafford,Australia,,,2,1,True,
+1198241,1198241.json,05-08-2020,09-08-2020,male,international,Test,Test,Pakistan,England,Pakistan,Pakistan tour of England,Old Trafford,England,,,4,2,True,
+1198242,1198242.json,13-08-2020,17-08-2020,male,international,Test,Test,Pakistan,England,Pakistan,Pakistan tour of England,"The Rose Bowl, Southampton",,draw,,2,1,True,
+1198243,1198243.json,21-08-2020,25-08-2020,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan tour of England,"The Rose Bowl, Southampton",,draw,,3,1,True,
+1198244,1198244.json,28-08-2020,28-08-2020,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan tour of England,Old Trafford,,no result,,1,1,True,
+1198245,1198245.json,30-08-2020,30-08-2020,male,international,T20,T20I,Pakistan,England,Pakistan,Pakistan tour of England,Old Trafford,England,,,2,1,True,
+1198246,1198246.json,01-09-2020,01-09-2020,male,international,T20,T20I,Pakistan,England,Pakistan,Pakistan tour of England,Old Trafford,Pakistan,,,2,1,True,
+1198247,1198247.json,30-07-2020,30-07-2020,male,international,ODI,ODI,Ireland,England,Ireland,Ireland tour of England,"The Rose Bowl, Southampton",England,,,2,1,True,
+1198248,1198248.json,01-08-2020,01-08-2020,male,international,ODI,ODI,Ireland,England,Ireland,Ireland tour of England,"The Rose Bowl, Southampton",England,,,2,1,True,
+1198249,1198249.json,04-08-2020,04-08-2020,male,international,ODI,ODI,England,Ireland,Ireland,Ireland tour of England,"The Rose Bowl, Southampton",Ireland,,,2,1,True,
+1225247,1225247.json,08-07-2020,12-07-2020,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England,"The Rose Bowl, Southampton",West Indies,,,4,2,True,
+1225248,1225248.json,16-07-2020,20-07-2020,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England,Old Trafford,England,,,4,2,True,
+1225249,1225249.json,24-07-2020,28-07-2020,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England,Old Trafford,England,,,4,2,True,
+1237122,1237122.json,27-11-2020,27-11-2020,male,international,T20,T20I,South Africa,England,South Africa,England tour of South Africa,"Newlands, Cape Town",England,,,2,1,True,
+1237123,1237123.json,29-11-2020,29-11-2020,male,international,T20,T20I,South Africa,England,South Africa,England tour of South Africa,"Boland Park, Paarl",England,,,2,1,True,
+1237124,1237124.json,01-12-2020,01-12-2020,male,international,T20,T20I,South Africa,England,South Africa,England tour of South Africa,"Newlands, Cape Town",England,,,2,1,True,
+1239534,1239534.json,29-06-2021,29-06-2021,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,"Riverside Ground, Chester-le-Street",England,,,2,1,True,
+1239535,1239535.json,01-07-2021,01-07-2021,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,The Oval,England,,,2,1,True,
+1239536,1239536.json,04-07-2021,04-07-2021,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,"County Ground, Bristol",,no result,,1,0,True,
+1239537,1239537.json,08-07-2021,08-07-2021,male,international,ODI,ODI,Pakistan,England,Pakistan,Pakistan tour of England,"Sophia Gardens, Cardiff",England,,,2,1,True,
+1239538,1239538.json,10-07-2021,10-07-2021,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan tour of England,Lord's,England,,,2,1,True,
+1239539,1239539.json,13-07-2021,13-07-2021,male,international,ODI,ODI,Pakistan,England,Pakistan,Pakistan tour of England,Edgbaston,England,,,2,1,True,
+1239540,1239540.json,16-07-2021,16-07-2021,male,international,T20,T20I,Pakistan,England,Pakistan,Pakistan tour of England,Trent Bridge,Pakistan,,,2,1,True,
+1239541,1239541.json,18-07-2021,18-07-2021,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan tour of England,Headingley,England,,,2,1,True,
+1239542,1239542.json,20-07-2021,20-07-2021,male,international,T20,T20I,Pakistan,England,Pakistan,Pakistan tour of England,Old Trafford,England,,,2,1,True,
+1239543,1239543.json,04-08-2021,08-08-2021,male,international,Test,Test,England,India,India,India tour of England,Trent Bridge,,draw,,4,2,True,
+1239544,1239544.json,12-08-2021,16-08-2021,male,international,Test,Test,India,England,India,India tour of England,Lord's,India,,,4,2,True,
+1239545,1239545.json,25-08-2021,28-08-2021,male,international,Test,Test,India,England,India,India tour of England,Headingley,England,,,3,1,True,
+1239546,1239546.json,02-09-2021,06-09-2021,male,international,Test,Test,India,England,India,India tour of England,The Oval,India,,,4,2,True,
+1243015,1243015.json,14-01-2021,18-01-2021,male,international,Test,Test,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,Galle International Stadium,England,,,4,2,True,
+1243016,1243016.json,22-01-2021,25-01-2021,male,international,Test,Test,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,Galle International Stadium,England,,,4,2,True,
+1243384,1243384.json,05-02-2021,09-02-2021,male,international,Test,Test,England,India,India,England tour of India,MA Chidambaram Stadium,England,,,4,2,True,
+1243385,1243385.json,13-02-2021,17-02-2021,male,international,Test,Test,India,England,India,England tour of India,MA Chidambaram Stadium,India,,,4,2,True,
+1243386,1243386.json,24-02-2021,25-02-2021,male,international,Test,Test,England,India,India,England tour of India,"Narendra Modi Stadium, Ahmedabad",India,,,4,2,True,
+1243387,1243387.json,04-03-2021,06-03-2021,male,international,Test,Test,England,India,India,England tour of India,"Narendra Modi Stadium, Ahmedabad",India,,,3,2,True,
+1243388,1243388.json,12-03-2021,12-03-2021,male,international,T20,T20I,India,England,India,India v England,"Narendra Modi Stadium, Ahmedabad",England,,,2,1,True,
+1243389,1243389.json,14-03-2021,14-03-2021,male,international,T20,T20I,England,India,India,England tour of India,"Narendra Modi Stadium, Ahmedabad",India,,,2,1,True,
+1243390,1243390.json,16-03-2021,16-03-2021,male,international,T20,T20I,India,England,India,England tour of India,"Narendra Modi Stadium, Ahmedabad",England,,,2,1,True,
+1243391,1243391.json,18-03-2021,18-03-2021,male,international,T20,T20I,India,England,India,England tour of India,"Narendra Modi Stadium, Ahmedabad",India,,,2,1,True,
+1243392,1243392.json,20-03-2021,20-03-2021,male,international,T20,T20I,India,England,India,England tour of India,"Narendra Modi Stadium, Ahmedabad",India,,,2,1,True,
+1243393,1243393.json,23-03-2021,23-03-2021,male,international,ODI,ODI,India,England,India,England tour of India,"Maharashtra Cricket Association Stadium, Pune",India,,,2,1,True,
+1243394,1243394.json,26-03-2021,26-03-2021,male,international,ODI,ODI,India,England,India,England tour of India,"Maharashtra Cricket Association Stadium, Pune",England,,,2,1,True,
+1243395,1243395.json,28-03-2021,28-03-2021,male,international,ODI,ODI,India,England,India,England tour of India,"Maharashtra Cricket Association Stadium, Pune",India,,,2,1,True,
+1249206,1249206.json,23-06-2021,23-06-2021,male,international,T20,T20I,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,"Sophia Gardens, Cardiff",England,,,2,1,True,
+1249207,1249207.json,24-06-2021,24-06-2021,male,international,T20,T20I,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,"Sophia Gardens, Cardiff",England,,D/L,2,1,True,
+1249208,1249208.json,26-06-2021,26-06-2021,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,Sri Lanka tour of England,"The Rose Bowl, Southampton",England,,,2,1,True,
+1249210,1249210.json,02-06-2021,06-06-2021,male,international,Test,Test,New Zealand,England,New Zealand,New Zealand tour of England,Lord's,,draw,,4,2,True,
+1249211,1249211.json,10-06-2021,13-06-2021,male,international,Test,Test,England,New Zealand,New Zealand,New Zealand tour of England,Edgbaston,New Zealand,,,4,2,True,
+1256720,1256720.json,22-01-2022,22-01-2022,male,international,T20,T20I,England,West Indies,West Indies,England tour of West Indies,Kensington Oval,West Indies,,,2,1,True,
+1256721,1256721.json,23-01-2022,23-01-2022,male,international,T20,T20I,England,West Indies,West Indies,England tour of West Indies,Kensington Oval,England,,,2,1,True,
+1256722,1256722.json,26-01-2022,26-01-2022,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,Kensington Oval,West Indies,,,2,1,True,
+1256723,1256723.json,29-01-2022,29-01-2022,male,international,T20,T20I,England,West Indies,West Indies,England tour of West Indies,Kensington Oval,England,,,2,1,True,
+1256724,1256724.json,30-01-2022,30-01-2022,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,Kensington Oval,West Indies,,,2,1,True,
+1256726,1256726.json,08-03-2022,12-03-2022,male,international,Test,Test,England,West Indies,West Indies,England tour of West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",,draw,,4,2,True,
+1256727,1256727.json,16-03-2022,20-03-2022,male,international,Test,Test,England,West Indies,West Indies,England tour of West Indies,Kensington Oval,,draw,,4,2,True,
+1256728,1256728.json,24-03-2022,27-03-2022,male,international,Test,Test,England,West Indies,West Indies,England tour of West Indies,"National Cricket Stadium, St George's, Grenada",West Indies,,,4,2,True,
+1263462,1263462.json,08-12-2021,11-12-2021,male,international,Test,Test,England,Australia,Australia,The Ashes,Brisbane Cricket Ground,Australia,,,4,2,True,
+1263463,1263463.json,16-12-2021,20-12-2021,male,international,Test,Test,Australia,England,Australia,The Ashes,Adelaide Oval,Australia,,,4,2,True,
+1263464,1263464.json,26-12-2021,28-12-2021,male,international,Test,Test,England,Australia,Australia,The Ashes,Melbourne Cricket Ground,Australia,,,3,2,True,
+1263465,1263465.json,05-01-2022,09-01-2022,male,international,Test,Test,Australia,England,Australia,The Ashes,Sydney Cricket Ground,,draw,,4,2,True,
+1263466,1263466.json,14-01-2022,16-01-2022,male,international,Test,Test,Australia,England,Australia,The Ashes,"Bellerive Oval, Hobart",Australia,,,4,2,True,
+1273725,1273725.json,23-10-2021,23-10-2021,male,international,T20,T20I,West Indies,England,West Indies,ICC Men's T20 World Cup,Dubai International Cricket Stadium,England,,,2,1,True,
+1273731,1273731.json,27-10-2021,27-10-2021,male,international,T20,T20I,Bangladesh,England,Bangladesh,ICC Men's T20 World Cup,"Sheikh Zayed Stadium, Abu Dhabi",England,,,2,1,True,
+1273737,1273737.json,30-10-2021,30-10-2021,male,international,T20,T20I,Australia,England,Australia,ICC Men's T20 World Cup,Dubai International Cricket Stadium,England,,,2,1,True,
+1273740,1273740.json,01-11-2021,01-11-2021,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,ICC Men's T20 World Cup,Sharjah Cricket Stadium,England,,,2,1,True,
+1273750,1273750.json,06-11-2021,06-11-2021,male,international,T20,T20I,South Africa,England,South Africa,ICC Men's T20 World Cup,Sharjah Cricket Stadium,South Africa,,,2,1,True,
+1273754,1273754.json,10-11-2021,10-11-2021,male,international,T20,T20I,England,New Zealand,New Zealand,ICC Men's T20 World Cup,"Sheikh Zayed Stadium, Abu Dhabi",New Zealand,,,2,1,True,
+1276901,1276901.json,02-06-2022,05-06-2022,male,international,Test,Test,New Zealand,England,New Zealand,New Zealand tour of England,Lord's,England,,,4,2,True,
+1276902,1276902.json,10-06-2022,14-06-2022,male,international,Test,Test,New Zealand,England,New Zealand,New Zealand tour of England,Trent Bridge,England,,,4,2,True,
+1276903,1276903.json,23-06-2022,27-06-2022,male,international,Test,Test,New Zealand,England,New Zealand,New Zealand tour of England,Headingley,England,,,4,2,True,
+1276904,1276904.json,07-07-2022,07-07-2022,male,international,T20,T20I,India,England,India,India tour of England,"The Rose Bowl, Southampton",India,,,2,1,True,
+1276905,1276905.json,09-07-2022,09-07-2022,male,international,T20,T20I,India,England,India,India tour of England,Edgbaston,India,,,2,1,True,
+1276906,1276906.json,10-07-2022,10-07-2022,male,international,T20,T20I,England,India,India,India tour of England,Trent Bridge,England,,,2,1,True,
+1276907,1276907.json,12-07-2022,12-07-2022,male,international,ODI,ODI,England,India,India,India tour of England,The Oval,India,,,2,1,True,
+1276908,1276908.json,14-07-2022,14-07-2022,male,international,ODI,ODI,England,India,India,India tour of England,Lord's,England,,,2,1,True,
+1276909,1276909.json,17-07-2022,17-07-2022,male,international,ODI,ODI,England,India,India,India tour of England,Old Trafford,India,,,2,1,True,
+1276910,1276910.json,19-07-2022,19-07-2022,male,international,ODI,ODI,South Africa,England,South Africa,South Africa tour of England,"Riverside Ground, Chester-le-Street",South Africa,,,2,1,True,
+1276911,1276911.json,22-07-2022,22-07-2022,male,international,ODI,ODI,England,South Africa,South Africa,South Africa tour of England,Old Trafford,England,,,2,1,True,
+1276912,1276912.json,24-07-2022,24-07-2022,male,international,ODI,ODI,South Africa,England,South Africa,South Africa tour of England,Headingley,,no result,,1,0,True,
+1276913,1276913.json,27-07-2022,27-07-2022,male,international,T20,T20I,England,South Africa,South Africa,South Africa tour of England,"County Ground, Bristol",England,,,2,1,True,
+1276914,1276914.json,28-07-2022,28-07-2022,male,international,T20,T20I,South Africa,England,South Africa,South Africa tour of England,"Sophia Gardens, Cardiff",South Africa,,,2,1,True,
+1276915,1276915.json,31-07-2022,31-07-2022,male,international,T20,T20I,South Africa,England,South Africa,South Africa tour of England,"The Rose Bowl, Southampton",South Africa,,,2,1,True,
+1276916,1276916.json,17-08-2022,19-08-2022,male,international,Test,Test,England,South Africa,South Africa,South Africa tour of England,Lord's,South Africa,,,3,2,True,
+1276917,1276917.json,25-08-2022,27-08-2022,male,international,Test,Test,South Africa,England,South Africa,South Africa tour of England,Old Trafford,England,,,3,1,True,
+1276918,1276918.json,08-09-2022,12-09-2022,male,international,Test,Test,South Africa,England,South Africa,South Africa tour of England,The Oval,England,,,4,2,True,
+1281444,1281444.json,17-06-2022,17-06-2022,male,international,ODI,ODI,England,Netherlands,Netherlands,England tour of Netherlands,"VRA Ground, Amstelveen",England,,,2,1,True,
+1281445,1281445.json,19-06-2022,19-06-2022,male,international,ODI,ODI,Netherlands,England,Netherlands,England tour of Netherlands,"VRA Ground, Amstelveen",England,,,2,1,True,
+1281446,1281446.json,22-06-2022,22-06-2022,male,international,ODI,ODI,Netherlands,England,Netherlands,England tour of Netherlands,"VRA Ground, Amstelveen",England,,,2,1,True,
+1298154,1298154.json,26-10-2022,26-10-2022,male,international,T20,T20I,Ireland,England,Ireland,ICC Men's T20 World Cup,Melbourne Cricket Ground,Ireland,,D/L,2,1,True,
+1298167,1298167.json,01-11-2022,01-11-2022,male,international,T20,T20I,England,New Zealand,New Zealand,ICC Men's T20 World Cup,Brisbane Cricket Ground,England,,,2,1,True,
+1298173,1298173.json,05-11-2022,05-11-2022,male,international,T20,T20I,Sri Lanka,England,Sri Lanka,ICC Men's T20 World Cup,Sydney Cricket Ground,England,,,2,1,True,
+1298178,1298178.json,10-11-2022,10-11-2022,male,international,T20,T20I,India,England,India,ICC Men's T20 World Cup,Adelaide Oval,England,,,2,1,True,
+1298179,1298179.json,13-11-2022,13-11-2022,male,international,T20,T20I,Pakistan,England,Pakistan,ICC Men's T20 World Cup,Melbourne Cricket Ground,England,,,2,1,True,
+1317486,1317486.json,09-10-2022,09-10-2022,male,international,T20,T20I,England,Australia,Australia,England tour of Australia,Perth Stadium,England,,,2,1,True,
+1317487,1317487.json,12-10-2022,12-10-2022,male,international,T20,T20I,England,Australia,Australia,England tour of Australia,"Manuka Oval, Canberra",England,,,2,1,True,
+1317488,1317488.json,14-10-2022,14-10-2022,male,international,T20,T20I,England,Australia,Australia,England tour of Australia,"Manuka Oval, Canberra",,no result,,2,1,True,
+1317489,1317489.json,17-11-2022,17-11-2022,male,international,ODI,ODI,England,Australia,Australia,England tour of Australia,Adelaide Oval,Australia,,,2,1,True,
+1317490,1317490.json,19-11-2022,19-11-2022,male,international,ODI,ODI,Australia,England,Australia,England tour of Australia,Sydney Cricket Ground,Australia,,,2,1,True,
+1317491,1317491.json,22-11-2022,22-11-2022,male,international,ODI,ODI,Australia,England,Australia,England tour of Australia,Melbourne Cricket Ground,Australia,,D/L,2,1,True,
+1320741,1320741.json,01-07-2022,05-07-2022,male,international,Test,Test,India,England,India,India tour of England,Edgbaston,England,,,4,2,True,
+1322355,1322355.json,16-02-2023,19-02-2023,male,international,Test,Test,England,New Zealand,New Zealand,England tour of New Zealand,"Bay Oval, Mount Maunganui",England,,,4,2,True,
+1322356,1322356.json,24-02-2023,28-02-2023,male,international,Test,Test,England,New Zealand,New Zealand,England tour of New Zealand,"Basin Reserve, Wellington",New Zealand,,,4,2,True,
+1327228,1327228.json,20-09-2022,20-09-2022,male,international,T20,T20I,Pakistan,England,Pakistan,England tour of Pakistan,"National Stadium, Karachi",England,,,2,1,True,
+1327229,1327229.json,22-09-2022,22-09-2022,male,international,T20,T20I,England,Pakistan,Pakistan,England tour of Pakistan,"National Stadium, Karachi",Pakistan,,,2,1,True,
+1327230,1327230.json,23-09-2022,23-09-2022,male,international,T20,T20I,England,Pakistan,Pakistan,England tour of Pakistan,"National Stadium, Karachi",England,,,2,1,True,
+1327231,1327231.json,25-09-2022,25-09-2022,male,international,T20,T20I,Pakistan,England,Pakistan,England tour of Pakistan,"National Stadium, Karachi",Pakistan,,,2,1,True,
+1327232,1327232.json,28-09-2022,28-09-2022,male,international,T20,T20I,Pakistan,England,Pakistan,England tour of Pakistan,"Gaddafi Stadium, Lahore",Pakistan,,,2,1,True,
+1327233,1327233.json,30-09-2022,30-09-2022,male,international,T20,T20I,Pakistan,England,Pakistan,England tour of Pakistan,"Gaddafi Stadium, Lahore",England,,,2,1,True,
+1327234,1327234.json,02-10-2022,02-10-2022,male,international,T20,T20I,England,Pakistan,Pakistan,England tour of Pakistan,"Gaddafi Stadium, Lahore",England,,,2,1,True,
+1330871,1330871.json,01-12-2022,05-12-2022,male,international,Test,Test,England,Pakistan,Pakistan,England tour of Pakistan,Rawalpindi Cricket Stadium,England,,,4,2,True,
+1330872,1330872.json,09-12-2022,12-12-2022,male,international,Test,Test,England,Pakistan,Pakistan,England tour of Pakistan,Multan Cricket Stadium,England,,,4,2,True,
+1330873,1330873.json,17-12-2022,20-12-2022,male,international,Test,Test,Pakistan,England,Pakistan,England tour of Pakistan,"National Bank Cricket Arena, Karachi",England,,,4,2,True,
+1336043,1336043.json,16-06-2023,20-06-2023,male,international,Test,Test,England,Australia,Australia,The Ashes,Edgbaston,Australia,,,4,2,True,
+1336044,1336044.json,28-06-2023,02-07-2023,male,international,Test,Test,Australia,England,Australia,The Ashes,Lord's,Australia,,,4,2,True,
+1336045,1336045.json,06-07-2023,09-07-2023,male,international,Test,Test,Australia,England,Australia,The Ashes,Headingley,England,,,4,2,True,
+1336046,1336046.json,19-07-2023,23-07-2023,male,international,Test,Test,Australia,England,Australia,The Ashes,Old Trafford,,draw,,3,1,True,
+1336047,1336047.json,27-07-2023,31-07-2023,male,international,Test,Test,England,Australia,Australia,The Ashes,The Oval,England,,,4,2,True,
+1336048,1336048.json,30-08-2023,30-08-2023,male,international,T20,T20I,New Zealand,England,New Zealand,New Zealand tour of England,"Riverside Ground, Chester-le-Street",England,,,2,1,True,
+1336049,1336049.json,01-09-2023,01-09-2023,male,international,T20,T20I,England,New Zealand,New Zealand,New Zealand tour of England,Old Trafford,England,,,2,1,True,
+1336050,1336050.json,03-09-2023,03-09-2023,male,international,T20,T20I,New Zealand,England,New Zealand,New Zealand tour of England,Edgbaston,New Zealand,,,2,1,True,
+1336051,1336051.json,05-09-2023,05-09-2023,male,international,T20,T20I,England,New Zealand,New Zealand,New Zealand tour of England,Trent Bridge,New Zealand,,,2,1,True,
+1336052,1336052.json,08-09-2023,08-09-2023,male,international,ODI,ODI,England,New Zealand,New Zealand,New Zealand tour of England,"Sophia Gardens, Cardiff",New Zealand,,,2,1,True,
+1336053,1336053.json,10-09-2023,10-09-2023,male,international,ODI,ODI,England,New Zealand,New Zealand,New Zealand tour of England,"The Rose Bowl, Southampton",England,,,2,1,True,
+1336054,1336054.json,13-09-2023,13-09-2023,male,international,ODI,ODI,England,New Zealand,New Zealand,New Zealand tour of England,The Oval,England,,,2,1,True,
+1336055,1336055.json,15-09-2023,15-09-2023,male,international,ODI,ODI,England,New Zealand,New Zealand,New Zealand tour of England,Lord's,England,,,2,1,True,
+1336127,1336127.json,01-06-2023,03-06-2023,male,international,Test,Test,Ireland,England,Ireland,Ireland tour of England,Lord's,England,,,4,2,True,
+1336129,1336129.json,23-09-2023,23-09-2023,male,international,ODI,ODI,England,Ireland,Ireland,Ireland tour of England,Trent Bridge,England,,,2,1,True,
+1336130,1336130.json,26-09-2023,26-09-2023,male,international,ODI,ODI,England,Ireland,Ireland,Ireland tour of England,"County Ground, Bristol",,no result,,1,1,True,
+1339595,1339595.json,27-01-2023,27-01-2023,male,international,ODI,ODI,South Africa,England,South Africa,England tour of South Africa,"Mangaung Oval, Bloemfontein",South Africa,,,2,1,True,
+1339596,1339596.json,29-01-2023,29-01-2023,male,international,ODI,ODI,England,South Africa,South Africa,England tour of South Africa,"Mangaung Oval, Bloemfontein",South Africa,,,2,1,True,
+1339597,1339597.json,01-02-2023,01-02-2023,male,international,ODI,ODI,England,South Africa,South Africa,England tour of South Africa,"Diamond Oval, Kimberley",England,,,2,1,True,
+1351397,1351397.json,01-03-2023,01-03-2023,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",England,,,2,1,True,
+1351398,1351398.json,03-03-2023,03-03-2023,male,international,ODI,ODI,England,Bangladesh,Bangladesh,England tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",England,,,2,1,True,
+1351399,1351399.json,06-03-2023,06-03-2023,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England tour of Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,,,2,1,True,
+1351400,1351400.json,09-03-2023,09-03-2023,male,international,T20,T20I,England,Bangladesh,Bangladesh,England tour of Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,,,2,1,True,
+1351401,1351401.json,12-03-2023,12-03-2023,male,international,T20,T20I,England,Bangladesh,Bangladesh,England tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Bangladesh,,,2,1,True,
+1351402,1351402.json,14-03-2023,14-03-2023,male,international,T20,T20I,Bangladesh,England,Bangladesh,England tour of Bangladesh,"Shere Bangla National Stadium, Mirpur",Bangladesh,,,2,1,True,
+1373576,1373576.json,03-12-2023,03-12-2023,male,international,ODI,ODI,England,West Indies,West Indies,England tour of West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,,,2,1,True,
+1373577,1373577.json,06-12-2023,06-12-2023,male,international,ODI,ODI,West Indies,England,West Indies,England tour of West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",England,,,2,1,True,
+1373578,1373578.json,09-12-2023,09-12-2023,male,international,ODI,ODI,England,West Indies,West Indies,England tour of West Indies,Kensington Oval,West Indies,,D/L,2,1,True,
+1373579,1373579.json,12-12-2023,12-12-2023,male,international,T20,T20I,England,West Indies,West Indies,England tour of West Indies,Kensington Oval,West Indies,,,2,1,True,
+1373580,1373580.json,14-12-2023,14-12-2023,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,"National Cricket Stadium, St George's, Grenada",West Indies,,,2,1,True,
+1373581,1373581.json,16-12-2023,16-12-2023,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,"National Cricket Stadium, St George's, Grenada",England,,,2,1,True,
+1373582,1373582.json,19-12-2023,19-12-2023,male,international,T20,T20I,England,West Indies,West Indies,England tour of West Indies,"Brian Lara Stadium, Tarouba, Trinidad",England,,,2,1,True,
+1373583,1373583.json,21-12-2023,21-12-2023,male,international,T20,T20I,England,West Indies,West Indies,England tour of West Indies,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,,,2,1,True,
+1384392,1384392.json,05-10-2023,05-10-2023,male,international,ODI,ODI,England,New Zealand,New Zealand,ICC Cricket World Cup,"Narendra Modi Stadium, Ahmedabad",New Zealand,,,2,1,True,
+1384398,1384398.json,10-10-2023,10-10-2023,male,international,ODI,ODI,England,Bangladesh,Bangladesh,ICC Cricket World Cup,"Himachal Pradesh Cricket Association Stadium, Dharamsala",England,,,2,1,True,
+1384411,1384411.json,21-10-2023,21-10-2023,male,international,ODI,ODI,South Africa,England,South Africa,ICC Cricket World Cup,"Wankhede Stadium, Mumbai",South Africa,,,2,1,True,
+1384416,1384416.json,26-10-2023,26-10-2023,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,ICC Cricket World Cup,"M Chinnaswamy Stadium, Bengaluru",Sri Lanka,,,2,1,True,
+1384420,1384420.json,29-10-2023,29-10-2023,male,international,ODI,ODI,India,England,India,ICC Cricket World Cup,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,,,2,1,True,
+1384427,1384427.json,04-11-2023,04-11-2023,male,international,ODI,ODI,Australia,England,Australia,ICC Cricket World Cup,"Narendra Modi Stadium, Ahmedabad",Australia,,,2,1,True,
+1384431,1384431.json,08-11-2023,08-11-2023,male,international,ODI,ODI,England,Netherlands,Netherlands,ICC Cricket World Cup,"Maharashtra Cricket Association Stadium, Pune",England,,,2,1,True,
+1384435,1384435.json,11-11-2023,11-11-2023,male,international,ODI,ODI,England,Pakistan,Pakistan,ICC Cricket World Cup,"Eden Gardens, Kolkata",England,,,2,1,True,
+1385688,1385688.json,25-05-2024,25-05-2024,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan tour of England,Edgbaston,England,,,2,1,True,
+1385690,1385690.json,30-05-2024,30-05-2024,male,international,T20,T20I,Pakistan,England,Pakistan,Pakistan tour of England,The Oval,England,,,2,1,True,
+1385691,1385691.json,10-07-2024,12-07-2024,male,international,Test,Test,West Indies,England,West Indies,West Indies tour of England,Lord's,England,,,3,1,True,
+1385692,1385692.json,18-07-2024,21-07-2024,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England,Trent Bridge,England,,,4,2,True,
+1385693,1385693.json,26-07-2024,28-07-2024,male,international,Test,Test,West Indies,England,West Indies,West Indies tour of England,Edgbaston,England,,,4,2,True,
+1385694,1385694.json,21-08-2024,24-08-2024,male,international,Test,Test,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,Old Trafford,England,,,4,2,True,
+1385695,1385695.json,29-08-2024,01-09-2024,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka tour of England,Lord's,England,,,4,2,True,
+1385696,1385696.json,06-09-2024,09-09-2024,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka tour of England,The Oval,Sri Lanka,,,4,2,True,
+1385697,1385697.json,11-09-2024,11-09-2024,male,international,T20,T20I,Australia,England,Australia,Australia tour of England,"The Rose Bowl, Southampton",Australia,,,2,1,True,
+1385698,1385698.json,13-09-2024,13-09-2024,male,international,T20,T20I,Australia,England,Australia,Australia tour of England,"Sophia Gardens, Cardiff",England,,,2,1,True,
+1385700,1385700.json,19-09-2024,19-09-2024,male,international,ODI,ODI,England,Australia,Australia,Australia tour of England,Trent Bridge,Australia,,,2,1,True,
+1385701,1385701.json,21-09-2024,21-09-2024,male,international,ODI,ODI,Australia,England,Australia,Australia tour of England,Headingley,Australia,,,2,1,True,
+1385702,1385702.json,24-09-2024,24-09-2024,male,international,ODI,ODI,Australia,England,Australia,Australia tour of England,"Riverside Ground, Chester-le-Street",England,,D/L,2,1,True,
+1385703,1385703.json,27-09-2024,27-09-2024,male,international,ODI,ODI,England,Australia,Australia,Australia tour of England,Lord's,England,,,2,1,True,
+1385704,1385704.json,29-09-2024,29-09-2024,male,international,ODI,ODI,England,Australia,Australia,Australia tour of England,"County Ground, Bristol",Australia,,D/L,2,1,True,
+1389399,1389399.json,25-01-2024,28-01-2024,male,international,Test,Test,England,India,India,England tour of India,"Rajiv Gandhi International Stadium, Uppal",England,,,4,2,True,
+1389400,1389400.json,02-02-2024,05-02-2024,male,international,Test,Test,India,England,India,England tour of India,"Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium, Visakhapatnam",India,,,4,2,True,
+1389401,1389401.json,15-02-2024,18-02-2024,male,international,Test,Test,India,England,India,England tour of India,"Niranjan Shah Stadium, Rajkot",India,,,4,2,True,
+1389402,1389402.json,23-02-2024,26-02-2024,male,international,Test,Test,England,India,India,England tour of India,"JSCA International Stadium Complex, Ranchi",India,,,4,2,True,
+1389403,1389403.json,07-03-2024,09-03-2024,male,international,Test,Test,England,India,India,England tour of India,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,,,3,2,True,
+1392691,1392691.json,22-05-2025,24-05-2025,male,international,Test,Test,England,Zimbabwe,Zimbabwe,Zimbabwe tour of England,Trent Bridge,England,,,3,1,True,
+1415706,1415706.json,04-06-2024,04-06-2024,male,international,T20,T20I,Scotland,England,Scotland,ICC Men's T20 World Cup,Kensington Oval,,no result,,1,0,True,
+1415717,1415717.json,08-06-2024,08-06-2024,male,international,T20,T20I,Australia,England,Australia,ICC Men's T20 World Cup,Kensington Oval,Australia,,,2,1,True,
+1415728,1415728.json,13-06-2024,13-06-2024,male,international,T20,T20I,Oman,England,Oman,ICC Men's T20 World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",England,,,2,1,True,
+1415734,1415734.json,15-06-2024,15-06-2024,male,international,T20,T20I,England,Namibia,Namibia,ICC Men's T20 World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",England,,D/L,2,1,True,
+1415742,1415742.json,19-06-2024,19-06-2024,male,international,T20,T20I,West Indies,England,West Indies,ICC Men's T20 World Cup,"Darren Sammy National Cricket Stadium, Gros Islet, St Lucia",England,,,2,1,True,
+1415745,1415745.json,21-06-2024,21-06-2024,male,international,T20,T20I,South Africa,England,South Africa,ICC Men's T20 World Cup,"Darren Sammy National Cricket Stadium, Gros Islet, St Lucia",South Africa,,,2,1,True,
+1415749,1415749.json,23-06-2024,23-06-2024,male,international,T20,T20I,United States of America,England,United States of America,ICC Men's T20 World Cup,Kensington Oval,England,,,2,1,True,
+1415754,1415754.json,27-06-2024,27-06-2024,male,international,T20,T20I,India,England,India,ICC Men's T20 World Cup,"Providence Stadium, Guyana",India,,,2,1,True,
+1428554,1428554.json,28-11-2024,01-12-2024,male,international,Test,Test,New Zealand,England,New Zealand,England tour of New Zealand,"Hagley Oval, Christchurch",England,,,4,2,True,
+1428555,1428555.json,06-12-2024,08-12-2024,male,international,Test,Test,England,New Zealand,New Zealand,England tour of New Zealand,"Basin Reserve, Wellington",England,,,4,2,True,
+1428556,1428556.json,14-12-2024,17-12-2024,male,international,Test,Test,New Zealand,England,New Zealand,England tour of New Zealand,"Seddon Park, Hamilton",New Zealand,,,4,2,True,
+1433370,1433370.json,31-10-2024,31-10-2024,male,international,ODI,ODI,England,West Indies,West Indies,England tour of West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,,D/L,2,1,True,
+1433371,1433371.json,02-11-2024,02-11-2024,male,international,ODI,ODI,West Indies,England,West Indies,England tour of West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",England,,,2,1,True,
+1433372,1433372.json,06-11-2024,06-11-2024,male,international,ODI,ODI,England,West Indies,West Indies,England tour of West Indies,Kensington Oval,West Indies,,,2,1,True,
+1433373,1433373.json,09-11-2024,09-11-2024,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,Kensington Oval,England,,,2,1,True,
+1433374,1433374.json,10-11-2024,10-11-2024,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,Kensington Oval,England,,,2,1,True,
+1433375,1433375.json,14-11-2024,14-11-2024,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,"Darren Sammy National Cricket Stadium, Gros Islet, St Lucia",England,,,2,1,True,
+1433376,1433376.json,16-11-2024,16-11-2024,male,international,T20,T20I,England,West Indies,West Indies,England tour of West Indies,"Darren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,,,2,1,True,
+1433377,1433377.json,17-11-2024,17-11-2024,male,international,T20,T20I,West Indies,England,West Indies,England tour of West Indies,"Darren Sammy National Cricket Stadium, Gros Islet, St Lucia",,no result,,1,0,True,
+1439899,1439899.json,22-01-2025,22-01-2025,male,international,T20,T20I,England,India,India,England tour of India,"Eden Gardens, Kolkata",India,,,2,1,True,
+1439900,1439900.json,25-01-2025,25-01-2025,male,international,T20,T20I,England,India,India,England tour of India,MA Chidambaram Stadium,India,,,2,1,True,
+1439901,1439901.json,28-01-2025,28-01-2025,male,international,T20,T20I,England,India,India,England tour of India,"Niranjan Shah Stadium, Rajkot",England,,,2,1,True,
+1439902,1439902.json,31-01-2025,31-01-2025,male,international,T20,T20I,India,England,India,England tour of India,"Maharashtra Cricket Association Stadium, Pune",India,,,2,1,True,
+1439903,1439903.json,02-02-2025,02-02-2025,male,international,T20,T20I,India,England,India,England tour of India,"Wankhede Stadium, Mumbai",India,,,2,1,True,
+1439904,1439904.json,06-02-2025,06-02-2025,male,international,ODI,ODI,England,India,India,England tour of India,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",India,,,2,1,True,
+1439905,1439905.json,09-02-2025,09-02-2025,male,international,ODI,ODI,England,India,India,England tour of India,"Barabati Stadium, Cuttack",India,,,2,1,True,
+1439906,1439906.json,12-02-2025,12-02-2025,male,international,ODI,ODI,India,England,India,England tour of India,"Narendra Modi Stadium, Ahmedabad",India,,,2,1,True,
+1442215,1442215.json,07-10-2024,11-10-2024,male,international,Test,Test,Pakistan,England,Pakistan,England tour of Pakistan,Multan Cricket Stadium,England,,,3,1,True,
+1442216,1442216.json,15-10-2024,19-10-2024,male,international,Test,Test,Pakistan,England,Pakistan,England tour of Pakistan,Multan Cricket Stadium,Pakistan,,,4,2,True,
+1442217,1442217.json,24-10-2024,26-10-2024,male,international,Test,Test,England,Pakistan,Pakistan,England tour of Pakistan,Rawalpindi Cricket Stadium,Pakistan,,,4,2,True,
+1448343,1448343.json,29-05-2025,29-05-2025,male,international,ODI,ODI,England,West Indies,West Indies,West Indies tour of England,Edgbaston,England,,,2,1,True,
+1448344,1448344.json,01-06-2025,01-06-2025,male,international,ODI,ODI,West Indies,England,West Indies,West Indies tour of England,"Sophia Gardens, Cardiff",England,,,2,1,True,
+1448345,1448345.json,03-06-2025,03-06-2025,male,international,ODI,ODI,West Indies,England,West Indies,West Indies tour of England,The Oval,England,,D/L,2,1,True,
+1448346,1448346.json,06-06-2025,06-06-2025,male,international,T20,T20I,England,West Indies,West Indies,West Indies tour of England,"Riverside Ground, Chester-le-Street",England,,,2,1,True,
+1448347,1448347.json,08-06-2025,08-06-2025,male,international,T20,T20I,West Indies,England,West Indies,West Indies tour of England,"County Ground, Bristol",England,,,2,1,True,
+1448348,1448348.json,10-06-2025,10-06-2025,male,international,T20,T20I,England,West Indies,West Indies,West Indies tour of England,"The Rose Bowl, Southampton",England,,,2,1,True,
+1448349,1448349.json,20-06-2025,24-06-2025,male,international,Test,Test,India,England,India,India tour of England,Headingley,England,,,4,2,True,
+1448350,1448350.json,02-07-2025,06-07-2025,male,international,Test,Test,India,England,India,India tour of England,Edgbaston,India,,,4,2,True,
+1448351,1448351.json,10-07-2025,14-07-2025,male,international,Test,Test,England,India,India,India tour of England,Lord's,England,,,4,2,True,
+1448352,1448352.json,23-07-2025,27-07-2025,male,international,Test,Test,India,England,India,India tour of England,Old Trafford,,draw,,3,1,True,
+1448353,1448353.json,31-07-2025,04-08-2025,male,international,Test,Test,India,England,India,India tour of England,The Oval,India,,,4,2,True,
+1448354,1448354.json,02-09-2025,02-09-2025,male,international,ODI,ODI,England,South Africa,South Africa,South Africa tour of England,Headingley,South Africa,,,2,1,True,
+1448355,1448355.json,04-09-2025,04-09-2025,male,international,ODI,ODI,South Africa,England,South Africa,South Africa tour of England,Lord's,South Africa,,,2,1,True,
+1448356,1448356.json,07-09-2025,07-09-2025,male,international,ODI,ODI,England,South Africa,South Africa,South Africa tour of England,"The Rose Bowl, Southampton",England,,,2,1,True,
+1448357,1448357.json,10-09-2025,10-09-2025,male,international,T20,T20I,South Africa,England,South Africa,South Africa tour of England,"Sophia Gardens, Cardiff",South Africa,,D/L,2,1,True,
+1448358,1448358.json,12-09-2025,12-09-2025,male,international,T20,T20I,England,South Africa,South Africa,South Africa tour of England,Old Trafford,England,,,2,1,True,
+1448360,1448360.json,17-09-2025,17-09-2025,male,international,T20,T20I,Ireland,England,Ireland,England tour of Ireland,"Malahide Cricket Ground, Dublin",England,,,2,1,True,
+1448362,1448362.json,21-09-2025,21-09-2025,male,international,T20,T20I,Ireland,England,Ireland,England tour of Ireland,"Malahide Cricket Ground, Dublin",England,,,2,1,True,
+1455611,1455611.json,21-11-2025,22-11-2025,male,international,Test,Test,England,Australia,Australia,The Ashes,Perth Stadium,Australia,,,4,2,True,
+1455612,1455612.json,04-12-2025,07-12-2025,male,international,Test,Test,England,Australia,Australia,The Ashes,Brisbane Cricket Ground,Australia,,,4,2,True,
+1455613,1455613.json,17-12-2025,21-12-2025,male,international,Test,Test,Australia,England,Australia,The Ashes,Adelaide Oval,Australia,,,4,2,True,
+1455614,1455614.json,26-12-2025,27-12-2025,male,international,Test,Test,Australia,England,Australia,The Ashes,Melbourne Cricket Ground,England,,,4,2,True,
+1455615,1455615.json,04-01-2026,08-01-2026,male,international,Test,Test,England,Australia,Australia,The Ashes,Sydney Cricket Ground,Australia,,,4,2,True,
+1466417,1466417.json,22-02-2025,22-02-2025,male,international,ODI,ODI,England,Australia,Australia,ICC Champions Trophy,"Gaddafi Stadium, Lahore",Australia,,,2,1,True,
+1466424,1466424.json,01-03-2025,01-03-2025,male,international,ODI,ODI,England,South Africa,South Africa,ICC Champions Trophy,"National Bank Cricket Arena, Karachi",South Africa,,,2,1,True,
+1491717,1491717.json,18-10-2025,18-10-2025,male,international,T20,T20I,England,New Zealand,New Zealand,England tour of New Zealand,"Hagley Oval, Christchurch",,no result,,1,1,True,
+1491718,1491718.json,20-10-2025,20-10-2025,male,international,T20,T20I,England,New Zealand,New Zealand,England tour of New Zealand,"Hagley Oval, Christchurch",England,,,2,1,True,
+1491719,1491719.json,23-10-2025,23-10-2025,male,international,T20,T20I,New Zealand,England,New Zealand,England tour of New Zealand,"Eden Park, Auckland",,no result,,1,0,True,
+1491720,1491720.json,26-10-2025,26-10-2025,male,international,ODI,ODI,England,New Zealand,New Zealand,England tour of New Zealand,"Bay Oval, Mount Maunganui",New Zealand,,,2,1,True,
+1491721,1491721.json,29-10-2025,29-10-2025,male,international,ODI,ODI,England,New Zealand,New Zealand,England tour of New Zealand,"Seddon Park, Hamilton",New Zealand,,,2,1,True,
+1491722,1491722.json,01-11-2025,01-11-2025,male,international,ODI,ODI,England,New Zealand,New Zealand,England tour of New Zealand,"Sky Stadium, Wellington",New Zealand,,,2,1,True,
+1496571,1496571.json,04-06-2026,07-06-2026,male,international,Test,Test,England,New Zealand,New Zealand,New Zealand tour of England,Lord's,England,,,4,2,True,
+1496572,1496572.json,17-06-2026,21-06-2026,male,international,Test,Test,New Zealand,England,New Zealand,New Zealand tour of England,The Oval,New Zealand,,,4,2,True,
+1496573,1496573.json,25-06-2026,29-06-2026,male,international,Test,Test,New Zealand,England,New Zealand,New Zealand tour of England,Trent Bridge,New Zealand,,,4,2,True,
+1496574,1496574.json,01-07-2026,01-07-2026,male,international,T20,T20I,India,England,India,India tour of England,"Riverside Ground, Chester-le-Street",,no result,,1,0,True,
+1496575,1496575.json,04-07-2026,04-07-2026,male,international,T20,T20I,India,England,India,India tour of England,Old Trafford,England,,,2,1,True,
+1496576,1496576.json,07-07-2026,07-07-2026,male,international,T20,T20I,England,India,India,India tour of England,Trent Bridge,England,,,2,1,True,
+1496577,1496577.json,09-07-2026,09-07-2026,male,international,T20,T20I,India,England,India,India tour of England,"County Ground, Bristol",England,,,2,1,True,
+1496578,1496578.json,11-07-2026,11-07-2026,male,international,T20,T20I,England,India,India,India tour of England,"The Rose Bowl, Southampton",England,,,2,1,True,
+1496579,1496579.json,14-07-2026,14-07-2026,male,international,ODI,ODI,England,India,India,India tour of England,Edgbaston,India,,,2,1,True,
+1496580,1496580.json,16-07-2026,16-07-2026,male,international,ODI,ODI,India,England,India,India tour of England,"Sophia Gardens, Cardiff",England,,,2,1,True,
+1496581,1496581.json,19-07-2026,19-07-2026,male,international,ODI,ODI,England,India,India,India tour of England,Lord's,England,,,2,1,True,
+1496582,1496582.json,19-08-2026,21-08-2026,male,international,Test,Test,Pakistan,England,Pakistan,Pakistan tour of England,Headingley,England,,,3,1,True,
+1496583,1496583.json,27-08-2026,30-08-2026,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan tour of England,Lord's,England,,,4,2,True,
+1496584,1496584.json,09-09-2026,12-09-2026,male,international,Test,Test,Pakistan,England,Pakistan,Pakistan tour of England,Edgbaston,England,,,4,2,True,
+1496585,1496585.json,15-09-2026,15-09-2026,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,Sri Lanka tour of England,"The Rose Bowl, Southampton",England,,,2,1,True,
+1496586,1496586.json,17-09-2026,17-09-2026,male,international,T20,T20I,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,"Sophia Gardens, Cardiff",England,,,2,1,True,
+1496587,1496587.json,19-09-2026,19-09-2026,male,international,T20,T20I,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,Old Trafford,England,,,2,1,True,
+1496588,1496588.json,22-09-2026,22-09-2026,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka tour of England,"Riverside Ground, Chester-le-Street",England,,,2,1,True,
+1496589,1496589.json,24-09-2026,24-09-2026,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,Headingley,Sri Lanka,,,2,1,True,
+1496590,1496590.json,27-09-2026,27-09-2026,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka tour of England,The Oval,England,,,2,1,True,
+1507716,1507716.json,22-01-2026,22-01-2026,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,"R Premadasa Stadium, Colombo",Sri Lanka,,,2,1,True,
+1507717,1507717.json,24-01-2026,24-01-2026,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,"R Premadasa Stadium, Colombo",England,,,2,1,True,
+1507718,1507718.json,27-01-2026,27-01-2026,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,"R Premadasa Stadium, Colombo",England,,,2,1,True,
+1507719,1507719.json,30-01-2026,30-01-2026,male,international,T20,T20I,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,Pallekele International Cricket Stadium,England,,D/L,2,1,True,
+1507720,1507720.json,01-02-2026,01-02-2026,male,international,T20,T20I,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,Pallekele International Cricket Stadium,England,,D/L,2,1,True,
+1507721,1507721.json,03-02-2026,03-02-2026,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,Pallekele International Cricket Stadium,England,,,2,1,True,
+1512723,1512723.json,08-02-2026,08-02-2026,male,international,T20,T20I,England,Nepal,Nepal,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",England,,,2,1,True,
+1512733,1512733.json,11-02-2026,11-02-2026,male,international,T20,T20I,West Indies,England,West Indies,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",West Indies,,,2,1,True,
+1512741,1512741.json,14-02-2026,14-02-2026,male,international,T20,T20I,Scotland,England,Scotland,ICC Men's T20 World Cup,"Eden Gardens, Kolkata",England,,,2,1,True,
+1512747,1512747.json,16-02-2026,16-02-2026,male,international,T20,T20I,England,Italy,Italy,ICC Men's T20 World Cup,"Eden Gardens, Kolkata",England,,,2,1,True,
+1512760,1512760.json,22-02-2026,22-02-2026,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,ICC Men's T20 World Cup,Pallekele International Cricket Stadium,England,,,2,1,True,
+1512763,1512763.json,24-02-2026,24-02-2026,male,international,T20,T20I,Pakistan,England,Pakistan,ICC Men's T20 World Cup,Pallekele International Cricket Stadium,England,,,2,1,True,
+1512767,1512767.json,27-02-2026,27-02-2026,male,international,T20,T20I,New Zealand,England,New Zealand,ICC Men's T20 World Cup,"R Premadasa Stadium, Colombo",England,,,2,1,True,
+1512772,1512772.json,05-03-2026,05-03-2026,male,international,T20,T20I,India,England,India,ICC Men's T20 World Cup,"Wankhede Stadium, Mumbai",India,,,2,1,True,
+1550714,1550714.json,20-10-2026,20-10-2026,male,international,ODI,ODI,Pakistan,England,Pakistan,Pakistan ODI Tri-Series,Rawalpindi Cricket Stadium,Pakistan,,,2,1,True,
+1550715,1550715.json,22-10-2026,22-10-2026,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Pakistan ODI Tri-Series,Rawalpindi Cricket Stadium,Sri Lanka,,,2,1,True,
+1550716,1550716.json,25-10-2026,25-10-2026,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan ODI Tri-Series,"Gaddafi Stadium, Lahore",Pakistan,,,2,1,True,
+1550718,1550718.json,29-10-2026,29-10-2026,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Pakistan ODI Tri-Series,"Gaddafi Stadium, Lahore",England,,,2,1,True,
+210366,210366.json,03-06-2005,05-06-2005,male,international,Test,Test,Bangladesh,England,Bangladesh,Bangladesh tour of England,"Riverside Ground, Chester-le-Street",England,,,3,1,False,before_window
+211028,211028.json,13-06-2005,13-06-2005,male,international,T20,T20I,England,Australia,Australia,,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+211244,211244.json,16-06-2005,16-06-2005,male,international,ODI,ODI,Bangladesh,England,Bangladesh,NatWest Challenge,The Oval,England,,,2,1,False,before_window
+211678,211678.json,23-06-2005,23-06-2005,male,international,ODI,ODI,Australia,England,Australia,NatWest Challenge,"Riverside Ground, Chester-le-Street",Australia,,,2,1,False,before_window
+211860,211860.json,26-06-2005,26-06-2005,male,international,ODI,ODI,Bangladesh,England,Bangladesh,NatWest Challenge,Headingley,England,,,2,1,False,before_window
+212020,212020.json,28-06-2005,28-06-2005,male,international,ODI,ODI,Australia,England,Australia,NatWest Challenge,Edgbaston,,no result,,2,1,False,before_window
+212452,212452.json,02-07-2005,02-07-2005,male,international,ODI,ODI,Australia,England,Australia,NatWest Challenge,Lord's,,tie,,2,1,False,before_window
+213288,213288.json,12-07-2005,12-07-2005,male,international,ODI,ODI,England,Australia,Australia,Australia tour of England and Scotland,The Oval,Australia,,,2,1,False,before_window
+213856,213856.json,21-07-2005,24-07-2005,male,international,Test,Test,Australia,England,Australia,Australia tour of England and Scotland,Lord's,Australia,,,4,2,False,before_window
+215010,215010.json,04-08-2005,07-08-2005,male,international,Test,Test,England,Australia,Australia,Australia tour of England and Scotland,Edgbaston,England,,,4,2,False,before_window
+216994,216994.json,25-08-2005,28-08-2005,male,international,Test,Test,England,Australia,Australia,Australia tour of England and Scotland,Trent Bridge,England,,,4,2,False,before_window
+218383,218383.json,08-09-2005,12-09-2005,male,international,Test,Test,England,Australia,Australia,Australia tour of England and Scotland,The Oval,,draw,,4,2,False,before_window
+225171,225171.json,13-06-2006,13-06-2006,male,international,ODI,ODI,Ireland,England,Ireland,,"Civil Service Cricket Club, Stormont, Belfast",England,,,2,1,False,before_window
+225245,225245.json,30-08-2006,30-08-2006,male,international,ODI,ODI,England,Pakistan,Pakistan,NatWest Series,"Sophia Gardens, Cardiff",,no result,,2,1,False,before_window
+225246,225246.json,02-09-2006,02-09-2006,male,international,ODI,ODI,England,Pakistan,Pakistan,NatWest Series,Lord's,Pakistan,,D/L,2,1,False,before_window
+225247,225247.json,05-09-2006,05-09-2006,male,international,ODI,ODI,England,Pakistan,Pakistan,NatWest Series,"The Rose Bowl, Southampton",Pakistan,,,2,1,False,before_window
+225248,225248.json,08-09-2006,08-09-2006,male,international,ODI,ODI,England,Pakistan,Pakistan,NatWest Series,Trent Bridge,England,,,2,1,False,before_window
+225249,225249.json,10-09-2006,10-09-2006,male,international,ODI,ODI,England,Pakistan,Pakistan,NatWest Series,Edgbaston,England,,,2,1,False,before_window
+225250,225250.json,17-06-2006,17-06-2006,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,Lord's,Sri Lanka,,,2,1,False,before_window
+225251,225251.json,20-06-2006,20-06-2006,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,The Oval,Sri Lanka,,,2,1,False,before_window
+225252,225252.json,24-06-2006,24-06-2006,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,"Riverside Ground, Chester-le-Street",Sri Lanka,,,2,1,False,before_window
+225253,225253.json,28-06-2006,28-06-2006,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,Old Trafford,Sri Lanka,,,2,1,False,before_window
+225254,225254.json,01-07-2006,01-07-2006,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,Headingley,Sri Lanka,,,2,1,False,before_window
+225255,225255.json,13-07-2006,17-07-2006,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan tour of England and Scotland,Lord's,,draw,,4,2,False,before_window
+225256,225256.json,27-07-2006,29-07-2006,male,international,Test,Test,Pakistan,England,Pakistan,Pakistan tour of England and Scotland,Old Trafford,England,,,3,1,False,before_window
+225257,225257.json,04-08-2006,08-08-2006,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan tour of England and Scotland,Headingley,England,,,4,2,False,before_window
+225258,225258.json,17-08-2006,21-08-2006,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan tour of England and Scotland,The Oval,England,,Awarded,3,2,False,before_window
+225263,225263.json,28-08-2006,28-08-2006,male,international,T20,T20I,England,Pakistan,Pakistan,,"County Ground, Bristol",Pakistan,,,2,1,False,before_window
+225264,225264.json,11-05-2006,15-05-2006,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka tour of England,Lord's,,draw,,3,1,False,before_window
+225265,225265.json,25-05-2006,28-05-2006,male,international,Test,Test,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,Edgbaston,England,,,4,2,False,before_window
+225266,225266.json,02-06-2006,05-06-2006,male,international,Test,Test,Sri Lanka,England,Sri Lanka,Sri Lanka tour of England,Trent Bridge,Sri Lanka,,,4,2,False,before_window
+225271,225271.json,15-06-2006,15-06-2006,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,,"The Rose Bowl, Southampton",Sri Lanka,,,2,1,False,before_window
+225443,225443.json,12-11-2005,16-11-2005,male,international,Test,Test,Pakistan,England,Pakistan,England tour of Pakistan,Multan Cricket Stadium,Pakistan,,,4,2,False,before_window
+226350,226350.json,20-11-2005,24-11-2005,male,international,Test,Test,Pakistan,England,Pakistan,England tour of Pakistan,"Iqbal Stadium, Faisalabad",,draw,,4,2,False,before_window
+226352,226352.json,10-12-2005,10-12-2005,male,international,ODI,ODI,England,Pakistan,Pakistan,England tour of Pakistan,"Gaddafi Stadium, Lahore",England,,,2,1,False,before_window
+226354,226354.json,15-12-2005,15-12-2005,male,international,ODI,ODI,Pakistan,England,Pakistan,England tour of Pakistan,"National Stadium, Karachi",Pakistan,,,2,1,False,before_window
+226356,226356.json,21-12-2005,21-12-2005,male,international,ODI,ODI,England,Pakistan,Pakistan,England tour of Pakistan,Rawalpindi Cricket Stadium,England,,,2,1,False,before_window
+238186,238186.json,09-03-2006,13-03-2006,male,international,Test,Test,England,India,India,England tour of India,"Punjab Cricket Association Stadium, Mohali, Chandigarh",India,,,4,2,False,before_window
+238188,238188.json,28-03-2006,28-03-2006,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Feroz Shah Kotla, Delhi",India,,,2,1,False,before_window
+238189,238189.json,31-03-2006,31-03-2006,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Nahar Singh Stadium, Faridabad",India,,,2,1,False,before_window
+238190,238190.json,03-04-2006,03-04-2006,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Nehru Stadium, Fatorda, Margao",India,,,2,1,False,before_window
+238193,238193.json,12-04-2006,12-04-2006,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Keenan Stadium, Jamshedpur",England,,,2,1,False,before_window
+238194,238194.json,15-04-2006,15-04-2006,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Maharani Usharaje Trust Cricket Ground, Indore",India,,,2,1,False,before_window
+239025,239025.json,01-03-2006,05-03-2006,male,international,Test,Test,England,India,India,England tour of India,"Vidarbha Cricket Association Ground, Nagpur",,draw,,4,2,False,before_window
+247463,247463.json,16-03-2007,16-03-2007,male,international,ODI,ODI,England,New Zealand,New Zealand,ICC World Cup,"Beausejour Stadium, Gros Islet, St Lucia",New Zealand,,,2,1,False,before_window
+247467,247467.json,18-03-2007,18-03-2007,male,international,ODI,ODI,Canada,England,Canada,ICC World Cup,"Beausejour Stadium, Gros Islet, St Lucia",England,,,2,1,False,before_window
+247479,247479.json,24-03-2007,24-03-2007,male,international,ODI,ODI,England,Kenya,Kenya,ICC World Cup,"Beausejour Stadium, Gros Islet, St Lucia",England,,,2,1,False,before_window
+247484,247484.json,30-03-2007,30-03-2007,male,international,ODI,ODI,England,Ireland,Ireland,ICC World Cup,"Providence Stadium, Guyana",England,,,2,1,False,before_window
+247489,247489.json,04-04-2007,04-04-2007,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,ICC World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",Sri Lanka,,,2,1,False,before_window
+247491,247491.json,08-04-2007,08-04-2007,male,international,ODI,ODI,Australia,England,Australia,ICC World Cup,"Sir Vivian Richards Stadium, North Sound, Antigua",Australia,,,2,1,False,before_window
+247494,247494.json,11-04-2007,11-04-2007,male,international,ODI,ODI,Bangladesh,England,Bangladesh,ICC World Cup,Kensington Oval,England,,,2,1,False,before_window
+247500,247500.json,17-04-2007,17-04-2007,male,international,ODI,ODI,England,South Africa,South Africa,ICC World Cup,Kensington Oval,South Africa,,,2,1,False,before_window
+247504,247504.json,21-04-2007,21-04-2007,male,international,ODI,ODI,West Indies,England,West Indies,ICC World Cup,Kensington Oval,England,,,2,1,False,before_window
+249222,249222.json,23-11-2006,27-11-2006,male,international,Test,Test,Australia,England,Australia,England tour of Australia,Brisbane Cricket Ground,Australia,,,4,2,False,before_window
+249223,249223.json,01-12-2006,05-12-2006,male,international,Test,Test,England,Australia,Australia,England tour of Australia,Adelaide Oval,Australia,,,4,2,False,before_window
+249224,249224.json,14-12-2006,18-12-2006,male,international,Test,Test,Australia,England,Australia,England tour of Australia,"WACA, Perth",Australia,,,4,2,False,before_window
+249225,249225.json,26-12-2006,28-12-2006,male,international,Test,Test,England,Australia,Australia,England tour of Australia,Melbourne Cricket Ground,Australia,,,3,2,False,before_window
+249226,249226.json,02-01-2007,05-01-2007,male,international,Test,Test,England,Australia,Australia,England tour of Australia,Sydney Cricket Ground,Australia,,,4,2,False,before_window
+249227,249227.json,09-01-2007,09-01-2007,male,international,T20,T20I,Australia,England,Australia,,Sydney Cricket Ground,Australia,,,2,1,False,before_window
+249232,249232.json,12-01-2007,12-01-2007,male,international,ODI,ODI,Australia,England,Australia,Commonwealth Bank Series,Melbourne Cricket Ground,Australia,,,2,1,False,before_window
+249233,249233.json,19-01-2007,19-01-2007,male,international,ODI,ODI,Australia,England,Australia,Commonwealth Bank Series,Brisbane Cricket Ground,Australia,,,2,1,False,before_window
+249234,249234.json,26-01-2007,26-01-2007,male,international,ODI,ODI,Australia,England,Australia,Commonwealth Bank Series,Adelaide Oval,Australia,,,2,1,False,before_window
+249235,249235.json,02-02-2007,02-02-2007,male,international,ODI,ODI,Australia,England,Australia,Commonwealth Bank Series,Sydney Cricket Ground,England,,,2,1,False,before_window
+249236,249236.json,16-01-2007,16-01-2007,male,international,ODI,ODI,England,New Zealand,New Zealand,Commonwealth Bank Series,"Bellerive Oval, Hobart",England,,,2,1,False,before_window
+249237,249237.json,23-01-2007,23-01-2007,male,international,ODI,ODI,England,New Zealand,New Zealand,Commonwealth Bank Series,Adelaide Oval,New Zealand,,,2,1,False,before_window
+249238,249238.json,30-01-2007,30-01-2007,male,international,ODI,ODI,England,New Zealand,New Zealand,Commonwealth Bank Series,"WACA, Perth",New Zealand,,,2,1,False,before_window
+249239,249239.json,06-02-2007,06-02-2007,male,international,ODI,ODI,England,New Zealand,New Zealand,Commonwealth Bank Series,Brisbane Cricket Ground,England,,,2,1,False,before_window
+249240,249240.json,09-02-2007,09-02-2007,male,international,ODI,ODI,Australia,England,Australia,Commonwealth Bank Series,Melbourne Cricket Ground,England,,,2,1,False,before_window
+249241,249241.json,11-02-2007,11-02-2007,male,international,ODI,ODI,Australia,England,Australia,Commonwealth Bank Series,Sydney Cricket Ground,England,,D/L,2,1,False,before_window
+249745,249745.json,15-10-2006,15-10-2006,male,international,ODI,ODI,India,England,India,ICC Champions Trophy,"Sawai Mansingh Stadium, Jaipur",India,,,2,1,False,before_window
+249750,249750.json,21-10-2006,21-10-2006,male,international,ODI,ODI,Australia,England,Australia,ICC Champions Trophy,"Sawai Mansingh Stadium, Jaipur",Australia,,,2,1,False,before_window
+249755,249755.json,28-10-2006,28-10-2006,male,international,ODI,ODI,England,West Indies,West Indies,ICC Champions Trophy,"Sardar Patel Stadium, Motera, Ahmedabad",England,,,2,1,False,before_window
+258459,258459.json,17-05-2007,21-05-2007,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England and Ireland,Lord's,,draw,,4,2,False,before_window
+258460,258460.json,25-05-2007,28-05-2007,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England and Ireland,Headingley,England,,,3,1,False,before_window
+258461,258461.json,07-06-2007,11-06-2007,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England and Ireland,Old Trafford,England,,,4,2,False,before_window
+258462,258462.json,15-06-2007,19-06-2007,male,international,Test,Test,West Indies,England,West Indies,West Indies tour of England and Ireland,"Riverside Ground, Chester-le-Street",England,,,4,2,False,before_window
+258463,258463.json,28-06-2007,28-06-2007,male,international,T20,T20I,England,West Indies,West Indies,West Indies in England T20I Series,The Oval,West Indies,,,2,1,False,before_window
+258464,258464.json,29-06-2007,29-06-2007,male,international,T20,T20I,England,West Indies,West Indies,West Indies in England T20I Series,The Oval,England,,,2,1,False,before_window
+258465,258465.json,01-07-2007,01-07-2007,male,international,ODI,ODI,England,West Indies,West Indies,NatWest Series,Lord's,England,,,2,1,False,before_window
+258466,258466.json,04-07-2007,04-07-2007,male,international,ODI,ODI,England,West Indies,West Indies,NatWest Series,Edgbaston,West Indies,,,2,1,False,before_window
+258467,258467.json,07-07-2007,07-07-2007,male,international,ODI,ODI,England,West Indies,West Indies,NatWest Series,Trent Bridge,West Indies,,,2,1,False,before_window
+258468,258468.json,19-07-2007,23-07-2007,male,international,Test,Test,England,India,India,"India tour of Ireland, England and Scotland",Lord's,,draw,,4,2,False,before_window
+258469,258469.json,27-07-2007,31-07-2007,male,international,Test,Test,England,India,India,"India tour of Ireland, England and Scotland",Trent Bridge,India,,,4,2,False,before_window
+258470,258470.json,09-08-2007,13-08-2007,male,international,Test,Test,India,England,India,"India tour of Ireland, England and Scotland",The Oval,,draw,,4,2,False,before_window
+258471,258471.json,21-08-2007,21-08-2007,male,international,ODI,ODI,England,India,India,NatWest Series,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+258472,258472.json,24-08-2007,24-08-2007,male,international,ODI,ODI,England,India,India,NatWest Series,"County Ground, Bristol",India,,,2,1,False,before_window
+258473,258473.json,27-08-2007,27-08-2007,male,international,ODI,ODI,England,India,India,NatWest Series,Edgbaston,England,,,2,1,False,before_window
+258474,258474.json,30-08-2007,30-08-2007,male,international,ODI,ODI,England,India,India,NatWest Series,Old Trafford,England,,,2,1,False,before_window
+258475,258475.json,02-09-2007,02-09-2007,male,international,ODI,ODI,England,India,India,NatWest Series,Headingley,India,,D/L,2,1,False,before_window
+258476,258476.json,05-09-2007,05-09-2007,male,international,ODI,ODI,England,India,India,NatWest Series,The Oval,India,,,2,1,False,before_window
+258477,258477.json,08-09-2007,08-09-2007,male,international,ODI,ODI,England,India,India,NatWest Series,Lord's,England,,,2,1,False,before_window
+287858,287858.json,13-09-2007,13-09-2007,male,international,T20,T20I,England,Zimbabwe,Zimbabwe,ICC World Twenty20,"Newlands, Cape Town",England,,,2,1,False,before_window
+287861,287861.json,14-09-2007,14-09-2007,male,international,T20,T20I,Australia,England,Australia,ICC World Twenty20,"Newlands, Cape Town",Australia,,,2,1,False,before_window
+287867,287867.json,16-09-2007,16-09-2007,male,international,T20,T20I,South Africa,England,South Africa,ICC World Twenty20,"Newlands, Cape Town",South Africa,,,2,1,False,before_window
+287869,287869.json,18-09-2007,18-09-2007,male,international,T20,T20I,England,New Zealand,New Zealand,ICC World Twenty20,"Kingsmead, Durban",New Zealand,,,2,1,False,before_window
+287873,287873.json,19-09-2007,19-09-2007,male,international,T20,T20I,England,India,India,ICC World Twenty20,"Kingsmead, Durban",India,,,2,1,False,before_window
+291217,291217.json,01-10-2007,01-10-2007,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,Rangiri Dambulla International Stadium,Sri Lanka,,,2,1,False,before_window
+291218,291218.json,04-10-2007,04-10-2007,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,Rangiri Dambulla International Stadium,England,,,2,1,False,before_window
+291220,291220.json,10-10-2007,10-10-2007,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",England,,,2,1,False,before_window
+291221,291221.json,13-10-2007,13-10-2007,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Sri Lanka,,,2,1,False,before_window
+291222,291222.json,01-12-2007,05-12-2007,male,international,Test,Test,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,"Asgiriya Stadium, Kandy",Sri Lanka,,,4,2,False,before_window
+291223,291223.json,09-12-2007,13-12-2007,male,international,Test,Test,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,Sinhalese Sports Club Ground,,draw,,3,2,False,before_window
+291224,291224.json,18-12-2007,22-12-2007,male,international,Test,Test,Sri Lanka,England,Sri Lanka,England tour of Sri Lanka,Galle International Stadium,,draw,,3,2,False,before_window
+296900,296900.json,15-05-2008,19-05-2008,male,international,Test,Test,England,New Zealand,New Zealand,New Zealand in England Test Series,Lord's,,draw,,3,1,False,before_window
+296901,296901.json,23-05-2008,26-05-2008,male,international,Test,Test,England,New Zealand,New Zealand,New Zealand in England Test Series,Old Trafford,England,,,4,2,False,before_window
+296902,296902.json,05-06-2008,08-06-2008,male,international,Test,Test,England,New Zealand,New Zealand,New Zealand in England Test Series,Trent Bridge,England,,,3,1,False,before_window
+296903,296903.json,13-06-2008,13-06-2008,male,international,T20,T20I,England,New Zealand,New Zealand,,Old Trafford,England,,,2,1,False,before_window
+296904,296904.json,15-06-2008,15-06-2008,male,international,ODI,ODI,England,New Zealand,New Zealand,NatWest Series,"Riverside Ground, Chester-le-Street",England,,,2,1,False,before_window
+296905,296905.json,18-06-2008,18-06-2008,male,international,ODI,ODI,England,New Zealand,New Zealand,NatWest Series,Edgbaston,,no result,,2,1,False,before_window
+296906,296906.json,21-06-2008,21-06-2008,male,international,ODI,ODI,England,New Zealand,New Zealand,NatWest Series,"County Ground, Bristol",New Zealand,,,2,1,False,before_window
+296907,296907.json,25-06-2008,25-06-2008,male,international,ODI,ODI,England,New Zealand,New Zealand,NatWest Series,The Oval,New Zealand,,,2,1,False,before_window
+296908,296908.json,28-06-2008,28-06-2008,male,international,ODI,ODI,England,New Zealand,New Zealand,NatWest Series,Lord's,New Zealand,,,2,1,False,before_window
+296909,296909.json,10-07-2008,14-07-2008,male,international,Test,Test,England,South Africa,South Africa,Basil D'Oliveira Trophy,Lord's,,draw,,3,1,False,before_window
+296910,296910.json,18-07-2008,21-07-2008,male,international,Test,Test,England,South Africa,South Africa,Basil D'Oliveira Trophy,Headingley,South Africa,,,4,2,False,before_window
+296911,296911.json,30-07-2008,02-08-2008,male,international,Test,Test,England,South Africa,South Africa,Basil D'Oliveira Trophy,Edgbaston,South Africa,,,4,2,False,before_window
+296912,296912.json,07-08-2008,11-08-2008,male,international,Test,Test,England,South Africa,South Africa,Basil D'Oliveira Trophy,The Oval,England,,,4,2,False,before_window
+296914,296914.json,22-08-2008,22-08-2008,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,Headingley,England,,,2,1,False,before_window
+296915,296915.json,26-08-2008,26-08-2008,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,Trent Bridge,England,,,2,1,False,before_window
+296916,296916.json,29-08-2008,29-08-2008,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,The Oval,England,,,2,1,False,before_window
+296917,296917.json,31-08-2008,31-08-2008,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,Lord's,England,,D/L,2,1,False,before_window
+296918,296918.json,03-09-2008,03-09-2008,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,"Sophia Gardens, Cardiff",,no result,,1,0,False,before_window
+300435,300435.json,05-02-2008,05-02-2008,male,international,T20,T20I,New Zealand,England,New Zealand,England in New Zealand T20I Series,"Eden Park, Auckland",England,,,2,1,False,before_window
+300436,300436.json,07-02-2008,07-02-2008,male,international,T20,T20I,New Zealand,England,New Zealand,England in New Zealand T20I Series,"AMI Stadium, Christchurch",England,,,2,1,False,before_window
+300437,300437.json,09-02-2008,09-02-2008,male,international,ODI,ODI,New Zealand,England,New Zealand,England in New Zealand ODI Series,"Westpac Stadium, Wellington",New Zealand,,,2,1,False,before_window
+300438,300438.json,12-02-2008,12-02-2008,male,international,ODI,ODI,New Zealand,England,New Zealand,England in New Zealand ODI Series,"Seddon Park, Hamilton",New Zealand,,D/L,2,1,False,before_window
+300439,300439.json,15-02-2008,15-02-2008,male,international,ODI,ODI,New Zealand,England,New Zealand,England in New Zealand ODI Series,"Eden Park, Auckland",England,,D/L,2,1,False,before_window
+300440,300440.json,20-02-2008,20-02-2008,male,international,ODI,ODI,New Zealand,England,New Zealand,England in New Zealand ODI Series,"McLean Park, Napier",,tie,,2,1,False,before_window
+300441,300441.json,23-02-2008,23-02-2008,male,international,ODI,ODI,New Zealand,England,New Zealand,England in New Zealand ODI Series,"AMI Stadium, Christchurch",New Zealand,,D/L,2,1,False,before_window
+300442,300442.json,05-03-2008,09-03-2008,male,international,Test,Test,New Zealand,England,New Zealand,England in New Zealand Test Series,"Seddon Park, Hamilton",New Zealand,,,4,2,False,before_window
+300443,300443.json,13-03-2008,17-03-2008,male,international,Test,Test,New Zealand,England,New Zealand,England in New Zealand Test Series,"Basin Reserve, Wellington",England,,,4,2,False,before_window
+300444,300444.json,22-03-2008,26-03-2008,male,international,Test,Test,New Zealand,England,New Zealand,England in New Zealand Test Series,"McLean Park, Napier",England,,,4,2,False,before_window
+345970,345970.json,08-07-2009,12-07-2009,male,international,Test,Test,England,Australia,Australia,The Ashes,"Sophia Gardens, Cardiff",,draw,,3,2,False,before_window
+345971,345971.json,16-07-2009,20-07-2009,male,international,Test,Test,England,Australia,Australia,The Ashes,Lord's,England,,,4,2,False,before_window
+345972,345972.json,30-07-2009,03-08-2009,male,international,Test,Test,England,Australia,Australia,The Ashes,Edgbaston,,draw,,3,1,False,before_window
+345973,345973.json,07-08-2009,09-08-2009,male,international,Test,Test,England,Australia,Australia,The Ashes,Headingley,Australia,,,3,2,False,before_window
+345974,345974.json,20-08-2009,23-08-2009,male,international,Test,Test,England,Australia,Australia,The Ashes,The Oval,England,,,4,2,False,before_window
+350043,350043.json,04-09-2009,04-09-2009,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,The Oval,Australia,,,2,1,False,before_window
+350044,350044.json,06-09-2009,06-09-2009,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,Lord's,Australia,,,2,1,False,before_window
+350045,350045.json,09-09-2009,09-09-2009,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,"The Rose Bowl, Southampton",Australia,,,2,1,False,before_window
+350046,350046.json,12-09-2009,12-09-2009,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,Lord's,Australia,,,2,1,False,before_window
+350047,350047.json,15-09-2009,15-09-2009,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,Trent Bridge,Australia,,,2,1,False,before_window
+350048,350048.json,17-09-2009,17-09-2009,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,Trent Bridge,Australia,,,2,1,False,before_window
+350049,350049.json,20-09-2009,20-09-2009,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,"Riverside Ground, Chester-le-Street",England,,,2,1,False,before_window
+350050,350050.json,30-08-2009,30-08-2009,male,international,T20,T20I,England,Australia,Australia,Australia in England T20I Series,Old Trafford,,no result,,2,1,False,before_window
+352661,352661.json,04-02-2009,07-02-2009,male,international,Test,Test,West Indies,England,West Indies,The Wisden Trophy,Sabina Park,West Indies,,,3,2,False,before_window
+352662,352662.json,13-02-2009,17-02-2009,male,international,Test,Test,West Indies,England,West Indies,The Wisden Trophy,"Sir Vivian Richards Stadium, North Sound, Antigua",,draw,,1,1,False,before_window
+352663,352663.json,26-02-2009,02-03-2009,male,international,Test,Test,West Indies,England,West Indies,The Wisden Trophy,Kensington Oval,,draw,,3,2,False,before_window
+352664,352664.json,06-03-2009,10-03-2009,male,international,Test,Test,West Indies,England,West Indies,The Wisden Trophy,"Queen's Park Oval, Port of Spain, Trinidad",,draw,,4,2,False,before_window
+352665,352665.json,20-03-2009,20-03-2009,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,"Providence Stadium, Guyana",England,,D/L,2,1,False,before_window
+352666,352666.json,22-03-2009,22-03-2009,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,"Providence Stadium, Guyana",West Indies,,,2,1,False,before_window
+352667,352667.json,27-03-2009,27-03-2009,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,Kensington Oval,West Indies,,D/L,2,1,False,before_window
+352668,352668.json,29-03-2009,29-03-2009,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,Kensington Oval,England,,D/L,2,1,False,before_window
+352669,352669.json,03-04-2009,03-04-2009,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,"Beausejour Stadium, Gros Islet, St Lucia",England,,,2,1,False,before_window
+352674,352674.json,15-03-2009,15-03-2009,male,international,T20,T20I,West Indies,England,West Indies,,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,,,2,1,False,before_window
+355991,355991.json,05-06-2009,05-06-2009,male,international,T20,T20I,England,Netherlands,Netherlands,ICC World Twenty20,Lord's,Netherlands,,,2,1,False,before_window
+355996,355996.json,07-06-2009,07-06-2009,male,international,T20,T20I,England,Pakistan,Pakistan,ICC World Twenty20,The Oval,England,,,2,1,False,before_window
+356004,356004.json,11-06-2009,11-06-2009,male,international,T20,T20I,England,South Africa,South Africa,ICC World Twenty20,Trent Bridge,South Africa,,,2,1,False,before_window
+356010,356010.json,14-06-2009,14-06-2009,male,international,T20,T20I,England,India,India,ICC World Twenty20,Lord's,England,,,2,1,False,before_window
+356011,356011.json,15-06-2009,15-06-2009,male,international,T20,T20I,England,West Indies,West Indies,ICC World Twenty20,The Oval,West Indies,,D/L,2,1,False,before_window
+361043,361043.json,14-11-2008,14-11-2008,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Madhavrao Scindia Cricket Ground, Rajkot",India,,,2,1,False,before_window
+361044,361044.json,17-11-2008,17-11-2008,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Maharani Usharaje Trust Cricket Ground, Indore",India,,,2,1,False,before_window
+361045,361045.json,20-11-2008,20-11-2008,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Green Park, Kanpur",India,,D/L,2,1,False,before_window
+361046,361046.json,23-11-2008,23-11-2008,male,international,ODI,ODI,India,England,India,England in India ODI Series,"M Chinnaswamy Stadium, Bangalore",India,,D/L,2,1,False,before_window
+361047,361047.json,26-11-2008,26-11-2008,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Barabati Stadium, Cuttack",India,,,2,1,False,before_window
+361050,361050.json,11-12-2008,15-12-2008,male,international,Test,Test,India,England,India,England in India Test Series,MA Chidambaram Stadium,India,,,4,2,False,before_window
+361051,361051.json,19-12-2008,23-12-2008,male,international,Test,Test,India,England,India,England in India Test Series,"Punjab Cricket Association Stadium, Mohali, Chandigarh",,draw,,4,2,False,before_window
+380712,380712.json,06-05-2009,08-05-2009,male,international,Test,Test,England,West Indies,West Indies,The Wisden Trophy,Lord's,England,,,4,2,False,before_window
+380713,380713.json,14-05-2009,18-05-2009,male,international,Test,Test,England,West Indies,West Indies,The Wisden Trophy,"Riverside Ground, Chester-le-Street",England,,,3,1,False,before_window
+380715,380715.json,24-05-2009,24-05-2009,male,international,ODI,ODI,England,West Indies,West Indies,NatWest Series,"County Ground, Bristol",England,,,2,1,False,before_window
+380716,380716.json,26-05-2009,26-05-2009,male,international,ODI,ODI,England,West Indies,West Indies,NatWest Series,Edgbaston,England,,,2,1,False,before_window
+383275,383275.json,27-08-2009,27-08-2009,male,international,ODI,ODI,Ireland,England,Ireland,,"Civil Service Cricket Club, Stormont, Belfast",England,,D/L,2,1,False,before_window
+387563,387563.json,13-11-2009,13-11-2009,male,international,T20,T20I,South Africa,England,South Africa,England in South Africa T20I Series,"Wanderers Stadium, Johannesburg",England,,D/L,2,1,False,before_window
+387564,387564.json,15-11-2009,15-11-2009,male,international,T20,T20I,South Africa,England,South Africa,England in South Africa T20I Series,"SuperSport Park, Centurion",South Africa,,,2,1,False,before_window
+387566,387566.json,22-11-2009,22-11-2009,male,international,ODI,ODI,South Africa,England,South Africa,England in South Africa ODI Series,"SuperSport Park, Centurion",England,,,2,1,False,before_window
+387567,387567.json,27-11-2009,27-11-2009,male,international,ODI,ODI,South Africa,England,South Africa,England in South Africa ODI Series,"Newlands, Cape Town",South Africa,,,2,1,False,before_window
+387568,387568.json,29-11-2009,29-11-2009,male,international,ODI,ODI,South Africa,England,South Africa,England in South Africa ODI Series,"St George's Park, Port Elizabeth",England,,,2,1,False,before_window
+387570,387570.json,16-12-2009,20-12-2009,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"SuperSport Park, Centurion",,draw,,4,2,False,before_window
+387571,387571.json,26-12-2009,30-12-2009,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"Kingsmead, Durban",England,,,3,1,False,before_window
+387572,387572.json,03-01-2010,07-01-2010,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"Newlands, Cape Town",,draw,,4,2,False,before_window
+387573,387573.json,14-01-2010,17-01-2010,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"Wanderers Stadium, Johannesburg",South Africa,,,3,2,False,before_window
+390680,390680.json,15-02-2009,19-02-2009,male,international,Test,Test,West Indies,England,West Indies,The Wisden Trophy,"Antigua Recreation Ground, St John's",,draw,,4,2,False,before_window
+412681,412681.json,04-05-2010,04-05-2010,male,international,T20,T20I,England,Ireland,Ireland,ICC World Twenty20,"Providence Stadium, Guyana",,no result,,2,1,False,before_window
+412685,412685.json,03-05-2010,03-05-2010,male,international,T20,T20I,West Indies,England,West Indies,ICC World Twenty20,"Providence Stadium, Guyana",West Indies,,D/L,2,1,False,before_window
+412689,412689.json,06-05-2010,06-05-2010,male,international,T20,T20I,England,Pakistan,Pakistan,ICC World Twenty20,Kensington Oval,England,,,2,1,False,before_window
+412694,412694.json,08-05-2010,08-05-2010,male,international,T20,T20I,England,South Africa,South Africa,ICC World Twenty20,Kensington Oval,England,,,2,1,False,before_window
+412698,412698.json,10-05-2010,10-05-2010,male,international,T20,T20I,England,New Zealand,New Zealand,ICC World Twenty20,"Beausejour Stadium, Gros Islet, St Lucia",England,,,2,1,False,before_window
+412701,412701.json,13-05-2010,13-05-2010,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,ICC World Twenty20,"Beausejour Stadium, Gros Islet, St Lucia",England,,,2,1,False,before_window
+412703,412703.json,16-05-2010,16-05-2010,male,international,T20,T20I,Australia,England,Australia,ICC World Twenty20,Kensington Oval,England,,,2,1,False,before_window
+415276,415276.json,25-09-2009,25-09-2009,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,ICC Champions Trophy,"Wanderers Stadium, Johannesburg",England,,,2,1,False,before_window
+415280,415280.json,27-09-2009,27-09-2009,male,international,ODI,ODI,South Africa,England,South Africa,ICC Champions Trophy,"SuperSport Park, Centurion",England,,,2,1,False,before_window
+415282,415282.json,29-09-2009,29-09-2009,male,international,ODI,ODI,England,New Zealand,New Zealand,ICC Champions Trophy,"Wanderers Stadium, Johannesburg",New Zealand,,,2,1,False,before_window
+415285,415285.json,02-10-2009,02-10-2009,male,international,ODI,ODI,Australia,England,Australia,ICC Champions Trophy,"SuperSport Park, Centurion",Australia,,,2,1,False,before_window
+426387,426387.json,22-06-2010,22-06-2010,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+426388,426388.json,24-06-2010,24-06-2010,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+426389,426389.json,27-06-2010,27-06-2010,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,Old Trafford,England,,,2,1,False,before_window
+426390,426390.json,30-06-2010,30-06-2010,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,The Oval,Australia,,,2,1,False,before_window
+426391,426391.json,03-07-2010,03-07-2010,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,Lord's,Australia,,,2,1,False,before_window
+426401,426401.json,27-05-2010,31-05-2010,male,international,Test,Test,England,Bangladesh,Bangladesh,Bangladesh in England Test Series,Lord's,England,,,4,2,False,before_window
+426402,426402.json,04-06-2010,06-06-2010,male,international,Test,Test,England,Bangladesh,Bangladesh,Bangladesh in England Test Series,Old Trafford,England,,,3,1,False,before_window
+426403,426403.json,08-07-2010,08-07-2010,male,international,ODI,ODI,England,Bangladesh,Bangladesh,NatWest Series,Trent Bridge,England,,,2,1,False,before_window
+426404,426404.json,10-07-2010,10-07-2010,male,international,ODI,ODI,England,Bangladesh,Bangladesh,NatWest Series,"County Ground, Bristol",Bangladesh,,,2,1,False,before_window
+426405,426405.json,12-07-2010,12-07-2010,male,international,ODI,ODI,England,Bangladesh,Bangladesh,NatWest Series,Edgbaston,England,,,2,1,False,before_window
+426413,426413.json,29-07-2010,01-08-2010,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan in England Test Series,Trent Bridge,England,,,4,2,False,before_window
+426414,426414.json,06-08-2010,09-08-2010,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan in England Test Series,Edgbaston,England,,,4,2,False,before_window
+426415,426415.json,18-08-2010,21-08-2010,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan in England Test Series,The Oval,Pakistan,,,4,2,False,before_window
+426416,426416.json,26-08-2010,29-08-2010,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan in England Test Series,Lord's,England,,,3,1,False,before_window
+426417,426417.json,05-09-2010,05-09-2010,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan in England T20I Series,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+426418,426418.json,07-09-2010,07-09-2010,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan in England T20I Series,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+426420,426420.json,28-02-2010,28-02-2010,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England in Bangladesh ODI Series,"Shere Bangla National Stadium, Mirpur",England,,,2,1,False,before_window
+426421,426421.json,02-03-2010,02-03-2010,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England in Bangladesh ODI Series,"Shere Bangla National Stadium, Mirpur",England,,,2,1,False,before_window
+426422,426422.json,05-03-2010,05-03-2010,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England in Bangladesh ODI Series,"Zahur Ahmed Chowdhury Stadium, Chittagong",England,,,2,1,False,before_window
+426423,426423.json,12-03-2010,16-03-2010,male,international,Test,Test,Bangladesh,England,Bangladesh,England in Bangladesh Test Series,"Zahur Ahmed Chowdhury Stadium, Chittagong",England,,,4,2,False,before_window
+426424,426424.json,20-03-2010,24-03-2010,male,international,Test,Test,Bangladesh,England,Bangladesh,England in Bangladesh Test Series,"Shere Bangla National Stadium, Mirpur",England,,,4,2,False,before_window
+426428,426428.json,10-09-2010,10-09-2010,male,international,ODI,ODI,England,Pakistan,Pakistan,NatWest Series,"Riverside Ground, Chester-le-Street",England,,,2,1,False,before_window
+426429,426429.json,12-09-2010,12-09-2010,male,international,ODI,ODI,England,Pakistan,Pakistan,NatWest Series,Headingley,England,,,2,1,False,before_window
+426430,426430.json,17-09-2010,17-09-2010,male,international,ODI,ODI,England,Pakistan,Pakistan,NatWest Series,The Oval,Pakistan,,,2,1,False,before_window
+426431,426431.json,20-09-2010,20-09-2010,male,international,ODI,ODI,England,Pakistan,Pakistan,NatWest Series,Lord's,Pakistan,,,2,1,False,before_window
+426432,426432.json,22-09-2010,22-09-2010,male,international,ODI,ODI,England,Pakistan,Pakistan,NatWest Series,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+428749,428749.json,25-11-2010,29-11-2010,male,international,Test,Test,Australia,England,Australia,The Ashes,Brisbane Cricket Ground,,draw,,4,2,False,before_window
+428750,428750.json,03-12-2010,07-12-2010,male,international,Test,Test,Australia,England,Australia,The Ashes,Adelaide Oval,England,,,3,1,False,before_window
+428751,428751.json,16-12-2010,19-12-2010,male,international,Test,Test,Australia,England,Australia,The Ashes,"WACA, Perth",Australia,,,4,2,False,before_window
+428752,428752.json,26-12-2010,29-12-2010,male,international,Test,Test,Australia,England,Australia,The Ashes,Melbourne Cricket Ground,England,,,3,1,False,before_window
+428753,428753.json,03-01-2011,07-01-2011,male,international,Test,Test,Australia,England,Australia,The Ashes,Sydney Cricket Ground,England,,,3,1,False,before_window
+433562,433562.json,22-02-2011,22-02-2011,male,international,ODI,ODI,England,Netherlands,Netherlands,ICC Cricket World Cup,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",England,,,2,1,False,before_window
+433568,433568.json,27-02-2011,27-02-2011,male,international,ODI,ODI,India,England,India,ICC Cricket World Cup,"M Chinnaswamy Stadium, Bangalore",,tie,,2,1,False,before_window
+433572,433572.json,02-03-2011,02-03-2011,male,international,ODI,ODI,England,Ireland,Ireland,ICC Cricket World Cup,"M Chinnaswamy Stadium, Bangalore",Ireland,,,2,1,False,before_window
+433579,433579.json,06-03-2011,06-03-2011,male,international,ODI,ODI,England,South Africa,South Africa,ICC Cricket World Cup,MA Chidambaram Stadium,England,,,2,1,False,before_window
+433585,433585.json,11-03-2011,11-03-2011,male,international,ODI,ODI,Bangladesh,England,Bangladesh,ICC Cricket World Cup,"Zahur Ahmed Chowdhury Stadium, Chittagong",Bangladesh,,,2,1,False,before_window
+433593,433593.json,17-03-2011,17-03-2011,male,international,ODI,ODI,England,West Indies,West Indies,ICC Cricket World Cup,MA Chidambaram Stadium,England,,,2,1,False,before_window
+433603,433603.json,26-03-2011,26-03-2011,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,ICC Cricket World Cup,"R Premadasa Stadium, Colombo",Sri Lanka,,,2,1,False,before_window
+440945,440945.json,19-02-2010,19-02-2010,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan v England T20I Series,Dubai International Cricket Stadium,England,,,2,1,False,before_window
+440946,440946.json,20-02-2010,20-02-2010,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan v England T20I Series,Dubai International Cricket Stadium,Pakistan,,,2,1,False,before_window
+446960,446960.json,12-01-2011,12-01-2011,male,international,T20,T20I,Australia,England,Australia,England in Australia T20I Series,Adelaide Oval,England,,,2,1,False,before_window
+446961,446961.json,14-01-2011,14-01-2011,male,international,T20,T20I,Australia,England,Australia,England in Australia T20I Series,Melbourne Cricket Ground,Australia,,,2,1,False,before_window
+446962,446962.json,16-01-2011,16-01-2011,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,Melbourne Cricket Ground,Australia,,,2,1,False,before_window
+446963,446963.json,21-01-2011,21-01-2011,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,"Bellerive Oval, Hobart",Australia,,,2,1,False,before_window
+446964,446964.json,23-01-2011,23-01-2011,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,Sydney Cricket Ground,Australia,,,2,1,False,before_window
+446965,446965.json,26-01-2011,26-01-2011,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,Adelaide Oval,England,,,2,1,False,before_window
+446966,446966.json,30-01-2011,30-01-2011,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,Brisbane Cricket Ground,Australia,,,2,1,False,before_window
+446967,446967.json,02-02-2011,02-02-2011,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,Sydney Cricket Ground,Australia,,,2,1,False,before_window
+446968,446968.json,06-02-2011,06-02-2011,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,"WACA, Perth",Australia,,,2,1,False,before_window
+474463,474463.json,26-05-2011,30-05-2011,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka in England Test Series,"Sophia Gardens, Cardiff",England,,,3,1,False,before_window
+474464,474464.json,03-06-2011,07-06-2011,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka in England Test Series,Lord's,,draw,,4,2,False,before_window
+474465,474465.json,16-06-2011,20-06-2011,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka in England Test Series,"The Rose Bowl, Southampton",,draw,,3,1,False,before_window
+474466,474466.json,25-06-2011,25-06-2011,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,,"County Ground, Bristol",Sri Lanka,,,2,1,False,before_window
+474467,474467.json,28-06-2011,28-06-2011,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,The Oval,England,,D/L,2,1,False,before_window
+474468,474468.json,01-07-2011,01-07-2011,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,Headingley,Sri Lanka,,,2,1,False,before_window
+474469,474469.json,03-07-2011,03-07-2011,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,Lord's,Sri Lanka,,,2,1,False,before_window
+474470,474470.json,06-07-2011,06-07-2011,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,Trent Bridge,England,,D/L,2,1,False,before_window
+474471,474471.json,09-07-2011,09-07-2011,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,Old Trafford,England,,,2,1,False,before_window
+474472,474472.json,21-07-2011,25-07-2011,male,international,Test,Test,England,India,India,Pataudi Trophy,Lord's,England,,,4,2,False,before_window
+474473,474473.json,29-07-2011,01-08-2011,male,international,Test,Test,England,India,India,Pataudi Trophy,Trent Bridge,England,,,4,2,False,before_window
+474474,474474.json,10-08-2011,13-08-2011,male,international,Test,Test,England,India,India,Pataudi Trophy,Edgbaston,England,,,3,1,False,before_window
+474475,474475.json,18-08-2011,22-08-2011,male,international,Test,Test,England,India,India,Pataudi Trophy,The Oval,England,,,3,1,False,before_window
+474476,474476.json,31-08-2011,31-08-2011,male,international,T20,T20I,England,India,India,,Old Trafford,England,,,2,1,False,before_window
+474477,474477.json,03-09-2011,03-09-2011,male,international,ODI,ODI,England,India,India,NatWest Series,"Riverside Ground, Chester-le-Street",,no result,,2,1,False,before_window
+474478,474478.json,06-09-2011,06-09-2011,male,international,ODI,ODI,England,India,India,NatWest Series,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+474479,474479.json,09-09-2011,09-09-2011,male,international,ODI,ODI,England,India,India,NatWest Series,The Oval,England,,D/L,2,1,False,before_window
+474480,474480.json,11-09-2011,11-09-2011,male,international,ODI,ODI,England,India,India,NatWest Series,Lord's,,tie,D/L,2,1,False,before_window
+474481,474481.json,16-09-2011,16-09-2011,male,international,ODI,ODI,England,India,India,NatWest Series,"Sophia Gardens, Cardiff",England,,D/L,2,1,False,before_window
+483126,483126.json,25-08-2011,25-08-2011,male,international,ODI,ODI,Ireland,England,Ireland,,"Clontarf Cricket Club Ground, Dublin",England,,D/L,2,1,False,before_window
+521217,521217.json,29-10-2011,29-10-2011,male,international,T20,T20I,India,England,India,,"Eden Gardens, Kolkata",England,,,2,1,False,before_window
+521218,521218.json,14-10-2011,14-10-2011,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Rajiv Gandhi International Stadium, Uppal",India,,,2,1,False,before_window
+521219,521219.json,17-10-2011,17-10-2011,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Feroz Shah Kotla, Delhi",India,,,2,1,False,before_window
+521220,521220.json,20-10-2011,20-10-2011,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Punjab Cricket Association Stadium, Mohali, Chandigarh",India,,,2,1,False,before_window
+521221,521221.json,23-10-2011,23-10-2011,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Wankhede Stadium, Mumbai",India,,,2,1,False,before_window
+521222,521222.json,25-10-2011,25-10-2011,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Eden Gardens, Kolkata",India,,,2,1,False,before_window
+521225,521225.json,26-03-2012,29-03-2012,male,international,Test,Test,Sri Lanka,England,Sri Lanka,England in Sri Lanka Test Series,Galle International Stadium,Sri Lanka,,,4,2,False,before_window
+521226,521226.json,03-04-2012,07-04-2012,male,international,Test,Test,Sri Lanka,England,Sri Lanka,England in Sri Lanka Test Series,"P Saravanamuttu Stadium, Colombo",England,,,4,2,False,before_window
+525816,525816.json,23-09-2011,23-09-2011,male,international,T20,T20I,England,West Indies,West Indies,West Indies in England T20I Series,The Oval,England,,,2,1,False,before_window
+525817,525817.json,25-09-2011,25-09-2011,male,international,T20,T20I,England,West Indies,West Indies,West Indies in England T20I Series,The Oval,West Indies,,,2,1,False,before_window
+531628,531628.json,17-01-2012,19-01-2012,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan v England Test Series,Dubai International Cricket Stadium,Pakistan,,,4,2,False,before_window
+531629,531629.json,25-01-2012,28-01-2012,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan v England Test Series,"Sheikh Zayed Stadium, Abu Dhabi",Pakistan,,,4,2,False,before_window
+531630,531630.json,03-02-2012,06-02-2012,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan v England Test Series,Dubai International Cricket Stadium,Pakistan,,,4,2,False,before_window
+531631,531631.json,13-02-2012,13-02-2012,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan v England ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",England,,,2,1,False,before_window
+531632,531632.json,15-02-2012,15-02-2012,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan v England ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",England,,,2,1,False,before_window
+531633,531633.json,18-02-2012,18-02-2012,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan v England ODI Series,Dubai International Cricket Stadium,England,,,2,1,False,before_window
+531634,531634.json,21-02-2012,21-02-2012,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan v England ODI Series,Dubai International Cricket Stadium,England,,,2,1,False,before_window
+531635,531635.json,23-02-2012,23-02-2012,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan v England T20I Series,Dubai International Cricket Stadium,Pakistan,,,2,1,False,before_window
+531636,531636.json,25-02-2012,25-02-2012,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan v England T20I Series,Dubai International Cricket Stadium,England,,,2,1,False,before_window
+531637,531637.json,27-02-2012,27-02-2012,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan v England T20I Series,"Sheikh Zayed Stadium, Abu Dhabi",England,,,2,1,False,before_window
+533281,533281.json,23-09-2012,23-09-2012,male,international,T20,T20I,England,India,India,ICC World Twenty20,"R Premadasa Stadium, Colombo",India,,,2,1,False,before_window
+533285,533285.json,27-09-2012,27-09-2012,male,international,T20,T20I,England,West Indies,West Indies,ICC World Twenty20,Pallekele International Cricket Stadium,West Indies,,,2,1,False,before_window
+533288,533288.json,29-09-2012,29-09-2012,male,international,T20,T20I,England,New Zealand,New Zealand,ICC World Twenty20,Pallekele International Cricket Stadium,England,,,2,1,False,before_window
+533293,533293.json,01-10-2012,01-10-2012,male,international,T20,T20I,Sri Lanka,England,Sri Lanka,ICC World Twenty20,Pallekele International Cricket Stadium,Sri Lanka,,,2,1,False,before_window
+534205,534205.json,17-05-2012,21-05-2012,male,international,Test,Test,England,West Indies,West Indies,The Wisden Trophy,Lord's,England,,,4,2,False,before_window
+534206,534206.json,25-05-2012,28-05-2012,male,international,Test,Test,England,West Indies,West Indies,The Wisden Trophy,Trent Bridge,England,,,4,2,False,before_window
+534207,534207.json,07-06-2012,11-06-2012,male,international,Test,Test,England,West Indies,West Indies,The Wisden Trophy,Edgbaston,,draw,,2,1,False,before_window
+534208,534208.json,24-06-2012,24-06-2012,male,international,T20,T20I,England,West Indies,West Indies,,Trent Bridge,England,,,2,1,False,before_window
+534209,534209.json,16-06-2012,16-06-2012,male,international,ODI,ODI,England,West Indies,West Indies,NatWest Series,"The Rose Bowl, Southampton",England,,D/L,2,1,False,before_window
+534210,534210.json,19-06-2012,19-06-2012,male,international,ODI,ODI,England,West Indies,West Indies,NatWest Series,The Oval,England,,,2,1,False,before_window
+534215,534215.json,29-06-2012,29-06-2012,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,Lord's,England,,,2,1,False,before_window
+534216,534216.json,01-07-2012,01-07-2012,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,The Oval,England,,,2,1,False,before_window
+534218,534218.json,07-07-2012,07-07-2012,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,"Riverside Ground, Chester-le-Street",England,,,2,1,False,before_window
+534219,534219.json,10-07-2012,10-07-2012,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,Old Trafford,England,,D/L,2,1,False,before_window
+534225,534225.json,19-07-2012,23-07-2012,male,international,Test,Test,England,South Africa,South Africa,Basil D'Oliveira Trophy,The Oval,South Africa,,,3,2,False,before_window
+534226,534226.json,02-08-2012,06-08-2012,male,international,Test,Test,England,South Africa,South Africa,Basil D'Oliveira Trophy,Headingley,,draw,,4,2,False,before_window
+534227,534227.json,16-08-2012,20-08-2012,male,international,Test,Test,England,South Africa,South Africa,Basil D'Oliveira Trophy,Lord's,South Africa,,,4,2,False,before_window
+534228,534228.json,24-08-2012,24-08-2012,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,"Sophia Gardens, Cardiff",,no result,,1,1,False,before_window
+534229,534229.json,28-08-2012,28-08-2012,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,"The Rose Bowl, Southampton",South Africa,,,2,1,False,before_window
+534230,534230.json,31-08-2012,31-08-2012,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,The Oval,England,,,2,1,False,before_window
+534231,534231.json,02-09-2012,02-09-2012,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,Lord's,England,,,2,1,False,before_window
+534232,534232.json,05-09-2012,05-09-2012,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,Trent Bridge,South Africa,,,2,1,False,before_window
+534233,534233.json,08-09-2012,08-09-2012,male,international,T20,T20I,England,South Africa,South Africa,South Africa in England T20I Series,"Riverside Ground, Chester-le-Street",South Africa,,,2,1,False,before_window
+534234,534234.json,10-09-2012,10-09-2012,male,international,T20,T20I,England,South Africa,South Africa,South Africa in England T20I Series,Old Trafford,,no result,,2,1,False,before_window
+534235,534235.json,12-09-2012,12-09-2012,male,international,T20,T20I,England,South Africa,South Africa,South Africa in England T20I Series,Edgbaston,England,,,2,1,False,before_window
+565806,565806.json,15-11-2012,19-11-2012,male,international,Test,Test,India,England,India,England in India Test Series,"Sardar Patel Stadium, Motera, Ahmedabad",India,,,4,2,False,before_window
+565807,565807.json,23-11-2012,26-11-2012,male,international,Test,Test,India,England,India,England in India Test Series,"Wankhede Stadium, Mumbai",England,,,4,2,False,before_window
+565808,565808.json,05-12-2012,09-12-2012,male,international,Test,Test,India,England,India,England in India Test Series,"Eden Gardens, Kolkata",England,,,4,2,False,before_window
+565809,565809.json,13-12-2012,17-12-2012,male,international,Test,Test,India,England,India,England in India Test Series,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",,draw,,3,2,False,before_window
+565810,565810.json,20-12-2012,20-12-2012,male,international,T20,T20I,India,England,India,England in India T20I Series,"Subrata Roy Sahara Stadium, Pune",India,,,2,1,False,before_window
+565811,565811.json,22-12-2012,22-12-2012,male,international,T20,T20I,India,England,India,England in India T20I Series,"Wankhede Stadium, Mumbai",England,,,2,1,False,before_window
+565812,565812.json,11-01-2013,11-01-2013,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Saurashtra Cricket Association Stadium, Rajkot",England,,,2,1,False,before_window
+565813,565813.json,15-01-2013,15-01-2013,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Nehru Stadium, Kochi",India,,,2,1,False,before_window
+565814,565814.json,19-01-2013,19-01-2013,male,international,ODI,ODI,India,England,India,England in India ODI Series,"JSCA International Stadium Complex, Ranchi",India,,,2,1,False,before_window
+565815,565815.json,23-01-2013,23-01-2013,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Punjab Cricket Association Stadium, Mohali, Chandigarh",India,,,2,1,False,before_window
+565816,565816.json,27-01-2013,27-01-2013,male,international,ODI,ODI,India,England,India,England in India ODI Series,"Himachal Pradesh Cricket Association Stadium, Dharamsala",England,,,2,1,False,before_window
+566921,566921.json,16-05-2013,19-05-2013,male,international,Test,Test,England,New Zealand,New Zealand,New Zealand in England Test Series,Lord's,England,,,4,2,False,before_window
+566922,566922.json,24-05-2013,28-05-2013,male,international,Test,Test,England,New Zealand,New Zealand,New Zealand in England Test Series,Headingley,England,,,4,2,False,before_window
+566923,566923.json,31-05-2013,31-05-2013,male,international,ODI,ODI,England,New Zealand,New Zealand,NatWest Series,Lord's,New Zealand,,,2,1,False,before_window
+566924,566924.json,02-06-2013,02-06-2013,male,international,ODI,ODI,England,New Zealand,New Zealand,NatWest Series,"The Rose Bowl, Southampton",New Zealand,,,2,1,False,before_window
+566925,566925.json,05-06-2013,05-06-2013,male,international,ODI,ODI,England,New Zealand,New Zealand,NatWest Series,Trent Bridge,England,,,2,1,False,before_window
+566926,566926.json,25-06-2013,25-06-2013,male,international,T20,T20I,England,New Zealand,New Zealand,New Zealand in England T20I Series,The Oval,New Zealand,,,2,1,False,before_window
+566927,566927.json,27-06-2013,27-06-2013,male,international,T20,T20I,England,New Zealand,New Zealand,New Zealand in England T20I Series,The Oval,,no result,,1,1,False,before_window
+566932,566932.json,10-07-2013,14-07-2013,male,international,Test,Test,England,Australia,Australia,The Ashes,Trent Bridge,England,,,4,2,False,before_window
+566933,566933.json,18-07-2013,21-07-2013,male,international,Test,Test,England,Australia,Australia,The Ashes,Lord's,England,,,4,2,False,before_window
+566934,566934.json,01-08-2013,05-08-2013,male,international,Test,Test,England,Australia,Australia,The Ashes,Old Trafford,,draw,,4,2,False,before_window
+566935,566935.json,09-08-2013,12-08-2013,male,international,Test,Test,England,Australia,Australia,The Ashes,"Riverside Ground, Chester-le-Street",England,,,4,2,False,before_window
+566936,566936.json,21-08-2013,25-08-2013,male,international,Test,Test,England,Australia,Australia,The Ashes,The Oval,,draw,,4,2,False,before_window
+566937,566937.json,29-08-2013,29-08-2013,male,international,T20,T20I,England,Australia,Australia,Australia in England T20I Series,"The Rose Bowl, Southampton",Australia,,,2,1,False,before_window
+566938,566938.json,31-08-2013,31-08-2013,male,international,T20,T20I,England,Australia,Australia,Australia in England T20I Series,"Riverside Ground, Chester-le-Street",England,,,2,1,False,before_window
+566940,566940.json,03-09-2013,03-09-2013,male,international,ODI,ODI,Ireland,England,Ireland,RSA Challenge,"Malahide Cricket Ground, Dublin",England,,,2,1,False,before_window
+566942,566942.json,08-09-2013,08-09-2013,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,Old Trafford,Australia,,,2,1,False,before_window
+566943,566943.json,11-09-2013,11-09-2013,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,Edgbaston,,no result,,1,1,False,before_window
+566944,566944.json,14-09-2013,14-09-2013,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+566945,566945.json,16-09-2013,16-09-2013,male,international,ODI,ODI,England,Australia,Australia,NatWest Series,"The Rose Bowl, Southampton",Australia,,,2,1,False,before_window
+566946,566946.json,19-06-2013,19-06-2013,male,international,ODI,ODI,England,South Africa,South Africa,ICC Champions Trophy,The Oval,England,,,2,1,False,before_window
+566948,566948.json,23-06-2013,23-06-2013,male,international,ODI,ODI,England,India,India,ICC Champions Trophy,Edgbaston,India,,,2,1,False,before_window
+569237,569237.json,09-02-2013,09-02-2013,male,international,T20,T20I,New Zealand,England,New Zealand,England in New Zealand T20I Series,"Eden Park, Auckland",England,,,2,1,False,before_window
+569238,569238.json,12-02-2013,12-02-2013,male,international,T20,T20I,New Zealand,England,New Zealand,England in New Zealand T20I Series,"Seddon Park, Hamilton",New Zealand,,,2,1,False,before_window
+569239,569239.json,15-02-2013,15-02-2013,male,international,T20,T20I,New Zealand,England,New Zealand,England in New Zealand T20I Series,"Westpac Stadium, Wellington",England,,,2,1,False,before_window
+569240,569240.json,17-02-2013,17-02-2013,male,international,ODI,ODI,New Zealand,England,New Zealand,England in New Zealand ODI Series,"Seddon Park, Hamilton",New Zealand,,,2,1,False,before_window
+569241,569241.json,20-02-2013,20-02-2013,male,international,ODI,ODI,New Zealand,England,New Zealand,England in New Zealand ODI Series,"McLean Park, Napier",England,,,2,1,False,before_window
+569242,569242.json,23-02-2013,23-02-2013,male,international,ODI,ODI,New Zealand,England,New Zealand,England in New Zealand ODI Series,"Eden Park, Auckland",England,,,2,1,False,before_window
+569243,569243.json,06-03-2013,10-03-2013,male,international,Test,Test,New Zealand,England,New Zealand,England in New Zealand Test Series,"University Oval, Dunedin",,draw,,3,2,False,before_window
+569244,569244.json,14-03-2013,18-03-2013,male,international,Test,Test,New Zealand,England,New Zealand,England in New Zealand Test Series,"Basin Reserve, Wellington",,draw,,3,1,False,before_window
+569245,569245.json,22-03-2013,26-03-2013,male,international,Test,Test,New Zealand,England,New Zealand,England in New Zealand Test Series,"Eden Park, Auckland",,draw,,4,2,False,before_window
+578616,578616.json,08-06-2013,08-06-2013,male,international,ODI,ODI,England,Australia,Australia,ICC Champions Trophy,Edgbaston,England,,,2,1,False,before_window
+578621,578621.json,13-06-2013,13-06-2013,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,ICC Champions Trophy,The Oval,Sri Lanka,,,2,1,False,before_window
+578624,578624.json,16-06-2013,16-06-2013,male,international,ODI,ODI,England,New Zealand,New Zealand,ICC Champions Trophy,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+592397,592397.json,21-11-2013,24-11-2013,male,international,Test,Test,Australia,England,Australia,The Ashes,Brisbane Cricket Ground,Australia,,,4,2,False,before_window
+592398,592398.json,05-12-2013,09-12-2013,male,international,Test,Test,Australia,England,Australia,The Ashes,Adelaide Oval,Australia,,,4,2,False,before_window
+592399,592399.json,13-12-2013,17-12-2013,male,international,Test,Test,Australia,England,Australia,The Ashes,"WACA, Perth",Australia,,,4,2,False,before_window
+592400,592400.json,26-12-2013,29-12-2013,male,international,Test,Test,Australia,England,Australia,The Ashes,Melbourne Cricket Ground,Australia,,,4,2,False,before_window
+592401,592401.json,03-01-2014,05-01-2014,male,international,Test,Test,Australia,England,Australia,The Ashes,Sydney Cricket Ground,Australia,,,4,2,False,before_window
+636159,636159.json,12-01-2014,12-01-2014,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,Melbourne Cricket Ground,Australia,,,2,1,False,before_window
+636160,636160.json,17-01-2014,17-01-2014,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,Brisbane Cricket Ground,Australia,,,2,1,False,before_window
+636161,636161.json,19-01-2014,19-01-2014,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,Sydney Cricket Ground,Australia,,,2,1,False,before_window
+636162,636162.json,24-01-2014,24-01-2014,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,"WACA, Perth",England,,,2,1,False,before_window
+636163,636163.json,26-01-2014,26-01-2014,male,international,ODI,ODI,Australia,England,Australia,England in Australia ODI Series,Adelaide Oval,Australia,,,2,1,False,before_window
+636164,636164.json,29-01-2014,29-01-2014,male,international,T20,T20I,Australia,England,Australia,England in Australia T20I Series,"Bellerive Oval, Hobart",Australia,,,2,1,False,before_window
+636165,636165.json,31-01-2014,31-01-2014,male,international,T20,T20I,Australia,England,Australia,England in Australia T20I Series,Melbourne Cricket Ground,Australia,,,2,1,False,before_window
+636166,636166.json,02-02-2014,02-02-2014,male,international,T20,T20I,Australia,England,Australia,England in Australia T20I Series,"ANZ Stadium, Sydney",Australia,,,2,1,False,before_window
+636533,636533.json,28-02-2014,28-02-2014,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,,,2,1,False,before_window
+636534,636534.json,02-03-2014,02-03-2014,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,"Sir Vivian Richards Stadium, North Sound, Antigua",England,,,2,1,False,before_window
+636535,636535.json,05-03-2014,05-03-2014,male,international,ODI,ODI,West Indies,England,West Indies,England in West Indies ODI Series,"Sir Vivian Richards Stadium, North Sound, Antigua",England,,,2,1,False,before_window
+636536,636536.json,09-03-2014,09-03-2014,male,international,T20,T20I,West Indies,England,West Indies,England in West Indies T20I Series,Kensington Oval,West Indies,,,2,1,False,before_window
+636537,636537.json,11-03-2014,11-03-2014,male,international,T20,T20I,West Indies,England,West Indies,England in West Indies T20I Series,Kensington Oval,West Indies,,,2,1,False,before_window
+636538,636538.json,13-03-2014,13-03-2014,male,international,T20,T20I,West Indies,England,West Indies,England in West Indies T20I Series,Kensington Oval,England,,,2,1,False,before_window
+63963,63963.json,19-12-2001,23-12-2001,male,international,Test,Test,England,India,India,England tour of India,"M Chinnaswamy Stadium, Bangalore",,draw,,3,2,False,before_window
+64012,64012.json,26-12-2002,30-12-2002,male,international,Test,Test,Australia,England,Australia,England tour of Australia,Melbourne Cricket Ground,Australia,,,4,2,False,before_window
+64013,64013.json,02-01-2003,06-01-2003,male,international,Test,Test,England,Australia,Australia,England tour of Australia,Sydney Cricket Ground,England,,,4,2,False,before_window
+64038,64038.json,24-07-2003,28-07-2003,male,international,Test,Test,South Africa,England,South Africa,South Africa tour of England and Ireland,Edgbaston,,draw,,4,2,False,before_window
+64040,64040.json,14-08-2003,18-08-2003,male,international,Test,Test,England,South Africa,South Africa,South Africa tour of England and Ireland,Trent Bridge,England,,,4,2,False,before_window
+64041,64041.json,21-08-2003,25-08-2003,male,international,Test,Test,South Africa,England,South Africa,South Africa tour of England and Ireland,Headingley,South Africa,,,4,2,False,before_window
+64042,64042.json,04-09-2003,08-09-2003,male,international,Test,Test,South Africa,England,South Africa,South Africa tour of England and Ireland,The Oval,England,,,4,2,False,before_window
+64052,64052.json,21-10-2003,25-10-2003,male,international,Test,Test,Bangladesh,England,Bangladesh,England tour of Bangladesh,"Bangabandhu National Stadium, Dhaka",England,,,4,2,False,before_window
+64053,64053.json,29-10-2003,01-11-2003,male,international,Test,Test,England,Bangladesh,Bangladesh,England tour of Bangladesh,Chittagong Stadium,England,,,4,2,False,before_window
+64058,64058.json,18-12-2003,21-12-2003,male,international,Test,Test,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,Sinhalese Sports Club Ground,Sri Lanka,,,3,2,False,before_window
+64080,64080.json,10-04-2004,14-04-2004,male,international,Test,Test,West Indies,England,West Indies,England tour of West Indies,"Antigua Recreation Ground, St John's",,draw,,3,2,False,before_window
+64094,64094.json,29-07-2004,01-08-2004,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England,Edgbaston,England,,,4,2,False,before_window
+64096,64096.json,19-08-2004,21-08-2004,male,international,Test,Test,England,West Indies,West Indies,West Indies tour of England,The Oval,England,,,4,2,False,before_window
+64118,64118.json,02-01-2005,06-01-2005,male,international,Test,Test,South Africa,England,South Africa,England tour of South Africa,"Newlands, Cape Town",South Africa,,,4,2,False,before_window
+64843,64843.json,07-11-2003,07-11-2003,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England tour of Bangladesh,Chittagong Stadium,England,,,2,1,False,before_window
+64844,64844.json,10-11-2003,10-11-2003,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England tour of Bangladesh,"Bangabandhu National Stadium, Dhaka",England,,,2,1,False,before_window
+64845,64845.json,12-11-2003,12-11-2003,male,international,ODI,ODI,Bangladesh,England,Bangladesh,England tour of Bangladesh,"Bangabandhu National Stadium, Dhaka",England,,,2,1,False,before_window
+64846,64846.json,18-11-2003,18-11-2003,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,England tour of Sri Lanka,Rangiri Dambulla International Stadium,Sri Lanka,,,2,1,False,before_window
+64889,64889.json,24-04-2004,24-04-2004,male,international,ODI,ODI,West Indies,England,West Indies,England tour of West Indies,"Queen's Park Oval, Port of Spain, Trinidad",,no result,,1,0,False,before_window
+64894,64894.json,02-05-2004,02-05-2004,male,international,ODI,ODI,England,West Indies,West Indies,England tour of West Indies,"Beausejour Stadium, Gros Islet, St Lucia",West Indies,,,2,1,False,before_window
+64910,64910.json,28-11-2004,28-11-2004,male,international,ODI,ODI,Zimbabwe,England,Zimbabwe,England tour of Zimbabwe,Harare Sports Club,England,,,2,1,False,before_window
+64911,64911.json,01-12-2004,01-12-2004,male,international,ODI,ODI,England,Zimbabwe,Zimbabwe,England tour of Zimbabwe,Harare Sports Club,England,,,2,1,False,before_window
+64913,64913.json,05-12-2004,05-12-2004,male,international,ODI,ODI,England,Zimbabwe,Zimbabwe,England tour of Zimbabwe,"Queens Sports Club, Bulawayo",England,,,2,1,False,before_window
+64922,64922.json,30-01-2005,30-01-2005,male,international,ODI,ODI,South Africa,England,South Africa,England tour of South Africa,"Wanderers Stadium, Johannesburg",England,,D/L,2,1,False,before_window
+64924,64924.json,02-02-2005,02-02-2005,male,international,ODI,ODI,England,South Africa,South Africa,England tour of South Africa,"Mangaung Oval, Bloemfontein",,tie,,2,1,False,before_window
+64925,64925.json,04-02-2005,04-02-2005,male,international,ODI,ODI,England,South Africa,South Africa,England tour of South Africa,"St George's Park, Port Elizabeth",South Africa,,,2,1,False,before_window
+64926,64926.json,06-02-2005,06-02-2005,male,international,ODI,ODI,South Africa,England,South Africa,England tour of South Africa,"Newlands, Cape Town",South Africa,,,2,1,False,before_window
+64927,64927.json,09-02-2005,09-02-2005,male,international,ODI,ODI,South Africa,England,South Africa,England tour of South Africa,"Buffalo Park, East London",South Africa,,,2,1,False,before_window
+64928,64928.json,11-02-2005,11-02-2005,male,international,ODI,ODI,South Africa,England,South Africa,England tour of South Africa,"Kingsmead, Durban",,no result,,2,1,False,before_window
+64929,64929.json,13-02-2005,13-02-2005,male,international,ODI,ODI,England,South Africa,South Africa,England tour of South Africa,"SuperSport Park, Centurion",South Africa,,,2,1,False,before_window
+65029,65029.json,17-06-2003,17-06-2003,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan tour of England and Scotland,Old Trafford,Pakistan,,,2,1,False,before_window
+65030,65030.json,20-06-2003,20-06-2003,male,international,ODI,ODI,Pakistan,England,Pakistan,Pakistan tour of England and Scotland,The Oval,England,,,2,1,False,before_window
+65031,65031.json,22-06-2003,22-06-2003,male,international,ODI,ODI,Pakistan,England,Pakistan,Pakistan tour of England and Scotland,Lord's,England,,,2,1,False,before_window
+65032,65032.json,01-09-2004,01-09-2004,male,international,ODI,ODI,India,England,India,India tour of England,Trent Bridge,England,,,2,1,False,before_window
+65033,65033.json,03-09-2004,03-09-2004,male,international,ODI,ODI,England,India,India,India tour of England,The Oval,England,,,2,1,False,before_window
+65034,65034.json,05-09-2004,05-09-2004,male,international,ODI,ODI,India,England,India,India tour of England,Lord's,India,,,2,1,False,before_window
+65246,65246.json,16-02-2003,16-02-2003,male,international,ODI,ODI,Netherlands,England,Netherlands,ICC World Cup,"Buffalo Park, East London",England,,,2,1,False,before_window
+65252,65252.json,19-02-2003,19-02-2003,male,international,ODI,ODI,England,Namibia,Namibia,ICC World Cup,"St George's Park, Port Elizabeth",England,,,2,1,False,before_window
+65255,65255.json,22-02-2003,22-02-2003,male,international,ODI,ODI,England,Pakistan,Pakistan,ICC World Cup,"Newlands, Cape Town",England,,,2,1,False,before_window
+65262,65262.json,26-02-2003,26-02-2003,male,international,ODI,ODI,India,England,India,ICC World Cup,"Kingsmead, Durban",India,,,2,1,False,before_window
+65269,65269.json,02-03-2003,02-03-2003,male,international,ODI,ODI,England,Australia,Australia,ICC World Cup,"St George's Park, Port Elizabeth",Australia,,,2,1,False,before_window
+65635,65635.json,11-01-2003,11-01-2003,male,international,ODI,ODI,Australia,England,Australia,VB Series,"Bellerive Oval, Hobart",Australia,,,2,1,False,before_window
+65636,65636.json,13-01-2003,13-01-2003,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,VB Series,Sydney Cricket Ground,Sri Lanka,,,2,1,False,before_window
+65638,65638.json,17-01-2003,17-01-2003,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,VB Series,Adelaide Oval,England,,,2,1,False,before_window
+65639,65639.json,19-01-2003,19-01-2003,male,international,ODI,ODI,England,Australia,Australia,VB Series,Adelaide Oval,Australia,,,2,1,False,before_window
+656401,656401.json,14-02-2015,14-02-2015,male,international,ODI,ODI,Australia,England,Australia,ICC Cricket World Cup,Melbourne Cricket Ground,Australia,,,2,1,False,before_window
+65641,65641.json,23-01-2003,23-01-2003,male,international,ODI,ODI,England,Australia,Australia,VB Series,Sydney Cricket Ground,Australia,,,2,1,False,before_window
+656415,656415.json,20-02-2015,20-02-2015,male,international,ODI,ODI,New Zealand,England,New Zealand,ICC Cricket World Cup,"Westpac Stadium, Wellington",New Zealand,,,2,1,False,before_window
+65642,65642.json,25-01-2003,25-01-2003,male,international,ODI,ODI,Australia,England,Australia,VB Series,Melbourne Cricket Ground,Australia,,,2,1,False,before_window
+656425,656425.json,23-02-2015,23-02-2015,male,international,ODI,ODI,England,Scotland,Scotland,ICC Cricket World Cup,"Hagley Oval, Christchurch",England,,,2,1,False,before_window
+656441,656441.json,01-03-2015,01-03-2015,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,ICC Cricket World Cup,"Westpac Stadium, Wellington",Sri Lanka,,,2,1,False,before_window
+656463,656463.json,09-03-2015,09-03-2015,male,international,ODI,ODI,Bangladesh,England,Bangladesh,ICC Cricket World Cup,Adelaide Oval,Bangladesh,,,2,1,False,before_window
+66196,66196.json,10-09-2004,11-09-2004,male,international,ODI,ODI,England,Zimbabwe,Zimbabwe,ICC Champions Trophy,Edgbaston,England,,,2,1,False,before_window
+66205,66205.json,17-09-2004,18-09-2004,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,ICC Champions Trophy,"The Rose Bowl, Southampton",England,,D/L,2,1,False,before_window
+66208,66208.json,21-09-2004,21-09-2004,male,international,ODI,ODI,Australia,England,Australia,ICC Champions Trophy,Edgbaston,England,,,2,1,False,before_window
+66210,66210.json,25-09-2004,25-09-2004,male,international,ODI,ODI,England,West Indies,West Indies,ICC Champions Trophy,The Oval,West Indies,,,2,1,False,before_window
+66283,66283.json,27-06-2002,27-06-2002,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,NatWest Series,Trent Bridge,England,,,2,1,False,before_window
+66284,66284.json,29-06-2002,29-06-2002,male,international,ODI,ODI,England,India,India,NatWest Series,Lord's,India,,,2,1,False,before_window
+66293,66293.json,26-06-2003,26-06-2003,male,international,ODI,ODI,England,Zimbabwe,Zimbabwe,NatWest Series,Trent Bridge,Zimbabwe,,,2,1,False,before_window
+66294,66294.json,28-06-2003,28-06-2003,male,international,ODI,ODI,South Africa,England,South Africa,NatWest Series,The Oval,England,,,2,1,False,before_window
+66296,66296.json,01-07-2003,01-07-2003,male,international,ODI,ODI,England,Zimbabwe,Zimbabwe,NatWest Series,Headingley,,no result,,1,1,False,before_window
+66297,66297.json,03-07-2003,03-07-2003,male,international,ODI,ODI,England,South Africa,South Africa,NatWest Series,Old Trafford,South Africa,,,2,1,False,before_window
+66299,66299.json,06-07-2003,06-07-2003,male,international,ODI,ODI,Zimbabwe,England,Zimbabwe,NatWest Series,"County Ground, Bristol",England,,,2,1,False,before_window
+66302,66302.json,12-07-2003,12-07-2003,male,international,ODI,ODI,South Africa,England,South Africa,NatWest Series,Lord's,England,,,2,1,False,before_window
+66304,66304.json,27-06-2004,27-06-2004,male,international,ODI,ODI,England,West Indies,West Indies,NatWest Series,Trent Bridge,West Indies,,,2,1,False,before_window
+66305,66305.json,29-06-2004,29-06-2004,male,international,ODI,ODI,England,New Zealand,New Zealand,NatWest Series,"Riverside Ground, Chester-le-Street",New Zealand,,,2,1,False,before_window
+66306,66306.json,01-07-2004,01-07-2004,male,international,ODI,ODI,West Indies,England,West Indies,NatWest Series,Headingley,England,,,2,1,False,before_window
+66309,66309.json,06-07-2004,06-07-2004,male,international,ODI,ODI,England,West Indies,West Indies,NatWest Series,Lord's,West Indies,,,2,1,False,before_window
+667711,667711.json,09-07-2014,13-07-2014,male,international,Test,Test,England,India,India,Pataudi Trophy,Trent Bridge,,draw,,3,1,False,before_window
+667713,667713.json,17-07-2014,21-07-2014,male,international,Test,Test,England,India,India,Pataudi Trophy,Lord's,India,,,4,2,False,before_window
+667715,667715.json,27-07-2014,31-07-2014,male,international,Test,Test,England,India,India,Pataudi Trophy,"The Rose Bowl, Southampton",England,,,4,2,False,before_window
+667717,667717.json,07-08-2014,09-08-2014,male,international,Test,Test,England,India,India,Pataudi Trophy,Old Trafford,England,,,3,1,False,before_window
+667719,667719.json,15-08-2014,17-08-2014,male,international,Test,Test,England,India,India,Pataudi Trophy,The Oval,England,,,3,1,False,before_window
+667723,667723.json,27-08-2014,27-08-2014,male,international,ODI,ODI,England,India,India,India in England ODI Series,"Sophia Gardens, Cardiff",India,,D/L,2,1,False,before_window
+667725,667725.json,30-08-2014,30-08-2014,male,international,ODI,ODI,England,India,India,India in England ODI Series,Trent Bridge,India,,,2,1,False,before_window
+667727,667727.json,02-09-2014,02-09-2014,male,international,ODI,ODI,England,India,India,India in England ODI Series,Edgbaston,India,,,2,1,False,before_window
+667729,667729.json,05-09-2014,05-09-2014,male,international,ODI,ODI,England,India,India,India in England ODI Series,Headingley,England,,,2,1,False,before_window
+667731,667731.json,07-09-2014,07-09-2014,male,international,T20,T20I,England,India,India,,Edgbaston,England,,,2,1,False,before_window
+667887,667887.json,20-05-2014,20-05-2014,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,,The Oval,Sri Lanka,,,2,1,False,before_window
+667889,667889.json,22-05-2014,22-05-2014,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka in England ODI Series,The Oval,England,,D/L,2,1,False,before_window
+667891,667891.json,25-05-2014,25-05-2014,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka in England ODI Series,"Riverside Ground, Chester-le-Street",Sri Lanka,,,2,1,False,before_window
+667893,667893.json,28-05-2014,28-05-2014,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka in England ODI Series,Old Trafford,England,,,2,1,False,before_window
+667895,667895.json,31-05-2014,31-05-2014,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka in England ODI Series,Lord's,Sri Lanka,,,2,1,False,before_window
+667897,667897.json,03-06-2014,03-06-2014,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka in England ODI Series,Edgbaston,Sri Lanka,,,2,1,False,before_window
+667899,667899.json,12-06-2014,16-06-2014,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka in England Test Series,Lord's,,draw,,4,2,False,before_window
+667901,667901.json,20-06-2014,24-06-2014,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka in England Test Series,Headingley,Sri Lanka,,,4,2,False,before_window
+682925,682925.json,22-03-2014,22-03-2014,male,international,T20,T20I,England,New Zealand,New Zealand,ICC Men's T20 World Cup,"Zahur Ahmed Chowdhury Stadium, Chittagong",New Zealand,,D/L,2,1,False,before_window
+682939,682939.json,27-03-2014,27-03-2014,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,World T20,"Zahur Ahmed Chowdhury Stadium, Chittagong",England,,,2,1,False,before_window
+682947,682947.json,29-03-2014,29-03-2014,male,international,T20,T20I,England,South Africa,South Africa,World T20,"Zahur Ahmed Chowdhury Stadium, Chittagong",South Africa,,,2,1,False,before_window
+682953,682953.json,31-03-2014,31-03-2014,male,international,T20,T20I,England,Netherlands,Netherlands,World T20,"Zahur Ahmed Chowdhury Stadium, Chittagong",Netherlands,,,2,1,False,before_window
+684679,684679.json,09-05-2014,09-05-2014,male,international,ODI,ODI,Scotland,England,Scotland,,"Mannofield Park, Aberdeen",England,,D/L,2,1,False,before_window
+743939,743939.json,21-05-2015,25-05-2015,male,international,Test,Test,England,New Zealand,New Zealand,New Zealand in England Test Series,Lord's,England,,,4,2,False,before_window
+743941,743941.json,29-05-2015,02-06-2015,male,international,Test,Test,England,New Zealand,New Zealand,New Zealand in England Test Series,Headingley,New Zealand,,,4,2,False,before_window
+743943,743943.json,09-06-2015,09-06-2015,male,international,ODI,ODI,England,New Zealand,New Zealand,New Zealand in England ODI Series,Edgbaston,England,,,2,1,False,before_window
+743945,743945.json,12-06-2015,12-06-2015,male,international,ODI,ODI,England,New Zealand,New Zealand,New Zealand in England ODI Series,The Oval,New Zealand,,D/L,2,1,False,before_window
+743947,743947.json,14-06-2015,14-06-2015,male,international,ODI,ODI,England,New Zealand,New Zealand,New Zealand in England ODI Series,"The Rose Bowl, Southampton",New Zealand,,,2,1,False,before_window
+743949,743949.json,17-06-2015,17-06-2015,male,international,ODI,ODI,England,New Zealand,New Zealand,New Zealand in England ODI Series,Trent Bridge,England,,,2,1,False,before_window
+743951,743951.json,20-06-2015,20-06-2015,male,international,ODI,ODI,England,New Zealand,New Zealand,New Zealand in England ODI Series,"Riverside Ground, Chester-le-Street",England,,D/L,2,1,False,before_window
+743953,743953.json,23-06-2015,23-06-2015,male,international,T20,T20I,England,New Zealand,New Zealand,,Old Trafford,England,,,2,1,False,before_window
+743963,743963.json,08-07-2015,11-07-2015,male,international,Test,Test,England,Australia,Australia,The Ashes,"Sophia Gardens, Cardiff",England,,,4,2,False,before_window
+743965,743965.json,16-07-2015,19-07-2015,male,international,Test,Test,England,Australia,Australia,The Ashes,Lord's,Australia,,,4,2,False,before_window
+743967,743967.json,29-07-2015,31-07-2015,male,international,Test,Test,England,Australia,Australia,The Ashes,Edgbaston,England,,,4,2,False,before_window
+743969,743969.json,06-08-2015,08-08-2015,male,international,Test,Test,England,Australia,Australia,The Ashes,Trent Bridge,England,,,3,1,False,before_window
+743971,743971.json,20-08-2015,23-08-2015,male,international,Test,Test,England,Australia,Australia,The Ashes,The Oval,Australia,,,3,2,False,before_window
+743975,743975.json,31-08-2015,31-08-2015,male,international,T20,T20I,England,Australia,Australia,,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+743977,743977.json,03-09-2015,03-09-2015,male,international,ODI,ODI,England,Australia,Australia,Australia in England ODI Series,"The Rose Bowl, Southampton",Australia,,,2,1,False,before_window
+743979,743979.json,05-09-2015,05-09-2015,male,international,ODI,ODI,England,Australia,Australia,Australia in England ODI Series,Lord's,Australia,,,2,1,False,before_window
+743981,743981.json,08-09-2015,08-09-2015,male,international,ODI,ODI,England,Australia,Australia,Australia in England ODI Series,Old Trafford,England,,,2,1,False,before_window
+743983,743983.json,11-09-2015,11-09-2015,male,international,ODI,ODI,England,Australia,Australia,Australia in England ODI Series,Headingley,England,,,2,1,False,before_window
+743985,743985.json,13-09-2015,13-09-2015,male,international,ODI,ODI,England,Australia,Australia,Australia in England ODI Series,Old Trafford,Australia,,,2,1,False,before_window
+750663,750663.json,26-11-2014,26-11-2014,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Sri Lanka,,,2,1,False,before_window
+750665,750665.json,29-11-2014,29-11-2014,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Sri Lanka,,,2,1,False,before_window
+750667,750667.json,03-12-2014,03-12-2014,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",England,,D/L,2,1,False,before_window
+750669,750669.json,07-12-2014,07-12-2014,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Sri Lanka,,,2,1,False,before_window
+750671,750671.json,10-12-2014,11-12-2014,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,Pallekele International Cricket Stadium,England,,,2,1,False,before_window
+750673,750673.json,13-12-2014,13-12-2014,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,Pallekele International Cricket Stadium,Sri Lanka,,,2,1,False,before_window
+750675,750675.json,16-12-2014,16-12-2014,male,international,ODI,ODI,Sri Lanka,England,Sri Lanka,England in Sri Lanka ODI Series,"R Premadasa Stadium, Colombo",Sri Lanka,,,2,1,False,before_window
+754751,754751.json,16-01-2015,16-01-2015,male,international,ODI,ODI,Australia,England,Australia,Carlton Mid One-Day International Tri-Series,Sydney Cricket Ground,Australia,,,2,1,False,before_window
+754753,754753.json,20-01-2015,20-01-2015,male,international,ODI,ODI,England,India,India,Carlton Mid One-Day International Tri-Series,Brisbane Cricket Ground,England,,,2,1,False,before_window
+754755,754755.json,23-01-2015,23-01-2015,male,international,ODI,ODI,Australia,England,Australia,Carlton Mid One-Day International Tri-Series,"Bellerive Oval, Hobart",Australia,,,2,1,False,before_window
+754759,754759.json,30-01-2015,30-01-2015,male,international,ODI,ODI,England,India,India,Carlton Mid One-Day International Tri-Series,"WACA, Perth",England,,,2,1,False,before_window
+754761,754761.json,01-02-2015,01-02-2015,male,international,ODI,ODI,Australia,England,Australia,Carlton Mid One-Day International Tri-Series,"WACA, Perth",Australia,,,2,1,False,before_window
+760889,760889.json,08-05-2015,08-05-2015,male,international,ODI,ODI,Ireland,England,Ireland,,"Malahide Cricket Ground, Dublin",,no result,,1,0,False,before_window
+766929,766929.json,13-04-2015,17-04-2015,male,international,Test,Test,West Indies,England,West Indies,The Wisden Trophy,"Sir Vivian Richards Stadium, North Sound, Antigua",,draw,,4,2,False,before_window
+766931,766931.json,21-04-2015,25-04-2015,male,international,Test,Test,West Indies,England,West Indies,The Wisden Trophy,"National Cricket Stadium, St George's, Grenada",England,,,4,2,False,before_window
+766933,766933.json,01-05-2015,03-05-2015,male,international,Test,Test,West Indies,England,West Indies,The Wisden Trophy,Kensington Oval,West Indies,,,4,2,False,before_window
+800461,800461.json,26-12-2015,30-12-2015,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"Kingsmead, Durban",England,,,4,2,False,before_window
+800463,800463.json,02-01-2016,06-01-2016,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"Newlands, Cape Town",,draw,,3,2,False,before_window
+800465,800465.json,14-01-2016,16-01-2016,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"Wanderers Stadium, Johannesburg",England,,,4,2,False,before_window
+800467,800467.json,22-01-2016,26-01-2016,male,international,Test,Test,South Africa,England,South Africa,Basil D'Oliveira Trophy,"SuperSport Park, Centurion",South Africa,,,4,2,False,before_window
+800469,800469.json,03-02-2016,03-02-2016,male,international,ODI,ODI,South Africa,England,South Africa,England in South Africa ODI Series,"Mangaung Oval, Bloemfontein",England,,D/L,2,1,False,before_window
+800471,800471.json,06-02-2016,06-02-2016,male,international,ODI,ODI,South Africa,England,South Africa,England in South Africa ODI Series,"St George's Park, Port Elizabeth",England,,,2,1,False,before_window
+800473,800473.json,09-02-2016,09-02-2016,male,international,ODI,ODI,South Africa,England,South Africa,England in South Africa ODI Series,"SuperSport Park, Centurion",South Africa,,,2,1,False,before_window
+800475,800475.json,12-02-2016,12-02-2016,male,international,ODI,ODI,South Africa,England,South Africa,England in South Africa ODI Series,"Wanderers Stadium, Johannesburg",South Africa,,,2,1,False,before_window
+800477,800477.json,14-02-2016,14-02-2016,male,international,ODI,ODI,South Africa,England,South Africa,England in South Africa ODI Series,"Newlands, Cape Town",South Africa,,,2,1,False,before_window
+800479,800479.json,19-02-2016,19-02-2016,male,international,T20,T20I,South Africa,England,South Africa,England in South Africa T20I Series,"Newlands, Cape Town",South Africa,,,2,1,False,before_window
+800481,800481.json,21-02-2016,21-02-2016,male,international,T20,T20I,South Africa,England,South Africa,England in South Africa T20I Series,"Wanderers Stadium, Johannesburg",South Africa,,,2,1,False,before_window
+902635,902635.json,13-10-2015,17-10-2015,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan v England Test Series,"Sheikh Zayed Stadium, Abu Dhabi",,draw,,4,2,False,before_window
+902637,902637.json,22-10-2015,26-10-2015,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan v England Test Series,Dubai International Cricket Stadium,Pakistan,,,4,2,False,before_window
+902639,902639.json,01-11-2015,05-11-2015,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan v England Test Series,Sharjah Cricket Stadium,Pakistan,,,4,2,False,before_window
+902641,902641.json,11-11-2015,11-11-2015,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan v England ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",Pakistan,,,2,1,False,before_window
+902643,902643.json,13-11-2015,13-11-2015,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan v England ODI Series,"Sheikh Zayed Stadium, Abu Dhabi",England,,,2,1,False,before_window
+902645,902645.json,17-11-2015,17-11-2015,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan v England ODI Series,Sharjah Cricket Stadium,England,,,2,1,False,before_window
+902647,902647.json,20-11-2015,20-11-2015,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan v England ODI Series,Dubai International Cricket Stadium,England,,,2,1,False,before_window
+902649,902649.json,26-11-2015,26-11-2015,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan v England T20I Series,Dubai International Cricket Stadium,England,,,2,1,False,before_window
+902651,902651.json,27-11-2015,27-11-2015,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan v England T20I Series,Dubai International Cricket Stadium,England,,,2,1,False,before_window
+902653,902653.json,30-11-2015,30-11-2015,male,international,T20,T20I,England,Pakistan,Pakistan,Pakistan v England T20I Series,Sharjah Cricket Stadium,,tie,,4,2,False,before_window
+913613,913613.json,19-05-2016,21-05-2016,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka in England Test Series,Headingley,England,,,3,1,False,before_window
+913615,913615.json,27-05-2016,30-05-2016,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka in England Test Series,"Riverside Ground, Chester-le-Street",England,,,4,2,False,before_window
+913617,913617.json,09-06-2016,13-06-2016,male,international,Test,Test,England,Sri Lanka,Sri Lanka,Sri Lanka in England Test Series,Lord's,,draw,,4,2,False,before_window
+913623,913623.json,21-06-2016,21-06-2016,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka in England ODI Series,Trent Bridge,,tie,,2,1,False,before_window
+913625,913625.json,24-06-2016,24-06-2016,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka in England ODI Series,Edgbaston,England,,,2,1,False,before_window
+913627,913627.json,26-06-2016,26-06-2016,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka in England ODI Series,"County Ground, Bristol",,no result,,2,1,False,before_window
+913629,913629.json,29-06-2016,29-06-2016,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka in England ODI Series,The Oval,England,,D/L,2,1,False,before_window
+913631,913631.json,02-07-2016,02-07-2016,male,international,ODI,ODI,England,Sri Lanka,Sri Lanka,Sri Lanka in England ODI Series,"Sophia Gardens, Cardiff",England,,,2,1,False,before_window
+913633,913633.json,05-07-2016,05-07-2016,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,,"The Rose Bowl, Southampton",England,,,2,1,False,before_window
+913641,913641.json,14-07-2016,17-07-2016,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan in England Test Series,Lord's,Pakistan,,,4,2,False,before_window
+913643,913643.json,22-07-2016,25-07-2016,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan in England Test Series,Old Trafford,England,,,4,2,False,before_window
+913645,913645.json,03-08-2016,07-08-2016,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan in England Test Series,Edgbaston,England,,,4,2,False,before_window
+913647,913647.json,11-08-2016,14-08-2016,male,international,Test,Test,England,Pakistan,Pakistan,Pakistan in England Test Series,The Oval,Pakistan,,,4,2,False,before_window
+913653,913653.json,24-08-2016,24-08-2016,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan in England ODI Series,"The Rose Bowl, Southampton",England,,D/L,2,1,False,before_window
+913655,913655.json,27-08-2016,27-08-2016,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan in England ODI Series,Lord's,England,,,2,1,False,before_window
+913657,913657.json,30-08-2016,30-08-2016,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan in England ODI Series,Trent Bridge,England,,,2,1,False,before_window
+913659,913659.json,01-09-2016,01-09-2016,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan in England ODI Series,Headingley,England,,,2,1,False,before_window
+913661,913661.json,04-09-2016,04-09-2016,male,international,ODI,ODI,England,Pakistan,Pakistan,Pakistan in England ODI Series,"Sophia Gardens, Cardiff",Pakistan,,,2,1,False,before_window
+913663,913663.json,07-09-2016,07-09-2016,male,international,T20,T20I,England,Pakistan,Pakistan,,Old Trafford,Pakistan,,,2,1,False,before_window
+951331,951331.json,16-03-2016,16-03-2016,male,international,T20,T20I,England,West Indies,West Indies,World T20,"Wankhede Stadium, Mumbai",West Indies,,,2,1,False,before_window
+951339,951339.json,18-03-2016,18-03-2016,male,international,T20,T20I,England,South Africa,South Africa,World T20,"Wankhede Stadium, Mumbai",England,,,2,1,False,before_window
+951361,951361.json,26-03-2016,26-03-2016,male,international,T20,T20I,England,Sri Lanka,Sri Lanka,World T20,"Feroz Shah Kotla, Delhi",England,,,2,1,False,before_window
+951369,951369.json,30-03-2016,30-03-2016,male,international,T20,T20I,England,New Zealand,New Zealand,World T20,"Feroz Shah Kotla, Delhi",England,,,2,1,False,before_window
+951373,951373.json,03-04-2016,03-04-2016,male,international,T20,T20I,England,West Indies,West Indies,World T20,"Eden Gardens, Kolkata",West Indies,,,2,1,False,before_window
