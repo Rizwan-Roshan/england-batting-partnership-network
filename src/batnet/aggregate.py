@@ -60,8 +60,13 @@ def build_node_table(obs: pd.DataFrame, players: pd.DataFrame) -> pd.DataFrame:
     innings_batted: distinct innings in which the player has >= 1 observation.
     partnership_observations: observations the player took part in.
     distinct_partners: distinct other players partnered (= graph degree).
+    first_date / last_date: first and last match date with an observation.
+    median_entry_partnership: median, over the player's innings, of the
+        sequence number of the first partnership the player took part in
+        (1 = opened the innings). Derived from the observations only; it is a
+        description of when the player usually came in, not a declared role.
     """
-    cols = ["format", "match_id", "innings_index"]
+    cols = ["format", "match_id", "innings_index", "match_date", "partnership_seq"]
     a = obs[cols + ["player_1_id", "player_2_id"]].set_axis(cols + ["player_id", "partner_id"], axis=1)
     b = obs[cols + ["player_2_id", "player_1_id"]].set_axis(cols + ["player_id", "partner_id"], axis=1)
     long = pd.concat([a, b], ignore_index=True)
@@ -71,7 +76,12 @@ def build_node_table(obs: pd.DataFrame, players: pd.DataFrame) -> pd.DataFrame:
         innings_batted=("innings_key", "nunique"),
         partnership_observations=("partner_id", "size"),
         distinct_partners=("partner_id", "nunique"),
+        first_date=("match_date", "min"),
+        last_date=("match_date", "max"),
     ).reset_index()
+    entry = (long.groupby(["format", "player_id", "innings_key"])["partnership_seq"].min()
+             .groupby(["format", "player_id"]).median().rename("median_entry_partnership").reset_index())
+    nodes = nodes.merge(entry, on=["format", "player_id"], how="left", validate="one_to_one")
     nodes.insert(2, "player_name", nodes["player_id"].map(players.set_index("player_id")["player_name"]))
     return nodes
 
@@ -85,6 +95,8 @@ def build_graph(nodes: pd.DataFrame, edges: pd.DataFrame, fmt: str) -> nx.Graph:
             format=fmt, matches_batted=int(r.matches_batted), innings_batted=int(r.innings_batted),
             partnership_observations=int(r.partnership_observations),
             distinct_partners=int(r.distinct_partners),
+            first_date=str(r.first_date), last_date=str(r.last_date),
+            median_entry_partnership=float(r.median_entry_partnership),
         )
     for r in edges[edges["format"] == fmt].itertuples(index=False):
         g.add_edge(

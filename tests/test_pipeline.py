@@ -63,6 +63,8 @@ def test_08b_reunited_pair_one_edge_two_observations():
     assert (ab.weight, ab.partnership_count, ab.total_matches, ab.total_innings) == (12, 2, 1, 1)
     b = nodes[nodes.player_id == "id_b"].iloc[0]
     assert (b.matches_batted, b.innings_batted, b.partnership_observations, b.distinct_partners) == (1, 1, 3, 2)
+    entry = nodes.set_index("player_id")["median_entry_partnership"]
+    assert (entry["id_a"], entry["id_b"], entry["id_c"]) == (1, 1, 2)
 
 
 def test_10_same_pair_different_formats_separate_graphs():

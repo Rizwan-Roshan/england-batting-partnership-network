@@ -18,8 +18,9 @@ def graph_with_metrics(fmt: str):
     nodes = tables.read_csv(config.PROCESSED_DIR / f"nodes_{slug}.csv")
     edges = tables.read_csv(config.PROCESSED_DIR / f"edges_{slug}.csv")
     # GraphML dates use the same DD-MM-YYYY text as the CSV tables.
-    for col in ("first_date", "last_date"):
-        edges[col] = pd.to_datetime(edges[col]).dt.strftime(config.DATE_FMT)
+    for df in (nodes, edges):
+        for col in ("first_date", "last_date"):
+            df[col] = pd.to_datetime(df[col]).dt.strftime(config.DATE_FMT)
     g = aggregate.build_graph(nodes, edges, fmt)
     nm = tables.read_csv(config.TABLES_DIR / f"node_metrics_{slug}.csv").set_index("player_id")
     for v in g.nodes:

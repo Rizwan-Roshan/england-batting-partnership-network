@@ -99,6 +99,8 @@ def node_metrics(g: nx.Graph) -> pd.DataFrame:
             "format": data["format"], "player_id": v, "player_name": data["player_name"],
             "matches_batted": data["matches_batted"], "innings_batted": data["innings_batted"],
             "partnership_observations": data["partnership_observations"],
+            "first_date": data.get("first_date", ""), "last_date": data.get("last_date", ""),
+            "median_entry_partnership": data.get("median_entry_partnership", float("nan")),
             "degree": deg[v], "degree_centrality": deg[v] / (n - 1),
             "strength": int(strength[v]), "strength_per_innings": strength[v] / data["innings_batted"],
             "betweenness": betw[v],

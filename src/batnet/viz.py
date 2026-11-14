@@ -95,14 +95,29 @@ def figure_single(g: nx.Graph, nm: pd.DataFrame, fmt: str, path) -> None:
 
 
 def figure_comparison(graphs: dict, node_tables: dict, path) -> None:
-    fig, axes = plt.subplots(1, 3, figsize=(18, 6.6), facecolor=SURFACE)
-    for ax, fmt in zip(axes, config.FORMATS):
+    """2 x 2 grid: one panel per format plus a key, identical scales."""
+    fig, axes = plt.subplots(2, 2, figsize=(9.4, 9.6), facecolor=SURFACE)
+    flat = axes.ravel()
+    for ax, fmt in zip(flat, config.FORMATS):
         g = graphs[fmt]
         draw_network(ax, g, node_tables[fmt], f"{fmt}: {g.number_of_nodes()} batters, {g.number_of_edges()} pairs",
-                     n_labels=8, font=8.5)
-    fig.text(0.01, 0.01, CAPTION + " Node and edge scales are identical in the three panels.",
-             fontsize=8.5, color=MUTED)
-    fig.subplots_adjust(wspace=0.02, left=0.01, right=0.99, top=0.94, bottom=0.05)
+                     n_labels=9, size_scale=0.75, font=9)
+    key = flat[3]
+    key.set_axis_off()
+    key.set_xlim(0, 1); key.set_ylim(0, 1)
+    key.text(0.05, 0.93, "Key (same scales in all panels)", fontsize=11, color=INK)
+    for i, runs in enumerate((500, 5000, 15000)):
+        y = 0.80 - 0.11 * i
+        key.scatter([0.12], [y], s=0.75 * (25 + 1100 * runs / 15303.0), color=OTHER_COLOUR, edgecolors=SURFACE)
+        key.text(0.24, y, f"strength {runs:,} runs", va="center", fontsize=9, color=MUTED)
+    for i, runs in enumerate((50, 500, 2500)):
+        y = 0.44 - 0.07 * i
+        key.plot([0.05, 0.19], [y, y], lw=0.25 + 5.0 * runs / 2697.0, color="#8a8a86", solid_capstyle="round")
+        key.text(0.24, y, f"pair total {runs:,} runs", va="center", fontsize=9, color=MUTED)
+    key.text(0.05, 0.16, "Colour: Louvain community, numbered by size\nwithin each format.\n"
+             "Layout: ForceAtlas2 on the unweighted ties;\npositions are a drawing aid, not a measure.",
+             fontsize=9, color=MUTED, va="center", linespacing=1.35)
+    fig.subplots_adjust(wspace=0.02, hspace=0.06, left=0.01, right=0.99, top=0.97, bottom=0.01)
     fig.savefig(path, dpi=300, bbox_inches="tight", facecolor=SURFACE)
     plt.close(fig)
 
