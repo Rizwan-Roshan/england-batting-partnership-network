@@ -1,0 +1,3 @@
+2026-11-14 19:05:17,704 INFO batnet.07_graphml: Test -> england_men_test.graphml: 51 nodes, 335 edges, round trip OK
+2026-11-14 19:05:17,733 INFO batnet.07_graphml: ODI -> england_men_odi.graphml: 50 nodes, 262 edges, round trip OK
+2026-11-14 19:05:17,757 INFO batnet.07_graphml: T20I -> england_men_t20i.graphml: 44 nodes, 222 edges, round trip OK

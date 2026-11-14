@@ -1,0 +1,5460 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d30" for="edge" attr.name="max_partnership_runs" attr.type="long"/>
+<key id="d29" for="edge" attr.name="min_partnership_runs" attr.type="long"/>
+<key id="d28" for="edge" attr.name="median_partnership_runs" attr.type="double"/>
+<key id="d27" for="edge" attr.name="mean_partnership_runs" attr.type="double"/>
+<key id="d26" for="edge" attr.name="format" attr.type="string"/>
+<key id="d25" for="edge" attr.name="last_date" attr.type="string"/>
+<key id="d24" for="edge" attr.name="first_date" attr.type="string"/>
+<key id="d23" for="edge" attr.name="total_innings" attr.type="long"/>
+<key id="d22" for="edge" attr.name="total_matches" attr.type="long"/>
+<key id="d21" for="edge" attr.name="partnership_count" attr.type="long"/>
+<key id="d20" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d19" for="node" attr.name="constraint" attr.type="double"/>
+<key id="d18" for="node" attr.name="effective_size" attr.type="double"/>
+<key id="d17" for="node" attr.name="community" attr.type="long"/>
+<key id="d16" for="node" attr.name="core_number" attr.type="long"/>
+<key id="d15" for="node" attr.name="clustering" attr.type="double"/>
+<key id="d14" for="node" attr.name="eigenvector_lcc" attr.type="double"/>
+<key id="d13" for="node" attr.name="closeness_lcc" attr.type="double"/>
+<key id="d12" for="node" attr.name="betweenness" attr.type="double"/>
+<key id="d11" for="node" attr.name="strength_per_innings" attr.type="double"/>
+<key id="d10" for="node" attr.name="strength" attr.type="long"/>
+<key id="d9" for="node" attr.name="degree" attr.type="long"/>
+<key id="d8" for="node" attr.name="distinct_partners" attr.type="long"/>
+<key id="d7" for="node" attr.name="partnership_observations" attr.type="long"/>
+<key id="d6" for="node" attr.name="innings_batted" attr.type="long"/>
+<key id="d5" for="node" attr.name="matches_batted" attr.type="long"/>
+<key id="d4" for="node" attr.name="format" attr.type="string"/>
+<key id="d3" for="node" attr.name="label" attr.type="string"/>
+<key id="d2" for="node" attr.name="player_name" attr.type="string"/>
+<key id="d1" for="node" attr.name="player_id" attr.type="string"/>
+<key id="d0" for="graph" attr.name="format" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">Test</data>
+<node id="0ecb4de6">
+  <data key="d1">0ecb4de6</data>
+  <data key="d2">Rehan Ahmed</data>
+  <data key="d3">Rehan Ahmed</data>
+  <data key="d4">Test</data>
+  <data key="d5">5</data>
+  <data key="d6">10</data>
+  <data key="d7">13</data>
+  <data key="d8">9</data>
+  <data key="d9">9</data>
+  <data key="d10">221</data>
+  <data key="d11">22.1</data>
+  <data key="d12">0.0020667476929033</data>
+  <data key="d13">0.5102040816326531</data>
+  <data key="d14">0.0086676056535946</data>
+  <data key="d15">0.5833333333333334</data>
+  <data key="d16">8</data>
+  <data key="d17">3</data>
+  <data key="d18">4.333333333333333</data>
+  <data key="d19">0.1717553008272275</data>
+</node>
+<node id="0f3ee070">
+  <data key="d1">0f3ee070</data>
+  <data key="d2">OE Robinson</data>
+  <data key="d3">OE Robinson</data>
+  <data key="d4">Test</data>
+  <data key="d5">24</data>
+  <data key="d6">39</data>
+  <data key="d7">57</data>
+  <data key="d8">23</data>
+  <data key="d9">23</data>
+  <data key="d10">970</data>
+  <data key="d11">24.871794871794872</data>
+  <data key="d12">0.0281599337453637</data>
+  <data key="d13">0.6410256410256411</data>
+  <data key="d14">0.0255093369962816</data>
+  <data key="d15">0.5217391304347826</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">11.521739130434783</data>
+  <data key="d19">0.1158776172917309</data>
+</node>
+<node id="0f6db197">
+  <data key="d1">0f6db197</data>
+  <data key="d2">S Mahmood</data>
+  <data key="d3">S Mahmood</data>
+  <data key="d4">Test</data>
+  <data key="d5">1</data>
+  <data key="d6">2</data>
+  <data key="d7">2</data>
+  <data key="d8">1</data>
+  <data key="d9">1</data>
+  <data key="d10">94</data>
+  <data key="d11">47.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.3875968992248062</data>
+  <data key="d14">0.0001115503591587</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">1</data>
+  <data key="d18">1.0</data>
+  <data key="d19">1.0</data>
+</node>
+<node id="19708692">
+  <data key="d1">19708692</data>
+  <data key="d2">MW Parkinson</data>
+  <data key="d3">MW Parkinson</data>
+  <data key="d4">Test</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7">1</data>
+  <data key="d8">1</data>
+  <data key="d9">1</data>
+  <data key="d10">11</data>
+  <data key="d11">11.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.3875968992248062</data>
+  <data key="d14">1.5754133766061655e-05</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">1</data>
+  <data key="d18">1.0</data>
+  <data key="d19">1.0</data>
+</node>
+<node id="1cc0a83d">
+  <data key="d1">1cc0a83d</data>
+  <data key="d2">J Hull</data>
+  <data key="d3">J Hull</data>
+  <data key="d4">Test</data>
+  <data key="d5">1</data>
+  <data key="d6">2</data>
+  <data key="d7">3</data>
+  <data key="d8">2</data>
+  <data key="d9">2</data>
+  <data key="d10">27</data>
+  <data key="d11">13.5</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.3816793893129771</data>
+  <data key="d14">2.1094658403102426e-05</data>
+  <data key="d15">1.0</data>
+  <data key="d16">2</data>
+  <data key="d17">1</data>
+  <data key="d18">1.0</data>
+  <data key="d19">0.5778472222222222</data>
+</node>
+<node id="1f1b4c89">
+  <data key="d1">1f1b4c89</data>
+  <data key="d2">JC Tongue</data>
+  <data key="d3">JC Tongue</data>
+  <data key="d4">Test</data>
+  <data key="d5">13</data>
+  <data key="d6">22</data>
+  <data key="d7">27</data>
+  <data key="d8">13</data>
+  <data key="d9">13</data>
+  <data key="d10">320</data>
+  <data key="d11">14.545454545454543</data>
+  <data key="d12">0.0099255072778172</data>
+  <data key="d13">0.5434782608695652</data>
+  <data key="d14">0.0018962480740836</data>
+  <data key="d15">0.5641025641025641</data>
+  <data key="d16">10</data>
+  <data key="d17">1</data>
+  <data key="d18">6.230769230769231</data>
+  <data key="d19">0.1518975024572454</data>
+</node>
+<node id="22b98d7c">
+  <data key="d1">22b98d7c</data>
+  <data key="d2">TW Hartley</data>
+  <data key="d3">TW Hartley</data>
+  <data key="d4">Test</data>
+  <data key="d5">5</data>
+  <data key="d6">10</data>
+  <data key="d7">15</data>
+  <data key="d8">8</data>
+  <data key="d9">8</data>
+  <data key="d10">367</data>
+  <data key="d11">36.7</data>
+  <data key="d12">0.0011703020693353</data>
+  <data key="d13">0.5102040816326531</data>
+  <data key="d14">0.0147033650883223</data>
+  <data key="d15">0.75</data>
+  <data key="d16">8</data>
+  <data key="d17">2</data>
+  <data key="d18">2.75</data>
+  <data key="d19">0.1943028301744093</data>
+</node>
+<node id="29e8a62e">
+  <data key="d1">29e8a62e</data>
+  <data key="d2">RJ Burns</data>
+  <data key="d3">RJ Burns</data>
+  <data key="d4">Test</data>
+  <data key="d5">17</data>
+  <data key="d6">30</data>
+  <data key="d7">54</data>
+  <data key="d8">14</data>
+  <data key="d9">14</data>
+  <data key="d10">1699</data>
+  <data key="d11">56.63333333333333</data>
+  <data key="d12">0.010858677852549</data>
+  <data key="d13">0.5434782608695652</data>
+  <data key="d14">0.0575103592848124</data>
+  <data key="d15">0.5714285714285714</data>
+  <data key="d16">10</data>
+  <data key="d17">4</data>
+  <data key="d18">6.571428571428571</data>
+  <data key="d19">0.1639400658670351</data>
+</node>
+<node id="3987e390">
+  <data key="d1">3987e390</data>
+  <data key="d2">MJ Leach</data>
+  <data key="d3">MJ Leach</data>
+  <data key="d4">Test</data>
+  <data key="d5">26</data>
+  <data key="d6">41</data>
+  <data key="d7">58</data>
+  <data key="d8">20</data>
+  <data key="d9">20</data>
+  <data key="d10">720</data>
+  <data key="d11">17.5609756097561</data>
+  <data key="d12">0.0566378551843251</data>
+  <data key="d13">0.625</data>
+  <data key="d14">0.007505077002289</data>
+  <data key="d15">0.5736842105263158</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">9.1</data>
+  <data key="d19">0.1186135342318287</data>
+</node>
+<node id="3c55c703">
+  <data key="d1">3c55c703</data>
+  <data key="d2">JG Bethell</data>
+  <data key="d3">JG Bethell</data>
+  <data key="d4">Test</data>
+  <data key="d5">9</data>
+  <data key="d6">18</data>
+  <data key="d7">37</data>
+  <data key="d8">11</data>
+  <data key="d9">11</data>
+  <data key="d10">1331</data>
+  <data key="d11">73.94444444444444</data>
+  <data key="d12">0.003668834113732</data>
+  <data key="d13">0.5263157894736842</data>
+  <data key="d14">0.0730161584173767</data>
+  <data key="d15">0.6727272727272727</data>
+  <data key="d16">9</data>
+  <data key="d17">3</data>
+  <data key="d18">4.2727272727272725</data>
+  <data key="d19">0.1818073157372161</data>
+</node>
+<node id="3f659464">
+  <data key="d1">3f659464</data>
+  <data key="d2">OP Stone</data>
+  <data key="d3">OP Stone</data>
+  <data key="d4">Test</data>
+  <data key="d5">4</data>
+  <data key="d6">8</data>
+  <data key="d7">15</data>
+  <data key="d8">12</data>
+  <data key="d9">12</data>
+  <data key="d10">247</data>
+  <data key="d11">30.875</data>
+  <data key="d12">0.0193167331534678</data>
+  <data key="d13">0.5376344086021505</data>
+  <data key="d14">0.0043739548164716</data>
+  <data key="d15">0.6363636363636364</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">5.0</data>
+  <data key="d19">0.1567589622813639</data>
+</node>
+<node id="4a461c24">
+  <data key="d1">4a461c24</data>
+  <data key="d2">LA Dawson</data>
+  <data key="d3">LA Dawson</data>
+  <data key="d4">Test</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7">3</data>
+  <data key="d8">3</data>
+  <data key="d9">3</data>
+  <data key="d10">64</data>
+  <data key="d11">64.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.4716981132075472</data>
+  <data key="d14">0.0020857791507082</data>
+  <data key="d15">1.0</data>
+  <data key="d16">3</data>
+  <data key="d17">1</data>
+  <data key="d18">1.0</data>
+  <data key="d19">0.3875624981953299</data>
+</node>
+<node id="4ae1755b">
+  <data key="d1">4ae1755b</data>
+  <data key="d2">HC Brook</data>
+  <data key="d3">HC Brook</data>
+  <data key="d4">Test</data>
+  <data key="d5">41</data>
+  <data key="d6">70</data>
+  <data key="d7">141</data>
+  <data key="d8">23</data>
+  <data key="d9">23</data>
+  <data key="d10">6678</data>
+  <data key="d11">95.4</data>
+  <data key="d12">0.0754454278240235</data>
+  <data key="d13">0.6329113924050633</data>
+  <data key="d14">0.3586194337591286</data>
+  <data key="d15">0.4387351778656126</data>
+  <data key="d16">11</data>
+  <data key="d17">2</data>
+  <data key="d18">13.347826086956522</data>
+  <data key="d19">0.1123392648250536</data>
+</node>
+<node id="4b685e2d">
+  <data key="d1">4b685e2d</data>
+  <data key="d2">DW Lawrence</data>
+  <data key="d3">DW Lawrence</data>
+  <data key="d4">Test</data>
+  <data key="d5">17</data>
+  <data key="d6">31</data>
+  <data key="d7">61</data>
+  <data key="d8">22</data>
+  <data key="d9">22</data>
+  <data key="d10">1840</data>
+  <data key="d11">59.354838709677416</data>
+  <data key="d12">0.0292513229760391</data>
+  <data key="d13">0.6410256410256411</data>
+  <data key="d14">0.0910368588119145</data>
+  <data key="d15">0.5238095238095238</data>
+  <data key="d16">11</data>
+  <data key="d17">2</data>
+  <data key="d18">11.0</data>
+  <data key="d19">0.1186470471980167</data>
+</node>
+<node id="4c5d73db">
+  <data key="d1">4c5d73db</data>
+  <data key="d2">CR Woakes</data>
+  <data key="d3">CR Woakes</data>
+  <data key="d4">Test</data>
+  <data key="d5">29</data>
+  <data key="d6">46</data>
+  <data key="d7">83</data>
+  <data key="d8">24</data>
+  <data key="d9">24</data>
+  <data key="d10">1874</data>
+  <data key="d11">40.73913043478261</data>
+  <data key="d12">0.0509561933043682</data>
+  <data key="d13">0.6493506493506493</data>
+  <data key="d14">0.0422402729684805</data>
+  <data key="d15">0.4710144927536231</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">13.166666666666666</data>
+  <data key="d19">0.1136827119619256</data>
+</node>
+<node id="50c6bc2b">
+  <data key="d1">50c6bc2b</data>
+  <data key="d2">LS Livingstone</data>
+  <data key="d3">LS Livingstone</data>
+  <data key="d4">Test</data>
+  <data key="d5">1</data>
+  <data key="d6">2</data>
+  <data key="d7">2</data>
+  <data key="d8">1</data>
+  <data key="d9">1</data>
+  <data key="d10">40</data>
+  <data key="d11">20.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.390625</data>
+  <data key="d14">0.0022682022615986</data>
+  <data key="d15">0.0</data>
+  <data key="d16">1</data>
+  <data key="d17">2</data>
+  <data key="d18">1.0</data>
+  <data key="d19">1.0</data>
+</node>
+<node id="521595e7">
+  <data key="d1">521595e7</data>
+  <data key="d2">JEK Rew</data>
+  <data key="d3">JEK Rew</data>
+  <data key="d4">Test</data>
+  <data key="d5">1</data>
+  <data key="d6">2</data>
+  <data key="d7">3</data>
+  <data key="d8">3</data>
+  <data key="d9">3</data>
+  <data key="d10">90</data>
+  <data key="d11">45.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.4807692307692308</data>
+  <data key="d14">0.0042904302703831</data>
+  <data key="d15">1.0</data>
+  <data key="d16">3</data>
+  <data key="d17">2</data>
+  <data key="d18">1.0</data>
+  <data key="d19">0.4088317119301681</data>
+</node>
+<node id="5574750c">
+  <data key="d1">5574750c</data>
+  <data key="d2">JC Archer</data>
+  <data key="d3">JC Archer</data>
+  <data key="d4">Test</data>
+  <data key="d5">15</data>
+  <data key="d6">25</data>
+  <data key="d7">36</data>
+  <data key="d8">18</data>
+  <data key="d9">18</data>
+  <data key="d10">585</data>
+  <data key="d11">23.4</data>
+  <data key="d12">0.015815747714268</data>
+  <data key="d13">0.6024096385542169</data>
+  <data key="d14">0.0131654347224621</data>
+  <data key="d15">0.6078431372549019</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">7.666666666666666</data>
+  <data key="d19">0.1333671239878731</data>
+</node>
+<node id="59559bc2">
+  <data key="d1">59559bc2</data>
+  <data key="d2">J Overton</data>
+  <data key="d3">J Overton</data>
+  <data key="d4">Test</data>
+  <data key="d5">2</data>
+  <data key="d6">3</data>
+  <data key="d7">4</data>
+  <data key="d8">4</data>
+  <data key="d9">4</data>
+  <data key="d10">258</data>
+  <data key="d11">86.0</data>
+  <data key="d12">0.0001496598639455</data>
+  <data key="d13">0.4587155963302752</data>
+  <data key="d14">0.0076644937046965</data>
+  <data key="d15">0.6666666666666666</data>
+  <data key="d16">4</data>
+  <data key="d17">2</data>
+  <data key="d18">2.0</data>
+  <data key="d19">0.3001709502586168</data>
+</node>
+<node id="5bfdc77a">
+  <data key="d1">5bfdc77a</data>
+  <data key="d2">James Bracey</data>
+  <data key="d3">James Bracey</data>
+  <data key="d4">Test</data>
+  <data key="d5">2</data>
+  <data key="d6">3</data>
+  <data key="d7">3</data>
+  <data key="d8">3</data>
+  <data key="d9">3</data>
+  <data key="d10">19</data>
+  <data key="d11">6.333333333333333</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.4587155963302752</data>
+  <data key="d14">0.0012060810279945</data>
+  <data key="d15">1.0</data>
+  <data key="d16">3</data>
+  <data key="d17">2</data>
+  <data key="d18">1.0</data>
+  <data key="d19">0.4001291366114908</data>
+</node>
+<node id="5f26f677">
+  <data key="d1">5f26f677</data>
+  <data key="d2">BM Duckett</data>
+  <data key="d3">BM Duckett</data>
+  <data key="d4">Test</data>
+  <data key="d5">45</data>
+  <data key="d6">84</data>
+  <data key="d7">148</data>
+  <data key="d8">14</data>
+  <data key="d9">14</data>
+  <data key="d10">6256</data>
+  <data key="d11">74.47619047619048</data>
+  <data key="d12">0.0093370635329291</data>
+  <data key="d13">0.5617977528089888</data>
+  <data key="d14">0.320254145969892</data>
+  <data key="d15">0.5824175824175825</data>
+  <data key="d16">9</data>
+  <data key="d17">3</data>
+  <data key="d18">6.428571428571429</data>
+  <data key="d19">0.1497063836189399</data>
+</node>
+<node id="70d57519">
+  <data key="d1">70d57519</data>
+  <data key="d2">AAP Atkinson</data>
+  <data key="d3">AAP Atkinson</data>
+  <data key="d4">Test</data>
+  <data key="d5">20</data>
+  <data key="d6">31</data>
+  <data key="d7">52</data>
+  <data key="d8">17</data>
+  <data key="d9">17</data>
+  <data key="d10">1217</data>
+  <data key="d11">39.25806451612903</data>
+  <data key="d12">0.012777115837288</data>
+  <data key="d13">0.5813953488372093</data>
+  <data key="d14">0.0340016223755721</data>
+  <data key="d15">0.5588235294117647</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">8.058823529411764</data>
+  <data key="d19">0.1308330442784529</data>
+</node>
+<node id="78c12883">
+  <data key="d1">78c12883</data>
+  <data key="d2">S Baker</data>
+  <data key="d3">S Baker</data>
+  <data key="d4">Test</data>
+  <data key="d5">1</data>
+  <data key="d6">2</data>
+  <data key="d7">2</data>
+  <data key="d8">2</data>
+  <data key="d9">2</data>
+  <data key="d10">70</data>
+  <data key="d11">35.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.364963503649635</data>
+  <data key="d14">8.112913814618376e-05</data>
+  <data key="d15">1.0</data>
+  <data key="d16">2</data>
+  <data key="d17">5</data>
+  <data key="d18">1.0</data>
+  <data key="d19">0.6377984389348026</data>
+</node>
+<node id="894b2d25">
+  <data key="d1">894b2d25</data>
+  <data key="d2">MJ Potts</data>
+  <data key="d3">MJ Potts</data>
+  <data key="d4">Test</data>
+  <data key="d5">10</data>
+  <data key="d6">15</data>
+  <data key="d7">27</data>
+  <data key="d8">15</data>
+  <data key="d9">15</data>
+  <data key="d10">304</data>
+  <data key="d11">20.266666666666666</data>
+  <data key="d12">0.0098092251793071</data>
+  <data key="d13">0.5747126436781609</data>
+  <data key="d14">0.0023217191134411</data>
+  <data key="d15">0.5619047619047619</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">7.133333333333334</data>
+  <data key="d19">0.1353758737793834</data>
+</node>
+<node id="8d92a2c3">
+  <data key="d1">8d92a2c3</data>
+  <data key="d2">MA Wood</data>
+  <data key="d3">MA Wood</data>
+  <data key="d4">Test</data>
+  <data key="d5">25</data>
+  <data key="d6">41</data>
+  <data key="d7">53</data>
+  <data key="d8">23</data>
+  <data key="d9">23</data>
+  <data key="d10">991</data>
+  <data key="d11">24.17073170731707</data>
+  <data key="d12">0.0154855142257475</data>
+  <data key="d13">0.6410256410256411</data>
+  <data key="d14">0.0213707658951741</data>
+  <data key="d15">0.5928853754940712</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">9.956521739130435</data>
+  <data key="d19">0.1253561218842591</data>
+</node>
+<node id="8f2dfebf">
+  <data key="d1">8f2dfebf</data>
+  <data key="d2">MD Fisher</data>
+  <data key="d3">MD Fisher</data>
+  <data key="d4">Test</data>
+  <data key="d5">2</data>
+  <data key="d6">3</data>
+  <data key="d7">6</data>
+  <data key="d8">6</data>
+  <data key="d9">6</data>
+  <data key="d10">68</data>
+  <data key="d11">22.666666666666668</data>
+  <data key="d12">0.0120348430297059</data>
+  <data key="d13">0.4545454545454545</data>
+  <data key="d14">5.380742003165805e-05</data>
+  <data key="d15">0.5333333333333333</data>
+  <data key="d16">5</data>
+  <data key="d17">5</data>
+  <data key="d18">3.3333333333333335</data>
+  <data key="d19">0.2626448550744798</data>
+</node>
+<node id="922e1b19">
+  <data key="d1">922e1b19</data>
+  <data key="d2">Z Crawley</data>
+  <data key="d3">Z Crawley</data>
+  <data key="d4">Test</data>
+  <data key="d5">63</data>
+  <data key="d6">116</data>
+  <data key="d7">214</data>
+  <data key="d8">19</data>
+  <data key="d9">19</data>
+  <data key="d10">7328</data>
+  <data key="d11">63.172413793103445</data>
+  <data key="d12">0.0187656940014556</data>
+  <data key="d13">0.5813953488372093</data>
+  <data key="d14">0.3369780852332562</data>
+  <data key="d15">0.4678362573099415</data>
+  <data key="d16">10</data>
+  <data key="d17">3</data>
+  <data key="d18">10.578947368421051</data>
+  <data key="d19">0.1333516810850228</data>
+</node>
+<node id="97e434a6">
+  <data key="d1">97e434a6</data>
+  <data key="d2">DP Sibley</data>
+  <data key="d3">DP Sibley</data>
+  <data key="d4">Test</data>
+  <data key="d5">19</data>
+  <data key="d6">34</data>
+  <data key="d7">75</data>
+  <data key="d8">13</data>
+  <data key="d9">13</data>
+  <data key="d10">2603</data>
+  <data key="d11">76.55882352941177</data>
+  <data key="d12">0.0050535125828208</data>
+  <data key="d13">0.5376344086021505</data>
+  <data key="d14">0.1188691696330065</data>
+  <data key="d15">0.6538461538461539</data>
+  <data key="d16">10</data>
+  <data key="d17">4</data>
+  <data key="d18">5.153846153846154</data>
+  <data key="d19">0.1720292483797708</data>
+</node>
+<node id="99b75528">
+  <data key="d1">99b75528</data>
+  <data key="d2">JC Buttler</data>
+  <data key="d3">JC Buttler</data>
+  <data key="d4">Test</data>
+  <data key="d5">19</data>
+  <data key="d6">32</data>
+  <data key="d7">55</data>
+  <data key="d8">14</data>
+  <data key="d9">14</data>
+  <data key="d10">1851</data>
+  <data key="d11">57.84375</data>
+  <data key="d12">0.0027898755186198</data>
+  <data key="d13">0.5555555555555556</data>
+  <data key="d14">0.0803567943564278</data>
+  <data key="d15">0.7472527472527473</data>
+  <data key="d16">10</data>
+  <data key="d17">1</data>
+  <data key="d18">4.2857142857142865</data>
+  <data key="d19">0.1596387795341958</data>
+</node>
+<node id="9caf69a1">
+  <data key="d1">9caf69a1</data>
+  <data key="d2">WG Jacks</data>
+  <data key="d3">WG Jacks</data>
+  <data key="d4">Test</data>
+  <data key="d5">6</data>
+  <data key="d6">11</data>
+  <data key="d7">14</data>
+  <data key="d8">8</data>
+  <data key="d9">8</data>
+  <data key="d10">585</data>
+  <data key="d11">53.18181818181818</data>
+  <data key="d12">0.0006782931354359</data>
+  <data key="d13">0.5102040816326531</data>
+  <data key="d14">0.024462705057301</data>
+  <data key="d15">0.8214285714285714</data>
+  <data key="d16">8</data>
+  <data key="d17">1</data>
+  <data key="d18">2.25</data>
+  <data key="d19">0.2113481578567879</data>
+</node>
+<node id="a343262c">
+  <data key="d1">a343262c</data>
+  <data key="d2">JE Root</data>
+  <data key="d3">JE Root</data>
+  <data key="d4">Test</data>
+  <data key="d5">80</data>
+  <data key="d6">145</data>
+  <data key="d7">372</data>
+  <data key="d8">38</data>
+  <data key="d9">38</data>
+  <data key="d10">15303</data>
+  <data key="d11">105.53793103448275</data>
+  <data key="d12">0.165974727502282</data>
+  <data key="d13">0.8064516129032258</data>
+  <data key="d14">0.5447222733075069</data>
+  <data key="d15">0.3513513513513513</data>
+  <data key="d16">11</data>
+  <data key="d17">2</data>
+  <data key="d18">25.0</data>
+  <data key="d19">0.0944581674498245</data>
+</node>
+<node id="aa710a58">
+  <data key="d1">aa710a58</data>
+  <data key="d2">EN Gay</data>
+  <data key="d3">EN Gay</data>
+  <data key="d4">Test</data>
+  <data key="d5">6</data>
+  <data key="d6">11</data>
+  <data key="d7">23</data>
+  <data key="d8">5</data>
+  <data key="d9">5</data>
+  <data key="d10">623</data>
+  <data key="d11">56.63636363636363</data>
+  <data key="d12">0.0003579277864992</data>
+  <data key="d13">0.495049504950495</data>
+  <data key="d14">0.0343685907312346</data>
+  <data key="d15">0.9</data>
+  <data key="d16">5</data>
+  <data key="d17">3</data>
+  <data key="d18">1.4</data>
+  <data key="d19">0.299603495502071</data>
+</node>
+<node id="abb83e27">
+  <data key="d1">abb83e27</data>
+  <data key="d2">JM Bairstow</data>
+  <data key="d3">JM Bairstow</data>
+  <data key="d4">Test</data>
+  <data key="d5">29</data>
+  <data key="d6">55</data>
+  <data key="d7">101</data>
+  <data key="d8">22</data>
+  <data key="d9">22</data>
+  <data key="d10">3920</data>
+  <data key="d11">71.27272727272727</data>
+  <data key="d12">0.0332522758817398</data>
+  <data key="d13">0.625</data>
+  <data key="d14">0.196029600324344</data>
+  <data key="d15">0.5281385281385281</data>
+  <data key="d16">11</data>
+  <data key="d17">2</data>
+  <data key="d18">10.909090909090908</data>
+  <data key="d19">0.1207956007090318</data>
+</node>
+<node id="ad46c747">
+  <data key="d1">ad46c747</data>
+  <data key="d2">DM Bess</data>
+  <data key="d3">DM Bess</data>
+  <data key="d4">Test</data>
+  <data key="d5">11</data>
+  <data key="d6">16</data>
+  <data key="d7">28</data>
+  <data key="d8">12</data>
+  <data key="d9">12</data>
+  <data key="d10">520</data>
+  <data key="d11">32.5</data>
+  <data key="d12">0.0021982421206911</data>
+  <data key="d13">0.5434782608695652</data>
+  <data key="d14">0.0118776969905835</data>
+  <data key="d15">0.7727272727272727</data>
+  <data key="d16">10</data>
+  <data key="d17">1</data>
+  <data key="d18">3.5</data>
+  <data key="d19">0.1698942336727847</data>
+</node>
+<node id="ad9c32a2">
+  <data key="d1">ad9c32a2</data>
+  <data key="d2">DJ Malan</data>
+  <data key="d3">DJ Malan</data>
+  <data key="d4">Test</data>
+  <data key="d5">7</data>
+  <data key="d6">13</data>
+  <data key="d7">24</data>
+  <data key="d8">7</data>
+  <data key="d9">7</data>
+  <data key="d10">834</data>
+  <data key="d11">64.15384615384616</data>
+  <data key="d12">0.003221802149887</data>
+  <data key="d13">0.495049504950495</data>
+  <data key="d14">0.0566001147488047</data>
+  <data key="d15">0.7142857142857143</data>
+  <data key="d16">6</data>
+  <data key="d17">2</data>
+  <data key="d18">2.7142857142857144</data>
+  <data key="d19">0.2272324354845973</data>
+</node>
+<node id="bb351c23">
+  <data key="d1">bb351c23</data>
+  <data key="d2">MM Ali</data>
+  <data key="d3">MM Ali</data>
+  <data key="d4">Test</data>
+  <data key="d5">8</data>
+  <data key="d6">14</data>
+  <data key="d7">22</data>
+  <data key="d8">14</data>
+  <data key="d9">14</data>
+  <data key="d10">649</data>
+  <data key="d11">46.357142857142854</data>
+  <data key="d12">0.0038730782279764</data>
+  <data key="d13">0.5617977528089888</data>
+  <data key="d14">0.0327494890607254</data>
+  <data key="d15">0.7362637362637363</data>
+  <data key="d16">11</data>
+  <data key="d17">2</data>
+  <data key="d18">4.428571428571429</data>
+  <data key="d19">0.1510706912813033</data>
+</node>
+<node id="bdadf7da">
+  <data key="d1">bdadf7da</data>
+  <data key="d2">JL Denly</data>
+  <data key="d3">JL Denly</data>
+  <data key="d4">Test</data>
+  <data key="d5">4</data>
+  <data key="d6">7</data>
+  <data key="d7">12</data>
+  <data key="d8">5</data>
+  <data key="d9">5</data>
+  <data key="d10">445</data>
+  <data key="d11">63.57142857142857</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.4761904761904761</data>
+  <data key="d14">0.0185476480373802</data>
+  <data key="d15">1.0</data>
+  <data key="d16">5</data>
+  <data key="d17">4</data>
+  <data key="d18">1.0</data>
+  <data key="d19">0.2917635469134501</data>
+</node>
+<node id="c16d4035">
+  <data key="d1">c16d4035</data>
+  <data key="d2">SW Billings</data>
+  <data key="d3">SW Billings</data>
+  <data key="d4">Test</data>
+  <data key="d5">2</data>
+  <data key="d6">3</data>
+  <data key="d7">6</data>
+  <data key="d8">5</data>
+  <data key="d9">5</data>
+  <data key="d10">191</data>
+  <data key="d11">63.666666666666664</data>
+  <data key="d12">0.0001308215593929</data>
+  <data key="d13">0.4716981132075472</data>
+  <data key="d14">0.0050645689633155</data>
+  <data key="d15">0.8</data>
+  <data key="d16">5</data>
+  <data key="d17">1</data>
+  <data key="d18">1.7999999999999998</data>
+  <data key="d19">0.2622098025711662</data>
+</node>
+<node id="c834c290">
+  <data key="d1">c834c290</data>
+  <data key="d2">JL Smith</data>
+  <data key="d3">JL Smith</data>
+  <data key="d4">Test</data>
+  <data key="d5">25</data>
+  <data key="d6">43</data>
+  <data key="d7">88</data>
+  <data key="d8">23</data>
+  <data key="d9">23</data>
+  <data key="d10">2825</data>
+  <data key="d11">65.69767441860465</data>
+  <data key="d12">0.0436484150894441</data>
+  <data key="d13">0.6493506493506493</data>
+  <data key="d14">0.0991364475146909</data>
+  <data key="d15">0.4505928853754941</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">13.08695652173913</data>
+  <data key="d19">0.1150610677191596</data>
+</node>
+<node id="c9c0fe50">
+  <data key="d1">c9c0fe50</data>
+  <data key="d2">AZ Lees</data>
+  <data key="d3">AZ Lees</data>
+  <data key="d4">Test</data>
+  <data key="d5">10</data>
+  <data key="d6">19</data>
+  <data key="d7">43</data>
+  <data key="d8">8</data>
+  <data key="d9">8</data>
+  <data key="d10">1052</data>
+  <data key="d11">55.36842105263158</data>
+  <data key="d12">0.0002530904835052</data>
+  <data key="d13">0.5154639175257731</data>
+  <data key="d14">0.0583470185248056</data>
+  <data key="d15">0.8928571428571429</data>
+  <data key="d16">8</data>
+  <data key="d17">3</data>
+  <data key="d18">1.75</data>
+  <data key="d19">0.195798074917776</data>
+</node>
+<node id="cad40f5e">
+  <data key="d1">cad40f5e</data>
+  <data key="d2">BA Carse</data>
+  <data key="d3">BA Carse</data>
+  <data key="d4">Test</data>
+  <data key="d5">14</data>
+  <data key="d6">23</data>
+  <data key="d7">37</data>
+  <data key="d8">12</data>
+  <data key="d9">12</data>
+  <data key="d10">739</data>
+  <data key="d11">32.130434782608695</data>
+  <data key="d12">0.0044848116699334</data>
+  <data key="d13">0.5434782608695652</data>
+  <data key="d14">0.0139384568386589</data>
+  <data key="d15">0.6363636363636364</data>
+  <data key="d16">10</data>
+  <data key="d17">1</data>
+  <data key="d18">5.0</data>
+  <data key="d19">0.1638227723797588</data>
+</node>
+<node id="d12143bf">
+  <data key="d1">d12143bf</data>
+  <data key="d2">JM Anderson</data>
+  <data key="d3">JM Anderson</data>
+  <data key="d4">Test</data>
+  <data key="d5">35</data>
+  <data key="d6">54</data>
+  <data key="d7">56</data>
+  <data key="d8">22</data>
+  <data key="d9">22</data>
+  <data key="d10">693</data>
+  <data key="d11">12.833333333333334</data>
+  <data key="d12">0.0539764338666793</data>
+  <data key="d13">0.625</data>
+  <data key="d14">0.00905761541812</data>
+  <data key="d15">0.5238095238095238</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">11.0</data>
+  <data key="d19">0.1186982918533748</data>
+</node>
+<node id="e087956b">
+  <data key="d1">e087956b</data>
+  <data key="d2">BA Stokes</data>
+  <data key="d3">BA Stokes</data>
+  <data key="d4">Test</data>
+  <data key="d5">61</data>
+  <data key="d6">110</data>
+  <data key="d7">195</data>
+  <data key="d8">31</data>
+  <data key="d9">31</data>
+  <data key="d10">7068</data>
+  <data key="d11">64.25454545454545</data>
+  <data key="d12">0.0664201028798808</data>
+  <data key="d13">0.6944444444444444</data>
+  <data key="d14">0.3158792375493353</data>
+  <data key="d15">0.4086021505376344</data>
+  <data key="d16">11</data>
+  <data key="d17">2</data>
+  <data key="d18">18.741935483870968</data>
+  <data key="d19">0.1059406740911011</data>
+</node>
+<node id="e36e9dd3">
+  <data key="d1">e36e9dd3</data>
+  <data key="d2">Shoaib Bashir</data>
+  <data key="d3">Shoaib Bashir</data>
+  <data key="d4">Test</data>
+  <data key="d5">19</data>
+  <data key="d6">32</data>
+  <data key="d7">34</data>
+  <data key="d8">15</data>
+  <data key="d9">15</data>
+  <data key="d10">353</data>
+  <data key="d11">11.03125</data>
+  <data key="d12">0.0258972421585292</data>
+  <data key="d13">0.5747126436781609</data>
+  <data key="d14">0.0057659580780452</data>
+  <data key="d15">0.580952380952381</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">6.866666666666667</data>
+  <data key="d19">0.1487862130469137</data>
+</node>
+<node id="e94915e6">
+  <data key="d1">e94915e6</data>
+  <data key="d2">SM Curran</data>
+  <data key="d3">SM Curran</data>
+  <data key="d4">Test</data>
+  <data key="d5">9</data>
+  <data key="d6">13</data>
+  <data key="d7">19</data>
+  <data key="d8">10</data>
+  <data key="d9">10</data>
+  <data key="d10">320</data>
+  <data key="d11">24.615384615384617</data>
+  <data key="d12">0.0037298926679352</data>
+  <data key="d13">0.5154639175257731</data>
+  <data key="d14">0.0151058873258511</data>
+  <data key="d15">0.6666666666666666</data>
+  <data key="d16">9</data>
+  <data key="d17">1</data>
+  <data key="d18">4.0</data>
+  <data key="d19">0.1800306132422874</data>
+</node>
+<node id="e94bc520">
+  <data key="d1">e94bc520</data>
+  <data key="d2">OJ Pope</data>
+  <data key="d3">OJ Pope</data>
+  <data key="d4">Test</data>
+  <data key="d5">60</data>
+  <data key="d6">107</data>
+  <data key="d7">200</data>
+  <data key="d8">30</data>
+  <data key="d9">30</data>
+  <data key="d10">7568</data>
+  <data key="d11">70.72897196261682</data>
+  <data key="d12">0.0580381160740248</data>
+  <data key="d13">0.704225352112676</data>
+  <data key="d14">0.3868738093925529</data>
+  <data key="d15">0.4275862068965517</data>
+  <data key="d16">11</data>
+  <data key="d17">3</data>
+  <data key="d18">17.6</data>
+  <data key="d19">0.1072528643321631</data>
+</node>
+<node id="e9987a94">
+  <data key="d1">e9987a94</data>
+  <data key="d2">C Overton</data>
+  <data key="d3">C Overton</data>
+  <data key="d4">Test</data>
+  <data key="d5">4</data>
+  <data key="d6">6</data>
+  <data key="d7">8</data>
+  <data key="d8">5</data>
+  <data key="d9">5</data>
+  <data key="d10">96</data>
+  <data key="d11">16.0</data>
+  <data key="d12">0.0013098124098124</data>
+  <data key="d13">0.4587155963302752</data>
+  <data key="d14">0.0004350907898968</data>
+  <data key="d15">0.4</data>
+  <data key="d16">5</data>
+  <data key="d17">1</data>
+  <data key="d18">3.4</data>
+  <data key="d19">0.234456712944881</data>
+</node>
+<node id="eba6a852">
+  <data key="d1">eba6a852</data>
+  <data key="d2">SCJ Broad</data>
+  <data key="d3">SCJ Broad</data>
+  <data key="d4">Test</data>
+  <data key="d5">29</data>
+  <data key="d6">45</data>
+  <data key="d7">58</data>
+  <data key="d8">22</data>
+  <data key="d9">22</data>
+  <data key="d10">1118</data>
+  <data key="d11">24.844444444444445</data>
+  <data key="d12">0.0184509553395662</data>
+  <data key="d13">0.625</data>
+  <data key="d14">0.0262580450810078</data>
+  <data key="d15">0.5757575757575758</data>
+  <data key="d16">11</data>
+  <data key="d17">1</data>
+  <data key="d18">9.909090909090908</data>
+  <data key="d19">0.1289922803985694</data>
+</node>
+<node id="fd770945">
+  <data key="d1">fd770945</data>
+  <data key="d2">BT Foakes</data>
+  <data key="d3">BT Foakes</data>
+  <data key="d4">Test</data>
+  <data key="d5">20</data>
+  <data key="d6">36</data>
+  <data key="d7">80</data>
+  <data key="d8">20</data>
+  <data key="d9">20</data>
+  <data key="d10">1966</data>
+  <data key="d11">54.611111111111114</data>
+  <data key="d12">0.0121728295970029</data>
+  <data key="d13">0.6172839506172839</data>
+  <data key="d14">0.0790761311213542</data>
+  <data key="d15">0.6157894736842106</data>
+  <data key="d16">11</data>
+  <data key="d17">2</data>
+  <data key="d18">8.3</data>
+  <data key="d19">0.1322050061047878</data>
+</node>
+<node id="fe0c5457">
+  <data key="d1">fe0c5457</data>
+  <data key="d2">H Hameed</data>
+  <data key="d3">H Hameed</data>
+  <data key="d4">Test</data>
+  <data key="d5">7</data>
+  <data key="d6">13</data>
+  <data key="d7">26</data>
+  <data key="d8">7</data>
+  <data key="d9">7</data>
+  <data key="d10">580</data>
+  <data key="d11">44.61538461538461</data>
+  <data key="d12">0.0001360544217687</data>
+  <data key="d13">0.495049504950495</data>
+  <data key="d14">0.017186819106856</data>
+  <data key="d15">0.9523809523809524</data>
+  <data key="d16">6</data>
+  <data key="d17">4</data>
+  <data key="d18">1.2857142857142856</data>
+  <data key="d19">0.2582566440832513</data>
+</node>
+<node id="ff154ecd">
+  <data key="d1">ff154ecd</data>
+  <data key="d2">JM Cox</data>
+  <data key="d3">JM Cox</data>
+  <data key="d4">Test</data>
+  <data key="d5">4</data>
+  <data key="d6">7</data>
+  <data key="d7">18</data>
+  <data key="d8">11</data>
+  <data key="d9">11</data>
+  <data key="d10">569</data>
+  <data key="d11">81.28571428571429</data>
+  <data key="d12">0.0372172474816735</data>
+  <data key="d13">0.5319148936170213</data>
+  <data key="d14">0.0300136886112893</data>
+  <data key="d15">0.4</data>
+  <data key="d16">7</data>
+  <data key="d17">2</data>
+  <data key="d18">7.0</data>
+  <data key="d19">0.1739250916901574</data>
+</node>
+<edge source="0ecb4de6" target="22b98d7c">
+  <data key="d20">15</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">15-02-2024</data>
+  <data key="d25">15-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">15.0</data>
+  <data key="d28">15.0</data>
+  <data key="d29">15</data>
+  <data key="d30">15</data>
+</edge>
+<edge source="0ecb4de6" target="3987e390">
+  <data key="d20">26</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">24-10-2024</data>
+  <data key="d25">24-10-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">13.0</data>
+  <data key="d28">13.0</data>
+  <data key="d29">9</data>
+  <data key="d30">17</data>
+</edge>
+<edge source="0ecb4de6" target="5f26f677">
+  <data key="d20">10</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-12-2022</data>
+  <data key="d25">17-12-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.0</data>
+  <data key="d28">10.0</data>
+  <data key="d29">10</data>
+  <data key="d30">10</data>
+</edge>
+<edge source="0ecb4de6" target="70d57519">
+  <data key="d20">12</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">24-10-2024</data>
+  <data key="d25">24-10-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.0</data>
+  <data key="d28">12.0</data>
+  <data key="d29">12</data>
+  <data key="d30">12</data>
+</edge>
+<edge source="0ecb4de6" target="922e1b19">
+  <data key="d20">45</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-02-2024</data>
+  <data key="d25">02-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">45.0</data>
+  <data key="d28">45.0</data>
+  <data key="d29">45</data>
+  <data key="d30">45</data>
+</edge>
+<edge source="0ecb4de6" target="c834c290">
+  <data key="d20">18</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">24-10-2024</data>
+  <data key="d25">24-10-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">18.0</data>
+  <data key="d28">18.0</data>
+  <data key="d29">18</data>
+  <data key="d30">18</data>
+</edge>
+<edge source="0ecb4de6" target="e087956b">
+  <data key="d20">28</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">25-01-2024</data>
+  <data key="d25">02-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">14.0</data>
+  <data key="d28">14.0</data>
+  <data key="d29">10</data>
+  <data key="d30">18</data>
+</edge>
+<edge source="0ecb4de6" target="e94bc520">
+  <data key="d20">64</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">25-01-2024</data>
+  <data key="d25">25-01-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">64.0</data>
+  <data key="d28">64.0</data>
+  <data key="d29">64</data>
+  <data key="d30">64</data>
+</edge>
+<edge source="0ecb4de6" target="fd770945">
+  <data key="d20">3</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">17-12-2022</data>
+  <data key="d25">15-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">3</data>
+</edge>
+<edge source="0f3ee070" target="1f1b4c89">
+  <data key="d20">17</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">04-06-2026</data>
+  <data key="d25">04-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">8.5</data>
+  <data key="d28">8.5</data>
+  <data key="d29">5</data>
+  <data key="d30">12</data>
+</edge>
+<edge source="0f3ee070" target="29e8a62e">
+  <data key="d20">63</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-06-2021</data>
+  <data key="d25">02-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">63.0</data>
+  <data key="d28">63.0</data>
+  <data key="d29">63</data>
+  <data key="d30">63</data>
+</edge>
+<edge source="0f3ee070" target="3987e390">
+  <data key="d20">84</data>
+  <data key="d21">5</data>
+  <data key="d22">4</data>
+  <data key="d23">5</data>
+  <data key="d24">26-12-2021</data>
+  <data key="d25">16-02-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">16.8</data>
+  <data key="d28">17.0</data>
+  <data key="d29">6</data>
+  <data key="d30">30</data>
+</edge>
+<edge source="0f3ee070" target="4ae1755b">
+  <data key="d20">8</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">09-12-2022</data>
+  <data key="d25">04-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">4.0</data>
+  <data key="d29">3</data>
+  <data key="d30">5</data>
+</edge>
+<edge source="0f3ee070" target="4b685e2d">
+  <data key="d20">24</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-08-2026</data>
+  <data key="d25">27-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">24.0</data>
+  <data key="d28">24.0</data>
+  <data key="d29">24</data>
+  <data key="d30">24</data>
+</edge>
+<edge source="0f3ee070" target="4c5d73db">
+  <data key="d20">27</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">02-09-2021</data>
+  <data key="d25">08-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">9.0</data>
+  <data key="d28">5.0</data>
+  <data key="d29">4</data>
+  <data key="d30">18</data>
+</edge>
+<edge source="0f3ee070" target="5574750c">
+  <data key="d20">38</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">27-08-2026</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.0</data>
+  <data key="d28">19.0</data>
+  <data key="d29">1</data>
+  <data key="d30">37</data>
+</edge>
+<edge source="0f3ee070" target="5f26f677">
+  <data key="d20">14</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">24-02-2023</data>
+  <data key="d25">24-02-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">14.0</data>
+  <data key="d28">14.0</data>
+  <data key="d29">14</data>
+  <data key="d30">14</data>
+</edge>
+<edge source="0f3ee070" target="70d57519">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-08-2026</data>
+  <data key="d25">27-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="0f3ee070" target="8d92a2c3">
+  <data key="d20">28</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">14-01-2022</data>
+  <data key="d25">09-12-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">9.333333333333334</data>
+  <data key="d28">8.0</data>
+  <data key="d29">6</data>
+  <data key="d30">14</data>
+</edge>
+<edge source="0f3ee070" target="99b75528">
+  <data key="d20">42</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">12-08-2021</data>
+  <data key="d25">26-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">14.0</data>
+  <data key="d28">12.0</data>
+  <data key="d29">0</data>
+  <data key="d30">30</data>
+</edge>
+<edge source="0f3ee070" target="9caf69a1">
+  <data key="d20">68</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">01-12-2022</data>
+  <data key="d25">09-12-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">34.0</data>
+  <data key="d28">34.0</data>
+  <data key="d29">3</data>
+  <data key="d30">65</data>
+</edge>
+<edge source="0f3ee070" target="a343262c">
+  <data key="d20">196</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">12-08-2021</data>
+  <data key="d25">23-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">49.0</data>
+  <data key="d28">39.0</data>
+  <data key="d29">16</data>
+  <data key="d30">102</data>
+</edge>
+<edge source="0f3ee070" target="abb83e27">
+  <data key="d20">18</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">26-12-2021</data>
+  <data key="d25">26-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">18.0</data>
+  <data key="d28">18.0</data>
+  <data key="d29">18</data>
+  <data key="d30">18</data>
+</edge>
+<edge source="0f3ee070" target="bb351c23">
+  <data key="d20">19</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">16-06-2023</data>
+  <data key="d25">16-06-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.0</data>
+  <data key="d28">19.0</data>
+  <data key="d29">19</data>
+  <data key="d30">19</data>
+</edge>
+<edge source="0f3ee070" target="c834c290">
+  <data key="d20">70</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">04-06-2026</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">23.333333333333332</data>
+  <data key="d28">29.0</data>
+  <data key="d29">0</data>
+  <data key="d30">41</data>
+</edge>
+<edge source="0f3ee070" target="d12143bf">
+  <data key="d20">26</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">04-08-2021</data>
+  <data key="d25">26-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">6.5</data>
+  <data key="d28">8.0</data>
+  <data key="d29">1</data>
+  <data key="d30">9</data>
+</edge>
+<edge source="0f3ee070" target="e087956b">
+  <data key="d20">40</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">16-12-2021</data>
+  <data key="d25">06-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">20.0</data>
+  <data key="d28">20.0</data>
+  <data key="d29">2</data>
+  <data key="d30">38</data>
+</edge>
+<edge source="0f3ee070" target="e36e9dd3">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">04-06-2026</data>
+  <data key="d25">04-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="0f3ee070" target="e94915e6">
+  <data key="d20">21</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">04-08-2021</data>
+  <data key="d25">04-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.5</data>
+  <data key="d28">10.5</data>
+  <data key="d29">0</data>
+  <data key="d30">21</data>
+</edge>
+<edge source="0f3ee070" target="e9987a94">
+  <data key="d20">22</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">25-08-2021</data>
+  <data key="d25">02-09-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">11.0</data>
+  <data key="d28">11.0</data>
+  <data key="d29">9</data>
+  <data key="d30">13</data>
+</edge>
+<edge source="0f3ee070" target="eba6a852">
+  <data key="d20">42</data>
+  <data key="d21">5</data>
+  <data key="d22">4</data>
+  <data key="d23">5</data>
+  <data key="d24">04-08-2021</data>
+  <data key="d25">28-06-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">8.4</data>
+  <data key="d28">1.0</data>
+  <data key="d29">0</data>
+  <data key="d30">27</data>
+</edge>
+<edge source="0f3ee070" target="fd770945">
+  <data key="d20">102</data>
+  <data key="d21">6</data>
+  <data key="d22">5</data>
+  <data key="d23">6</data>
+  <data key="d24">25-08-2022</data>
+  <data key="d25">23-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">17.0</data>
+  <data key="d28">11.0</data>
+  <data key="d29">0</data>
+  <data key="d30">42</data>
+</edge>
+<edge source="0f6db197" target="3987e390">
+  <data key="d20">94</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">24-03-2022</data>
+  <data key="d25">24-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">47.0</data>
+  <data key="d28">47.0</data>
+  <data key="d29">4</data>
+  <data key="d30">90</data>
+</edge>
+<edge source="19708692" target="d12143bf">
+  <data key="d20">11</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-06-2022</data>
+  <data key="d25">02-06-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">11.0</data>
+  <data key="d28">11.0</data>
+  <data key="d29">11</data>
+  <data key="d30">11</data>
+</edge>
+<edge source="1cc0a83d" target="3f659464">
+  <data key="d20">16</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">06-09-2024</data>
+  <data key="d25">06-09-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">8.0</data>
+  <data key="d28">8.0</data>
+  <data key="d29">5</data>
+  <data key="d30">11</data>
+</edge>
+<edge source="1cc0a83d" target="e36e9dd3">
+  <data key="d20">11</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">06-09-2024</data>
+  <data key="d25">06-09-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">11.0</data>
+  <data key="d28">11.0</data>
+  <data key="d29">11</data>
+  <data key="d30">11</data>
+</edge>
+<edge source="1f1b4c89" target="4ae1755b">
+  <data key="d20">12</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">31-07-2025</data>
+  <data key="d25">31-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.0</data>
+  <data key="d28">12.0</data>
+  <data key="d29">12</data>
+  <data key="d30">12</data>
+</edge>
+<edge source="1f1b4c89" target="4c5d73db">
+  <data key="d20">7</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">20-06-2025</data>
+  <data key="d25">20-06-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">7</data>
+  <data key="d30">7</data>
+</edge>
+<edge source="1f1b4c89" target="5574750c">
+  <data key="d20">94</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">17-12-2025</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">23.5</data>
+  <data key="d28">19.0</data>
+  <data key="d29">12</data>
+  <data key="d30">44</data>
+</edge>
+<edge source="1f1b4c89" target="70d57519">
+  <data key="d20">73</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">31-07-2025</data>
+  <data key="d25">27-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">18.25</data>
+  <data key="d28">11.5</data>
+  <data key="d29">3</data>
+  <data key="d30">47</data>
+</edge>
+<edge source="1f1b4c89" target="894b2d25">
+  <data key="d20">14</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">04-01-2026</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">0</data>
+  <data key="d30">14</data>
+</edge>
+<edge source="1f1b4c89" target="8f2dfebf">
+  <data key="d20">2</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">2.0</data>
+  <data key="d28">2.0</data>
+  <data key="d29">2</data>
+  <data key="d30">2</data>
+</edge>
+<edge source="1f1b4c89" target="c834c290">
+  <data key="d20">25</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">02-07-2025</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.5</data>
+  <data key="d28">12.5</data>
+  <data key="d29">11</data>
+  <data key="d30">14</data>
+</edge>
+<edge source="1f1b4c89" target="cad40f5e">
+  <data key="d20">23</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">02-07-2025</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">11.5</data>
+  <data key="d28">11.5</data>
+  <data key="d29">3</data>
+  <data key="d30">20</data>
+</edge>
+<edge source="1f1b4c89" target="d12143bf">
+  <data key="d20">25</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">28-06-2023</data>
+  <data key="d25">28-06-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.5</data>
+  <data key="d28">12.5</data>
+  <data key="d29">0</data>
+  <data key="d30">25</data>
+</edge>
+<edge source="1f1b4c89" target="e36e9dd3">
+  <data key="d20">27</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">20-06-2025</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">9.0</data>
+  <data key="d28">5.0</data>
+  <data key="d29">0</data>
+  <data key="d30">22</data>
+</edge>
+<edge source="1f1b4c89" target="eba6a852">
+  <data key="d20">1</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">28-06-2023</data>
+  <data key="d25">28-06-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.5</data>
+  <data key="d28">0.5</data>
+  <data key="d29">0</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="1f1b4c89" target="ff154ecd">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="22b98d7c" target="8d92a2c3">
+  <data key="d20">9</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">15-02-2024</data>
+  <data key="d25">15-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.5</data>
+  <data key="d28">4.5</data>
+  <data key="d29">0</data>
+  <data key="d30">9</data>
+</edge>
+<edge source="22b98d7c" target="a343262c">
+  <data key="d20">48</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">23-02-2024</data>
+  <data key="d25">07-03-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">24.0</data>
+  <data key="d28">24.0</data>
+  <data key="d29">20</data>
+  <data key="d30">28</data>
+</edge>
+<edge source="22b98d7c" target="d12143bf">
+  <data key="d20">16</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">02-02-2024</data>
+  <data key="d25">02-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">8.0</data>
+  <data key="d28">8.0</data>
+  <data key="d29">5</data>
+  <data key="d30">11</data>
+</edge>
+<edge source="22b98d7c" target="e087956b">
+  <data key="d20">85</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">25-01-2024</data>
+  <data key="d25">02-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">42.5</data>
+  <data key="d28">42.5</data>
+  <data key="d29">38</data>
+  <data key="d30">47</data>
+</edge>
+<edge source="22b98d7c" target="e36e9dd3">
+  <data key="d20">6</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-02-2024</data>
+  <data key="d25">02-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">6.0</data>
+  <data key="d28">6.0</data>
+  <data key="d29">6</data>
+  <data key="d30">6</data>
+</edge>
+<edge source="22b98d7c" target="e94bc520">
+  <data key="d20">80</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">25-01-2024</data>
+  <data key="d25">25-01-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">80.0</data>
+  <data key="d28">80.0</data>
+  <data key="d29">80</data>
+  <data key="d30">80</data>
+</edge>
+<edge source="22b98d7c" target="fd770945">
+  <data key="d20">108</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">02-02-2024</data>
+  <data key="d25">07-03-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">27.0</data>
+  <data key="d28">22.5</data>
+  <data key="d29">8</data>
+  <data key="d30">55</data>
+</edge>
+<edge source="29e8a62e" target="4b685e2d">
+  <data key="d20">74</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">24.666666666666668</data>
+  <data key="d28">32.0</data>
+  <data key="d29">0</data>
+  <data key="d30">42</data>
+</edge>
+<edge source="29e8a62e" target="5bfdc77a">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-06-2021</data>
+  <data key="d25">02-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="29e8a62e" target="8d92a2c3">
+  <data key="d20">4</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-06-2021</data>
+  <data key="d25">02-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">4.0</data>
+  <data key="d29">4</data>
+  <data key="d30">4</data>
+</edge>
+<edge source="29e8a62e" target="922e1b19">
+  <data key="d20">88</data>
+  <data key="d21">5</data>
+  <data key="d22">4</data>
+  <data key="d23">5</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">14-01-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">17.6</data>
+  <data key="d28">3.0</data>
+  <data key="d29">1</data>
+  <data key="d30">68</data>
+</edge>
+<edge source="29e8a62e" target="97e434a6">
+  <data key="d20">520</data>
+  <data key="d21">21</data>
+  <data key="d22">12</data>
+  <data key="d23">21</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">12-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">24.761904761904763</data>
+  <data key="d28">12.0</data>
+  <data key="d29">0</data>
+  <data key="d30">114</data>
+</edge>
+<edge source="29e8a62e" target="a343262c">
+  <data key="d20">370</data>
+  <data key="d21">6</data>
+  <data key="d22">5</data>
+  <data key="d23">6</data>
+  <data key="d24">24-07-2020</data>
+  <data key="d25">16-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">61.666666666666664</data>
+  <data key="d28">65.5</data>
+  <data key="d29">12</data>
+  <data key="d30">112</data>
+</edge>
+<edge source="29e8a62e" target="ad9c32a2">
+  <data key="d20">44</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">16-12-2021</data>
+  <data key="d25">16-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">44.0</data>
+  <data key="d28">44.0</data>
+  <data key="d29">44</data>
+  <data key="d30">44</data>
+</edge>
+<edge source="29e8a62e" target="bdadf7da">
+  <data key="d20">48</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">08-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">48.0</data>
+  <data key="d28">48.0</data>
+  <data key="d29">48</data>
+  <data key="d30">48</data>
+</edge>
+<edge source="29e8a62e" target="d12143bf">
+  <data key="d20">52</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-06-2021</data>
+  <data key="d25">02-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">52.0</data>
+  <data key="d28">52.0</data>
+  <data key="d29">52</data>
+  <data key="d30">52</data>
+</edge>
+<edge source="29e8a62e" target="e087956b">
+  <data key="d20">45</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">24-07-2020</data>
+  <data key="d25">24-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">45.0</data>
+  <data key="d28">45.0</data>
+  <data key="d29">45</data>
+  <data key="d30">45</data>
+</edge>
+<edge source="29e8a62e" target="e94bc520">
+  <data key="d20">101</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">24-07-2020</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">33.666666666666664</data>
+  <data key="d28">30.0</data>
+  <data key="d29">29</data>
+  <data key="d30">42</data>
+</edge>
+<edge source="29e8a62e" target="eba6a852">
+  <data key="d20">16</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-06-2021</data>
+  <data key="d25">02-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">16.0</data>
+  <data key="d28">16.0</data>
+  <data key="d29">16</data>
+  <data key="d30">16</data>
+</edge>
+<edge source="29e8a62e" target="fe0c5457">
+  <data key="d20">274</data>
+  <data key="d21">8</data>
+  <data key="d22">5</data>
+  <data key="d23">8</data>
+  <data key="d24">12-08-2021</data>
+  <data key="d25">16-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">34.25</data>
+  <data key="d28">6.0</data>
+  <data key="d29">0</data>
+  <data key="d30">135</data>
+</edge>
+<edge source="3987e390" target="4ae1755b">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">09-12-2022</data>
+  <data key="d25">09-12-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="3987e390" target="4b685e2d">
+  <data key="d20">24</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">04-03-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.0</data>
+  <data key="d28">12.0</data>
+  <data key="d29">1</data>
+  <data key="d30">23</data>
+</edge>
+<edge source="3987e390" target="4c5d73db">
+  <data key="d20">43</data>
+  <data key="d21">4</data>
+  <data key="d22">2</data>
+  <data key="d23">4</data>
+  <data key="d24">08-12-2021</data>
+  <data key="d25">24-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.75</data>
+  <data key="d28">9.0</data>
+  <data key="d29">1</data>
+  <data key="d30">24</data>
+</edge>
+<edge source="3987e390" target="5574750c">
+  <data key="d20">11</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">05-02-2021</data>
+  <data key="d25">05-02-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">11.0</data>
+  <data key="d28">11.0</data>
+  <data key="d29">11</data>
+  <data key="d30">11</data>
+</edge>
+<edge source="3987e390" target="894b2d25">
+  <data key="d20">37</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">10-06-2022</data>
+  <data key="d25">15-10-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">9.25</data>
+  <data key="d28">7.5</data>
+  <data key="d29">3</data>
+  <data key="d30">19</data>
+</edge>
+<edge source="3987e390" target="8d92a2c3">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">09-12-2022</data>
+  <data key="d25">09-12-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="3987e390" target="8f2dfebf">
+  <data key="d20">4</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">16-03-2022</data>
+  <data key="d25">16-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">4.0</data>
+  <data key="d29">4</data>
+  <data key="d30">4</data>
+</edge>
+<edge source="3987e390" target="a343262c">
+  <data key="d20">29</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">14-01-2021</data>
+  <data key="d25">24-02-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.25</data>
+  <data key="d28">6.5</data>
+  <data key="d29">0</data>
+  <data key="d30">16</data>
+</edge>
+<edge source="3987e390" target="abb83e27">
+  <data key="d20">51</data>
+  <data key="d21">4</data>
+  <data key="d22">3</data>
+  <data key="d23">4</data>
+  <data key="d24">05-01-2022</data>
+  <data key="d25">01-07-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.75</data>
+  <data key="d28">12.5</data>
+  <data key="d29">5</data>
+  <data key="d30">21</data>
+</edge>
+<edge source="3987e390" target="ad46c747">
+  <data key="d20">43</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">05-02-2021</data>
+  <data key="d25">04-03-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">21.5</data>
+  <data key="d28">21.5</data>
+  <data key="d29">1</data>
+  <data key="d30">42</data>
+</edge>
+<edge source="3987e390" target="c834c290">
+  <data key="d20">6</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">15-10-2024</data>
+  <data key="d25">15-10-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">6.0</data>
+  <data key="d28">6.0</data>
+  <data key="d29">6</data>
+  <data key="d30">6</data>
+</edge>
+<edge source="3987e390" target="d12143bf">
+  <data key="d20">77</data>
+  <data key="d21">10</data>
+  <data key="d22">9</data>
+  <data key="d23">10</data>
+  <data key="d24">22-01-2021</data>
+  <data key="d25">24-02-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.7</data>
+  <data key="d28">6.5</data>
+  <data key="d29">0</data>
+  <data key="d30">16</data>
+</edge>
+<edge source="3987e390" target="e087956b">
+  <data key="d20">12</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">17-08-2022</data>
+  <data key="d25">25-01-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">6.0</data>
+  <data key="d28">6.0</data>
+  <data key="d29">0</data>
+  <data key="d30">12</data>
+</edge>
+<edge source="3987e390" target="e36e9dd3">
+  <data key="d20">44</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">15-10-2024</data>
+  <data key="d25">24-10-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">14.666666666666666</data>
+  <data key="d28">9.0</data>
+  <data key="d29">6</data>
+  <data key="d30">29</data>
+</edge>
+<edge source="3987e390" target="e94bc520">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">25-01-2024</data>
+  <data key="d25">25-01-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="3987e390" target="eba6a852">
+  <data key="d20">33</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">24-02-2021</data>
+  <data key="d25">05-01-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">16.5</data>
+  <data key="d28">16.5</data>
+  <data key="d29">0</data>
+  <data key="d30">33</data>
+</edge>
+<edge source="3987e390" target="fd770945">
+  <data key="d20">101</data>
+  <data key="d21">6</data>
+  <data key="d22">5</data>
+  <data key="d23">6</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">24-02-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">16.833333333333332</data>
+  <data key="d28">16.0</data>
+  <data key="d29">3</data>
+  <data key="d30">36</data>
+</edge>
+<edge source="3c55c703" target="4ae1755b">
+  <data key="d20">150</data>
+  <data key="d21">5</data>
+  <data key="d22">5</data>
+  <data key="d23">5</data>
+  <data key="d24">06-12-2024</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">30.0</data>
+  <data key="d28">17.0</data>
+  <data key="d29">0</data>
+  <data key="d30">102</data>
+</edge>
+<edge source="3c55c703" target="5f26f677">
+  <data key="d20">551</data>
+  <data key="d21">9</data>
+  <data key="d22">7</data>
+  <data key="d23">9</data>
+  <data key="d24">28-11-2024</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">61.22222222222222</data>
+  <data key="d28">34.0</data>
+  <data key="d29">0</data>
+  <data key="d30">187</data>
+</edge>
+<edge source="3c55c703" target="894b2d25">
+  <data key="d20">31</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">04-01-2026</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">31.0</data>
+  <data key="d28">31.0</data>
+  <data key="d29">31</data>
+  <data key="d30">31</data>
+</edge>
+<edge source="3c55c703" target="922e1b19">
+  <data key="d20">83</data>
+  <data key="d21">5</data>
+  <data key="d22">4</data>
+  <data key="d23">5</data>
+  <data key="d24">06-12-2024</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">16.6</data>
+  <data key="d28">10.0</data>
+  <data key="d29">1</data>
+  <data key="d30">47</data>
+</edge>
+<edge source="3c55c703" target="9caf69a1">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">04-01-2026</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="3c55c703" target="a343262c">
+  <data key="d20">335</data>
+  <data key="d21">10</data>
+  <data key="d22">8</data>
+  <data key="d23">10</data>
+  <data key="d24">28-11-2024</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">33.5</data>
+  <data key="d28">31.5</data>
+  <data key="d29">2</data>
+  <data key="d30">104</data>
+</edge>
+<edge source="3c55c703" target="aa710a58">
+  <data key="d20">70</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">04-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">35.0</data>
+  <data key="d28">35.0</data>
+  <data key="d29">23</data>
+  <data key="d30">47</data>
+</edge>
+<edge source="3c55c703" target="c834c290">
+  <data key="d20">45</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">04-01-2026</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">45.0</data>
+  <data key="d28">45.0</data>
+  <data key="d29">45</data>
+  <data key="d30">45</data>
+</edge>
+<edge source="3c55c703" target="cad40f5e">
+  <data key="d20">30</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">04-01-2026</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">30.0</data>
+  <data key="d28">30.0</data>
+  <data key="d29">30</data>
+  <data key="d30">30</data>
+</edge>
+<edge source="3c55c703" target="e087956b">
+  <data key="d20">3</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">04-01-2026</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">3.0</data>
+  <data key="d28">3.0</data>
+  <data key="d29">3</data>
+  <data key="d30">3</data>
+</edge>
+<edge source="3c55c703" target="e94bc520">
+  <data key="d20">33</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">14-12-2024</data>
+  <data key="d25">14-12-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">33.0</data>
+  <data key="d28">33.0</data>
+  <data key="d29">33</data>
+  <data key="d30">33</data>
+</edge>
+<edge source="3f659464" target="4b685e2d">
+  <data key="d20">47</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">10-06-2021</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">47.0</data>
+  <data key="d28">47.0</data>
+  <data key="d29">47</data>
+  <data key="d30">47</data>
+</edge>
+<edge source="3f659464" target="70d57519">
+  <data key="d20">27</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">29-08-2024</data>
+  <data key="d25">29-08-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">27.0</data>
+  <data key="d28">27.0</data>
+  <data key="d29">27</data>
+  <data key="d30">27</data>
+</edge>
+<edge source="3f659464" target="8d92a2c3">
+  <data key="d20">44</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">10-06-2021</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">44.0</data>
+  <data key="d28">44.0</data>
+  <data key="d29">44</data>
+  <data key="d30">44</data>
+</edge>
+<edge source="3f659464" target="a343262c">
+  <data key="d20">28</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">10-06-2021</data>
+  <data key="d25">29-08-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">14.0</data>
+  <data key="d28">14.0</data>
+  <data key="d29">5</data>
+  <data key="d30">23</data>
+</edge>
+<edge source="3f659464" target="bb351c23">
+  <data key="d20">10</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">13-02-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.0</data>
+  <data key="d28">10.0</data>
+  <data key="d29">10</data>
+  <data key="d30">10</data>
+</edge>
+<edge source="3f659464" target="c834c290">
+  <data key="d20">58</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">06-09-2024</data>
+  <data key="d25">06-09-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">58.0</data>
+  <data key="d28">58.0</data>
+  <data key="d29">58</data>
+  <data key="d30">58</data>
+</edge>
+<edge source="3f659464" target="d12143bf">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">10-06-2021</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="3f659464" target="e36e9dd3">
+  <data key="d20">14</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">29-08-2024</data>
+  <data key="d25">06-09-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">7</data>
+  <data key="d30">7</data>
+</edge>
+<edge source="3f659464" target="e94bc520">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">06-09-2024</data>
+  <data key="d25">06-09-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="3f659464" target="eba6a852">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">10-06-2021</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="3f659464" target="fd770945">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">13-02-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="4a461c24" target="4c5d73db">
+  <data key="d20">13</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">23-07-2025</data>
+  <data key="d25">23-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">13.0</data>
+  <data key="d28">13.0</data>
+  <data key="d29">13</data>
+  <data key="d30">13</data>
+</edge>
+<edge source="4a461c24" target="c834c290">
+  <data key="d20">16</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">23-07-2025</data>
+  <data key="d25">23-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">16.0</data>
+  <data key="d28">16.0</data>
+  <data key="d29">16</data>
+  <data key="d30">16</data>
+</edge>
+<edge source="4a461c24" target="e087956b">
+  <data key="d20">35</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">23-07-2025</data>
+  <data key="d25">23-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">35.0</data>
+  <data key="d28">35.0</data>
+  <data key="d29">35</data>
+  <data key="d30">35</data>
+</edge>
+<edge source="4ae1755b" target="4b685e2d">
+  <data key="d20">251</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">19-08-2026</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">83.66666666666667</data>
+  <data key="d28">86.0</data>
+  <data key="d29">45</data>
+  <data key="d30">120</data>
+</edge>
+<edge source="4ae1755b" target="4c5d73db">
+  <data key="d20">167</data>
+  <data key="d21">5</data>
+  <data key="d22">5</data>
+  <data key="d23">5</data>
+  <data key="d24">06-07-2023</data>
+  <data key="d25">20-06-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">33.4</data>
+  <data key="d28">37.0</data>
+  <data key="d29">4</data>
+  <data key="d30">59</data>
+</edge>
+<edge source="4ae1755b" target="50c6bc2b">
+  <data key="d20">40</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">01-12-2022</data>
+  <data key="d25">01-12-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">20.0</data>
+  <data key="d28">20.0</data>
+  <data key="d29">16</data>
+  <data key="d30">24</data>
+</edge>
+<edge source="4ae1755b" target="521595e7">
+  <data key="d20">7</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">7</data>
+  <data key="d30">7</data>
+</edge>
+<edge source="4ae1755b" target="59559bc2">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">31-07-2025</data>
+  <data key="d25">31-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="4ae1755b" target="5f26f677">
+  <data key="d20">151</data>
+  <data key="d21">6</data>
+  <data key="d22">6</data>
+  <data key="d23">6</data>
+  <data key="d24">09-12-2022</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">25.166666666666668</data>
+  <data key="d28">20.0</data>
+  <data key="d29">4</data>
+  <data key="d30">68</data>
+</edge>
+<edge source="4ae1755b" target="70d57519">
+  <data key="d20">66</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">31-07-2025</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">22.0</data>
+  <data key="d28">20.0</data>
+  <data key="d29">14</data>
+  <data key="d30">32</data>
+</edge>
+<edge source="4ae1755b" target="8d92a2c3">
+  <data key="d20">11</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">09-12-2022</data>
+  <data key="d25">09-12-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">11.0</data>
+  <data key="d28">11.0</data>
+  <data key="d29">11</data>
+  <data key="d30">11</data>
+</edge>
+<edge source="4ae1755b" target="922e1b19">
+  <data key="d20">72</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">06-07-2023</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">36.0</data>
+  <data key="d28">36.0</data>
+  <data key="d29">4</data>
+  <data key="d30">68</data>
+</edge>
+<edge source="4ae1755b" target="9caf69a1">
+  <data key="d20">93</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">01-12-2022</data>
+  <data key="d25">01-12-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">46.5</data>
+  <data key="d28">46.5</data>
+  <data key="d29">37</data>
+  <data key="d30">56</data>
+</edge>
+<edge source="4ae1755b" target="a343262c">
+  <data key="d20">2566</data>
+  <data key="d21">43</data>
+  <data key="d22">32</data>
+  <data key="d23">43</data>
+  <data key="d24">01-12-2022</data>
+  <data key="d25">19-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">59.674418604651166</data>
+  <data key="d28">33.0</data>
+  <data key="d29">0</data>
+  <data key="d30">454</data>
+</edge>
+<edge source="4ae1755b" target="aa710a58">
+  <data key="d20">127</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">27-08-2026</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">63.5</data>
+  <data key="d28">63.5</data>
+  <data key="d29">23</data>
+  <data key="d30">104</data>
+</edge>
+<edge source="4ae1755b" target="abb83e27">
+  <data key="d20">76</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">28-06-2023</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.0</data>
+  <data key="d28">14.5</data>
+  <data key="d29">10</data>
+  <data key="d30">37</data>
+</edge>
+<edge source="4ae1755b" target="bb351c23">
+  <data key="d20">111</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-07-2023</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">111.0</data>
+  <data key="d28">111.0</data>
+  <data key="d29">111</data>
+  <data key="d30">111</data>
+</edge>
+<edge source="4ae1755b" target="c834c290">
+  <data key="d20">677</data>
+  <data key="d21">12</data>
+  <data key="d22">12</data>
+  <data key="d23">12</data>
+  <data key="d24">21-08-2024</data>
+  <data key="d25">19-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">56.416666666666664</data>
+  <data key="d28">27.5</data>
+  <data key="d29">3</data>
+  <data key="d30">303</data>
+</edge>
+<edge source="4ae1755b" target="e087956b">
+  <data key="d20">981</data>
+  <data key="d21">27</data>
+  <data key="d22">22</data>
+  <data key="d23">27</data>
+  <data key="d24">01-12-2022</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">36.333333333333336</data>
+  <data key="d28">30.0</data>
+  <data key="d29">0</data>
+  <data key="d30">159</data>
+</edge>
+<edge source="4ae1755b" target="e94bc520">
+  <data key="d20">864</data>
+  <data key="d21">14</data>
+  <data key="d22">13</data>
+  <data key="d23">14</data>
+  <data key="d24">08-09-2022</data>
+  <data key="d25">21-11-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">61.714285714285715</data>
+  <data key="d28">35.0</data>
+  <data key="d29">8</data>
+  <data key="d30">176</data>
+</edge>
+<edge source="4ae1755b" target="fd770945">
+  <data key="d20">206</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">17-12-2022</data>
+  <data key="d25">16-02-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">103.0</data>
+  <data key="d28">103.0</data>
+  <data key="d29">89</data>
+  <data key="d30">117</data>
+</edge>
+<edge source="4ae1755b" target="ff154ecd">
+  <data key="d20">41</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-08-2026</data>
+  <data key="d25">27-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">41.0</data>
+  <data key="d28">41.0</data>
+  <data key="d29">41</data>
+  <data key="d30">41</data>
+</edge>
+<edge source="4b685e2d" target="5bfdc77a">
+  <data key="d20">6</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">10-06-2021</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">6.0</data>
+  <data key="d28">6.0</data>
+  <data key="d29">6</data>
+  <data key="d30">6</data>
+</edge>
+<edge source="4b685e2d" target="5f26f677">
+  <data key="d20">184</data>
+  <data key="d21">6</data>
+  <data key="d22">3</data>
+  <data key="d23">6</data>
+  <data key="d24">21-08-2024</data>
+  <data key="d25">06-09-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">30.666666666666668</data>
+  <data key="d28">31.5</data>
+  <data key="d29">20</data>
+  <data key="d30">45</data>
+</edge>
+<edge source="4b685e2d" target="70d57519">
+  <data key="d20">13</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-08-2026</data>
+  <data key="d25">27-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">13.0</data>
+  <data key="d28">13.0</data>
+  <data key="d29">13</data>
+  <data key="d30">13</data>
+</edge>
+<edge source="4b685e2d" target="8d92a2c3">
+  <data key="d20">66</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">10-06-2021</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">66.0</data>
+  <data key="d28">66.0</data>
+  <data key="d29">66</data>
+  <data key="d30">66</data>
+</edge>
+<edge source="4b685e2d" target="922e1b19">
+  <data key="d20">7</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">16-03-2022</data>
+  <data key="d25">16-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">7</data>
+  <data key="d30">7</data>
+</edge>
+<edge source="4b685e2d" target="97e434a6">
+  <data key="d20">53</data>
+  <data key="d21">4</data>
+  <data key="d22">3</data>
+  <data key="d23">4</data>
+  <data key="d24">22-01-2021</data>
+  <data key="d25">13-02-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">13.25</data>
+  <data key="d28">10.5</data>
+  <data key="d29">0</data>
+  <data key="d30">32</data>
+</edge>
+<edge source="4b685e2d" target="a343262c">
+  <data key="d20">578</data>
+  <data key="d21">15</data>
+  <data key="d22">11</data>
+  <data key="d23">15</data>
+  <data key="d24">14-01-2021</data>
+  <data key="d25">06-09-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">38.53333333333333</data>
+  <data key="d28">16.0</data>
+  <data key="d29">0</data>
+  <data key="d30">173</data>
+</edge>
+<edge source="4b685e2d" target="abb83e27">
+  <data key="d20">113</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">14-01-2021</data>
+  <data key="d25">16-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">56.5</data>
+  <data key="d28">56.5</data>
+  <data key="d29">51</data>
+  <data key="d30">62</data>
+</edge>
+<edge source="4b685e2d" target="ad46c747">
+  <data key="d20">20</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">04-03-2021</data>
+  <data key="d25">04-03-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.0</data>
+  <data key="d28">10.0</data>
+  <data key="d29">2</data>
+  <data key="d30">18</data>
+</edge>
+<edge source="4b685e2d" target="c834c290">
+  <data key="d20">85</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">27-08-2026</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">42.5</data>
+  <data key="d28">42.5</data>
+  <data key="d29">21</data>
+  <data key="d30">64</data>
+</edge>
+<edge source="4b685e2d" target="c9c0fe50">
+  <data key="d20">17</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">24-03-2022</data>
+  <data key="d25">24-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">8.5</data>
+  <data key="d28">8.5</data>
+  <data key="d29">0</data>
+  <data key="d30">17</data>
+</edge>
+<edge source="4b685e2d" target="d12143bf">
+  <data key="d20">15</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">04-03-2021</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.5</data>
+  <data key="d28">7.5</data>
+  <data key="d29">1</data>
+  <data key="d30">14</data>
+</edge>
+<edge source="4b685e2d" target="e087956b">
+  <data key="d20">73</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">16-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">24.333333333333332</data>
+  <data key="d28">21.0</data>
+  <data key="d29">16</data>
+  <data key="d30">36</data>
+</edge>
+<edge source="4b685e2d" target="e94bc520">
+  <data key="d20">92</data>
+  <data key="d21">4</data>
+  <data key="d22">3</data>
+  <data key="d23">4</data>
+  <data key="d24">04-03-2021</data>
+  <data key="d25">06-09-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">23.0</data>
+  <data key="d28">18.5</data>
+  <data key="d29">10</data>
+  <data key="d30">45</data>
+</edge>
+<edge source="4b685e2d" target="eba6a852">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">10-06-2021</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="4b685e2d" target="fd770945">
+  <data key="d20">54</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">04-03-2021</data>
+  <data key="d25">16-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">18.0</data>
+  <data key="d28">6.0</data>
+  <data key="d29">4</data>
+  <data key="d30">44</data>
+</edge>
+<edge source="4b685e2d" target="ff154ecd">
+  <data key="d20">43</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-08-2026</data>
+  <data key="d25">27-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">43.0</data>
+  <data key="d28">43.0</data>
+  <data key="d29">43</data>
+  <data key="d30">43</data>
+</edge>
+<edge source="4c5d73db" target="5574750c">
+  <data key="d20">12</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">05-08-2020</data>
+  <data key="d25">10-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">6.0</data>
+  <data key="d28">6.0</data>
+  <data key="d29">3</data>
+  <data key="d30">9</data>
+</edge>
+<edge source="4c5d73db" target="70d57519">
+  <data key="d20">45</data>
+  <data key="d21">5</data>
+  <data key="d22">5</data>
+  <data key="d23">5</data>
+  <data key="d24">18-07-2024</data>
+  <data key="d25">31-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">9.0</data>
+  <data key="d28">4.0</data>
+  <data key="d29">2</data>
+  <data key="d30">26</data>
+</edge>
+<edge source="4c5d73db" target="8d92a2c3">
+  <data key="d20">190</data>
+  <data key="d21">8</data>
+  <data key="d22">6</data>
+  <data key="d23">8</data>
+  <data key="d24">24-01-2020</data>
+  <data key="d25">18-07-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">23.75</data>
+  <data key="d28">23.0</data>
+  <data key="d29">8</data>
+  <data key="d30">49</data>
+</edge>
+<edge source="4c5d73db" target="8f2dfebf">
+  <data key="d20">4</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">16-03-2022</data>
+  <data key="d25">16-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">4.0</data>
+  <data key="d29">4</data>
+  <data key="d30">4</data>
+</edge>
+<edge source="4c5d73db" target="99b75528">
+  <data key="d20">323</data>
+  <data key="d21">8</data>
+  <data key="d22">7</data>
+  <data key="d23">8</data>
+  <data key="d24">24-01-2020</data>
+  <data key="d25">16-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">40.375</data>
+  <data key="d28">36.0</data>
+  <data key="d29">0</data>
+  <data key="d30">139</data>
+</edge>
+<edge source="4c5d73db" target="a343262c">
+  <data key="d20">136</data>
+  <data key="d21">6</data>
+  <data key="d22">5</data>
+  <data key="d23">6</data>
+  <data key="d24">24-01-2020</data>
+  <data key="d25">29-08-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">22.666666666666668</data>
+  <data key="d28">24.5</data>
+  <data key="d29">0</data>
+  <data key="d30">35</data>
+</edge>
+<edge source="4c5d73db" target="abb83e27">
+  <data key="d20">118</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">08-03-2022</data>
+  <data key="d25">19-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">39.333333333333336</data>
+  <data key="d28">35.0</data>
+  <data key="d29">12</data>
+  <data key="d30">71</data>
+</edge>
+<edge source="4c5d73db" target="ad46c747">
+  <data key="d20">23</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">05-08-2020</data>
+  <data key="d25">21-08-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.666666666666667</data>
+  <data key="d28">4.0</data>
+  <data key="d29">2</data>
+  <data key="d30">17</data>
+</edge>
+<edge source="4c5d73db" target="bb351c23">
+  <data key="d20">4</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-07-2023</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">4.0</data>
+  <data key="d29">4</data>
+  <data key="d30">4</data>
+</edge>
+<edge source="4c5d73db" target="c16d4035">
+  <data key="d20">42</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">14-01-2022</data>
+  <data key="d25">14-01-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">42.0</data>
+  <data key="d28">42.0</data>
+  <data key="d29">42</data>
+  <data key="d30">42</data>
+</edge>
+<edge source="4c5d73db" target="c834c290">
+  <data key="d20">290</data>
+  <data key="d21">8</data>
+  <data key="d22">7</data>
+  <data key="d23">8</data>
+  <data key="d24">10-07-2024</data>
+  <data key="d25">10-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">36.25</data>
+  <data key="d28">35.5</data>
+  <data key="d29">0</data>
+  <data key="d30">106</data>
+</edge>
+<edge source="4c5d73db" target="c9c0fe50">
+  <data key="d20">14</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">24-03-2022</data>
+  <data key="d25">24-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">14.0</data>
+  <data key="d28">14.0</data>
+  <data key="d29">14</data>
+  <data key="d30">14</data>
+</edge>
+<edge source="4c5d73db" target="cad40f5e">
+  <data key="d20">92</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">07-10-2024</data>
+  <data key="d25">10-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">23.0</data>
+  <data key="d28">18.0</data>
+  <data key="d29">1</data>
+  <data key="d30">55</data>
+</edge>
+<edge source="4c5d73db" target="d12143bf">
+  <data key="d20">48</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">02-09-2021</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">24.0</data>
+  <data key="d28">24.0</data>
+  <data key="d29">13</data>
+  <data key="d30">35</data>
+</edge>
+<edge source="4c5d73db" target="e087956b">
+  <data key="d20">62</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">16-12-2021</data>
+  <data key="d25">10-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">15.5</data>
+  <data key="d28">14.0</data>
+  <data key="d29">1</data>
+  <data key="d30">33</data>
+</edge>
+<edge source="4c5d73db" target="e94bc520">
+  <data key="d20">43</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">02-09-2021</data>
+  <data key="d25">06-09-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.75</data>
+  <data key="d28">7.5</data>
+  <data key="d29">0</data>
+  <data key="d30">28</data>
+</edge>
+<edge source="4c5d73db" target="e9987a94">
+  <data key="d20">38</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">02-09-2021</data>
+  <data key="d25">24-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.666666666666666</data>
+  <data key="d28">11.0</data>
+  <data key="d29">4</data>
+  <data key="d30">23</data>
+</edge>
+<edge source="4c5d73db" target="eba6a852">
+  <data key="d20">26</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">05-08-2020</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">13.0</data>
+  <data key="d28">13.0</data>
+  <data key="d29">9</data>
+  <data key="d30">17</data>
+</edge>
+<edge source="4c5d73db" target="fd770945">
+  <data key="d20">107</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">16-03-2022</data>
+  <data key="d25">24-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">35.666666666666664</data>
+  <data key="d28">18.0</data>
+  <data key="d29">14</data>
+  <data key="d30">75</data>
+</edge>
+<edge source="521595e7" target="a343262c">
+  <data key="d20">43</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">43.0</data>
+  <data key="d28">43.0</data>
+  <data key="d29">43</data>
+  <data key="d30">43</data>
+</edge>
+<edge source="521595e7" target="ff154ecd">
+  <data key="d20">40</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">40.0</data>
+  <data key="d28">40.0</data>
+  <data key="d29">40</data>
+  <data key="d30">40</data>
+</edge>
+<edge source="5574750c" target="70d57519">
+  <data key="d20">55</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">21-11-2025</data>
+  <data key="d25">27-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">18.333333333333332</data>
+  <data key="d28">21.0</data>
+  <data key="d29">6</data>
+  <data key="d30">28</data>
+</edge>
+<edge source="5574750c" target="8d92a2c3">
+  <data key="d20">24</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">21-11-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.0</data>
+  <data key="d28">12.0</data>
+  <data key="d29">0</data>
+  <data key="d30">24</data>
+</edge>
+<edge source="5574750c" target="8f2dfebf">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="5574750c" target="a343262c">
+  <data key="d20">70</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">04-12-2025</data>
+  <data key="d25">04-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">70.0</data>
+  <data key="d28">70.0</data>
+  <data key="d29">70</data>
+  <data key="d30">70</data>
+</edge>
+<edge source="5574750c" target="ad46c747">
+  <data key="d20">10</data>
+  <data key="d21">4</data>
+  <data key="d22">3</data>
+  <data key="d23">4</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">05-02-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">2.5</data>
+  <data key="d28">1.0</data>
+  <data key="d29">0</data>
+  <data key="d30">8</data>
+</edge>
+<edge source="5574750c" target="c834c290">
+  <data key="d20">39</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">21-11-2025</data>
+  <data key="d25">19-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">13.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">4</data>
+  <data key="d30">28</data>
+</edge>
+<edge source="5574750c" target="cad40f5e">
+  <data key="d20">48</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">10-07-2025</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.0</data>
+  <data key="d28">11.5</data>
+  <data key="d29">10</data>
+  <data key="d30">15</data>
+</edge>
+<edge source="5574750c" target="d12143bf">
+  <data key="d20">10</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">08-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.0</data>
+  <data key="d28">10.0</data>
+  <data key="d29">10</data>
+  <data key="d30">10</data>
+</edge>
+<edge source="5574750c" target="e087956b">
+  <data key="d20">106</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-12-2025</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">106.0</data>
+  <data key="d28">106.0</data>
+  <data key="d29">106</data>
+  <data key="d30">106</data>
+</edge>
+<edge source="5574750c" target="e36e9dd3">
+  <data key="d20">7</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">10-07-2025</data>
+  <data key="d25">10-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">7</data>
+  <data key="d30">7</data>
+</edge>
+<edge source="5574750c" target="e94bc520">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">08-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="5574750c" target="eba6a852">
+  <data key="d20">27</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">05-08-2020</data>
+  <data key="d25">05-08-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">27.0</data>
+  <data key="d28">27.0</data>
+  <data key="d29">27</data>
+  <data key="d30">27</data>
+</edge>
+<edge source="5574750c" target="fd770945">
+  <data key="d20">14</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">24-02-2021</data>
+  <data key="d25">24-02-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">2</data>
+  <data key="d30">12</data>
+</edge>
+<edge source="5574750c" target="ff154ecd">
+  <data key="d20">18</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">9.0</data>
+  <data key="d28">9.0</data>
+  <data key="d29">0</data>
+  <data key="d30">18</data>
+</edge>
+<edge source="59559bc2" target="70d57519">
+  <data key="d20">7</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">31-07-2025</data>
+  <data key="d25">31-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">7</data>
+  <data key="d30">7</data>
+</edge>
+<edge source="59559bc2" target="abb83e27">
+  <data key="d20">241</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">23-06-2022</data>
+  <data key="d25">23-06-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">241.0</data>
+  <data key="d28">241.0</data>
+  <data key="d29">241</data>
+  <data key="d30">241</data>
+</edge>
+<edge source="59559bc2" target="c834c290">
+  <data key="d20">10</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">31-07-2025</data>
+  <data key="d25">31-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.0</data>
+  <data key="d28">10.0</data>
+  <data key="d29">10</data>
+  <data key="d30">10</data>
+</edge>
+<edge source="5bfdc77a" target="a343262c">
+  <data key="d20">13</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">10-06-2021</data>
+  <data key="d25">10-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">13.0</data>
+  <data key="d28">13.0</data>
+  <data key="d29">13</data>
+  <data key="d30">13</data>
+</edge>
+<edge source="5f26f677" target="8d92a2c3">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">26-07-2024</data>
+  <data key="d25">26-07-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="5f26f677" target="922e1b19">
+  <data key="d20">2697</data>
+  <data key="d21">65</data>
+  <data key="d22">35</data>
+  <data key="d23">65</data>
+  <data key="d24">01-12-2022</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">41.49230769230769</data>
+  <data key="d28">27.0</data>
+  <data key="d29">0</data>
+  <data key="d30">233</data>
+</edge>
+<edge source="5f26f677" target="9caf69a1">
+  <data key="d20">14</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">09-12-2022</data>
+  <data key="d25">09-12-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">14.0</data>
+  <data key="d28">14.0</data>
+  <data key="d29">14</data>
+  <data key="d30">14</data>
+</edge>
+<edge source="5f26f677" target="a343262c">
+  <data key="d20">544</data>
+  <data key="d21">16</data>
+  <data key="d22">15</data>
+  <data key="d23">16</data>
+  <data key="d24">09-12-2022</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">34.0</data>
+  <data key="d28">25.0</data>
+  <data key="d29">0</data>
+  <data key="d30">136</data>
+</edge>
+<edge source="5f26f677" target="aa710a58">
+  <data key="d20">204</data>
+  <data key="d21">10</data>
+  <data key="d22">6</data>
+  <data key="d23">10</data>
+  <data key="d24">04-06-2026</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">20.4</data>
+  <data key="d28">14.5</data>
+  <data key="d29">0</data>
+  <data key="d30">52</data>
+</edge>
+<edge source="5f26f677" target="abb83e27">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">15-02-2024</data>
+  <data key="d25">15-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="5f26f677" target="e087956b">
+  <data key="d20">377</data>
+  <data key="d21">5</data>
+  <data key="d22">5</data>
+  <data key="d23">5</data>
+  <data key="d24">17-12-2022</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">75.4</data>
+  <data key="d28">73.0</data>
+  <data key="d29">35</data>
+  <data key="d30">132</data>
+</edge>
+<edge source="5f26f677" target="e94bc520">
+  <data key="d20">1504</data>
+  <data key="d21">25</data>
+  <data key="d22">19</data>
+  <data key="d23">25</data>
+  <data key="d24">09-12-2022</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">60.16</data>
+  <data key="d28">52.0</data>
+  <data key="d29">4</data>
+  <data key="d30">252</data>
+</edge>
+<edge source="5f26f677" target="ff154ecd">
+  <data key="d20">5</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-08-2026</data>
+  <data key="d25">27-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">5.0</data>
+  <data key="d28">5.0</data>
+  <data key="d29">5</data>
+  <data key="d30">5</data>
+</edge>
+<edge source="70d57519" target="894b2d25">
+  <data key="d20">85</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">29-08-2024</data>
+  <data key="d25">29-08-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">85.0</data>
+  <data key="d28">85.0</data>
+  <data key="d29">85</data>
+  <data key="d30">85</data>
+</edge>
+<edge source="70d57519" target="8d92a2c3">
+  <data key="d20">6</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">18-07-2024</data>
+  <data key="d25">21-11-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">3.0</data>
+  <data key="d28">3.0</data>
+  <data key="d29">2</data>
+  <data key="d30">4</data>
+</edge>
+<edge source="70d57519" target="a343262c">
+  <data key="d20">181</data>
+  <data key="d21">5</data>
+  <data key="d22">4</data>
+  <data key="d23">5</data>
+  <data key="d24">18-07-2024</data>
+  <data key="d25">04-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">36.2</data>
+  <data key="d28">25.0</data>
+  <data key="d29">10</data>
+  <data key="d30">92</data>
+</edge>
+<edge source="70d57519" target="c834c290">
+  <data key="d20">416</data>
+  <data key="d21">11</data>
+  <data key="d22">10</data>
+  <data key="d23">11</data>
+  <data key="d24">10-07-2024</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">37.81818181818182</data>
+  <data key="d28">35.0</data>
+  <data key="d29">1</data>
+  <data key="d30">105</data>
+</edge>
+<edge source="70d57519" target="cad40f5e">
+  <data key="d20">82</data>
+  <data key="d21">5</data>
+  <data key="d22">4</data>
+  <data key="d23">5</data>
+  <data key="d24">14-12-2024</data>
+  <data key="d25">26-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">16.4</data>
+  <data key="d28">8.0</data>
+  <data key="d29">4</data>
+  <data key="d30">50</data>
+</edge>
+<edge source="70d57519" target="e087956b">
+  <data key="d20">75</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">28-11-2024</data>
+  <data key="d25">26-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">18.75</data>
+  <data key="d28">4.5</data>
+  <data key="d29">3</data>
+  <data key="d30">63</data>
+</edge>
+<edge source="70d57519" target="e36e9dd3">
+  <data key="d20">17</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">18-07-2024</data>
+  <data key="d25">26-07-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">8.5</data>
+  <data key="d28">8.5</data>
+  <data key="d29">4</data>
+  <data key="d30">13</data>
+</edge>
+<edge source="70d57519" target="e94bc520">
+  <data key="d20">57</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">06-09-2024</data>
+  <data key="d25">14-12-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">28.5</data>
+  <data key="d28">28.5</data>
+  <data key="d29">8</data>
+  <data key="d30">49</data>
+</edge>
+<edge source="78c12883" target="8f2dfebf">
+  <data key="d20">53</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">53.0</data>
+  <data key="d28">53.0</data>
+  <data key="d29">53</data>
+  <data key="d30">53</data>
+</edge>
+<edge source="78c12883" target="ff154ecd">
+  <data key="d20">17</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">17.0</data>
+  <data key="d28">17.0</data>
+  <data key="d29">17</data>
+  <data key="d30">17</data>
+</edge>
+<edge source="894b2d25" target="8d92a2c3">
+  <data key="d20">33</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">21-08-2024</data>
+  <data key="d25">21-08-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">33.0</data>
+  <data key="d28">33.0</data>
+  <data key="d29">33</data>
+  <data key="d30">33</data>
+</edge>
+<edge source="894b2d25" target="a343262c">
+  <data key="d20">8</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">29-08-2024</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">4.0</data>
+  <data key="d29">2</data>
+  <data key="d30">6</data>
+</edge>
+<edge source="894b2d25" target="abb83e27">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">23-06-2022</data>
+  <data key="d25">23-06-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="894b2d25" target="c16d4035">
+  <data key="d20">19</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">01-07-2022</data>
+  <data key="d25">01-07-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.0</data>
+  <data key="d28">19.0</data>
+  <data key="d29">19</data>
+  <data key="d30">19</data>
+</edge>
+<edge source="894b2d25" target="c834c290">
+  <data key="d20">18</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">21-08-2024</data>
+  <data key="d25">15-10-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">9.0</data>
+  <data key="d28">9.0</data>
+  <data key="d29">8</data>
+  <data key="d30">10</data>
+</edge>
+<edge source="894b2d25" target="cad40f5e">
+  <data key="d20">13</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">15-10-2024</data>
+  <data key="d25">14-12-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.333333333333333</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">13</data>
+</edge>
+<edge source="894b2d25" target="d12143bf">
+  <data key="d20">18</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">01-07-2022</data>
+  <data key="d25">17-08-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">9.0</data>
+  <data key="d28">9.0</data>
+  <data key="d29">1</data>
+  <data key="d30">17</data>
+</edge>
+<edge source="894b2d25" target="e087956b">
+  <data key="d20">5</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-08-2022</data>
+  <data key="d25">17-08-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">5.0</data>
+  <data key="d28">5.0</data>
+  <data key="d29">5</data>
+  <data key="d30">5</data>
+</edge>
+<edge source="894b2d25" target="e36e9dd3">
+  <data key="d20">12</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">21-08-2024</data>
+  <data key="d25">14-12-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">2.0</data>
+  <data key="d29">0</data>
+  <data key="d30">10</data>
+</edge>
+<edge source="894b2d25" target="eba6a852">
+  <data key="d20">11</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-08-2022</data>
+  <data key="d25">17-08-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">11.0</data>
+  <data key="d28">11.0</data>
+  <data key="d29">11</data>
+  <data key="d30">11</data>
+</edge>
+<edge source="894b2d25" target="fd770945">
+  <data key="d20">0</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">02-06-2022</data>
+  <data key="d25">10-06-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="8d92a2c3" target="99b75528">
+  <data key="d20">4</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">12-08-2021</data>
+  <data key="d25">26-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">2.0</data>
+  <data key="d28">2.0</data>
+  <data key="d29">0</data>
+  <data key="d30">4</data>
+</edge>
+<edge source="8d92a2c3" target="a343262c">
+  <data key="d20">60</data>
+  <data key="d21">5</data>
+  <data key="d22">5</data>
+  <data key="d23">5</data>
+  <data key="d24">24-01-2020</data>
+  <data key="d25">07-03-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.0</data>
+  <data key="d28">8.0</data>
+  <data key="d29">0</data>
+  <data key="d30">34</data>
+</edge>
+<edge source="8d92a2c3" target="abb83e27">
+  <data key="d20">125</data>
+  <data key="d21">5</data>
+  <data key="d22">4</data>
+  <data key="d23">5</data>
+  <data key="d24">26-12-2021</data>
+  <data key="d25">19-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">25.0</data>
+  <data key="d28">20.0</data>
+  <data key="d29">0</data>
+  <data key="d30">72</data>
+</edge>
+<edge source="8d92a2c3" target="ad46c747">
+  <data key="d20">17</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">08-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">17.0</data>
+  <data key="d28">17.0</data>
+  <data key="d29">17</data>
+  <data key="d30">17</data>
+</edge>
+<edge source="8d92a2c3" target="bb351c23">
+  <data key="d20">11</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-07-2023</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">11.0</data>
+  <data key="d28">11.0</data>
+  <data key="d29">11</data>
+  <data key="d30">11</data>
+</edge>
+<edge source="8d92a2c3" target="d12143bf">
+  <data key="d20">72</data>
+  <data key="d21">4</data>
+  <data key="d22">3</data>
+  <data key="d23">4</data>
+  <data key="d24">12-08-2021</data>
+  <data key="d25">15-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">18.0</data>
+  <data key="d28">18.0</data>
+  <data key="d29">0</data>
+  <data key="d30">36</data>
+</edge>
+<edge source="8d92a2c3" target="e087956b">
+  <data key="d20">66</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">06-07-2023</data>
+  <data key="d25">25-01-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">33.0</data>
+  <data key="d28">33.0</data>
+  <data key="d29">25</data>
+  <data key="d30">41</data>
+</edge>
+<edge source="8d92a2c3" target="e36e9dd3">
+  <data key="d20">8</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">18-07-2024</data>
+  <data key="d25">18-07-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">8.0</data>
+  <data key="d28">8.0</data>
+  <data key="d29">8</data>
+  <data key="d30">8</data>
+</edge>
+<edge source="8d92a2c3" target="e94bc520">
+  <data key="d20">76</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">16-01-2020</data>
+  <data key="d25">26-07-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">25.333333333333332</data>
+  <data key="d28">2.0</data>
+  <data key="d29">1</data>
+  <data key="d30">73</data>
+</edge>
+<edge source="8d92a2c3" target="eba6a852">
+  <data key="d20">86</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">24-01-2020</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">28.666666666666668</data>
+  <data key="d28">4.0</data>
+  <data key="d29">0</data>
+  <data key="d30">82</data>
+</edge>
+<edge source="8d92a2c3" target="fd770945">
+  <data key="d20">51</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">17-12-2022</data>
+  <data key="d25">07-03-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">25.5</data>
+  <data key="d28">25.5</data>
+  <data key="d29">0</data>
+  <data key="d30">51</data>
+</edge>
+<edge source="8f2dfebf" target="ff154ecd">
+  <data key="d20">4</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">17-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">4.0</data>
+  <data key="d29">4</data>
+  <data key="d30">4</data>
+</edge>
+<edge source="922e1b19" target="97e434a6">
+  <data key="d20">552</data>
+  <data key="d21">20</data>
+  <data key="d22">13</data>
+  <data key="d23">20</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">04-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">27.6</data>
+  <data key="d28">10.0</data>
+  <data key="d29">0</data>
+  <data key="d30">107</data>
+</edge>
+<edge source="922e1b19" target="99b75528">
+  <data key="d20">359</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">21-08-2020</data>
+  <data key="d25">21-08-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">359.0</data>
+  <data key="d28">359.0</data>
+  <data key="d29">359</data>
+  <data key="d30">359</data>
+</edge>
+<edge source="922e1b19" target="a343262c">
+  <data key="d20">1210</data>
+  <data key="d21">28</data>
+  <data key="d22">24</data>
+  <data key="d23">28</data>
+  <data key="d24">21-08-2020</data>
+  <data key="d25">26-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">43.214285714285715</data>
+  <data key="d28">26.0</data>
+  <data key="d29">0</data>
+  <data key="d30">206</data>
+</edge>
+<edge source="922e1b19" target="abb83e27">
+  <data key="d20">223</data>
+  <data key="d21">8</data>
+  <data key="d22">7</data>
+  <data key="d23">8</data>
+  <data key="d24">14-01-2021</data>
+  <data key="d25">23-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">27.875</data>
+  <data key="d28">17.0</data>
+  <data key="d29">1</data>
+  <data key="d30">91</data>
+</edge>
+<edge source="922e1b19" target="ad9c32a2">
+  <data key="d20">92</data>
+  <data key="d21">5</data>
+  <data key="d22">3</data>
+  <data key="d23">5</data>
+  <data key="d24">26-12-2021</data>
+  <data key="d25">14-01-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">18.4</data>
+  <data key="d28">14.0</data>
+  <data key="d29">9</data>
+  <data key="d30">28</data>
+</edge>
+<edge source="922e1b19" target="bb351c23">
+  <data key="d20">143</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">06-07-2023</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">47.666666666666664</data>
+  <data key="d28">18.0</data>
+  <data key="d29">4</data>
+  <data key="d30">121</data>
+</edge>
+<edge source="922e1b19" target="bdadf7da">
+  <data key="d20">80</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">16-01-2020</data>
+  <data key="d25">08-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">26.666666666666668</data>
+  <data key="d28">33.0</data>
+  <data key="d29">9</data>
+  <data key="d30">38</data>
+</edge>
+<edge source="922e1b19" target="c834c290">
+  <data key="d20">5</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-12-2025</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">5.0</data>
+  <data key="d28">5.0</data>
+  <data key="d29">5</data>
+  <data key="d30">5</data>
+</edge>
+<edge source="922e1b19" target="c9c0fe50">
+  <data key="d20">536</data>
+  <data key="d21">19</data>
+  <data key="d22">10</data>
+  <data key="d23">19</data>
+  <data key="d24">08-03-2022</data>
+  <data key="d25">08-09-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">28.210526315789473</data>
+  <data key="d28">17.0</data>
+  <data key="d29">4</data>
+  <data key="d30">108</data>
+</edge>
+<edge source="922e1b19" target="cad40f5e">
+  <data key="d20">14</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">26-12-2025</data>
+  <data key="d25">26-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">14.0</data>
+  <data key="d28">14.0</data>
+  <data key="d29">14</data>
+  <data key="d30">14</data>
+</edge>
+<edge source="922e1b19" target="e087956b">
+  <data key="d20">226</data>
+  <data key="d21">7</data>
+  <data key="d22">6</data>
+  <data key="d23">7</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">32.285714285714285</data>
+  <data key="d28">16.0</data>
+  <data key="d29">6</data>
+  <data key="d30">98</data>
+</edge>
+<edge source="922e1b19" target="e94bc520">
+  <data key="d20">817</data>
+  <data key="d21">35</data>
+  <data key="d22">26</data>
+  <data key="d23">35</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">23.34285714285714</data>
+  <data key="d28">16.0</data>
+  <data key="d29">0</data>
+  <data key="d30">137</data>
+</edge>
+<edge source="922e1b19" target="fe0c5457">
+  <data key="d20">79</data>
+  <data key="d21">4</data>
+  <data key="d22">2</data>
+  <data key="d23">4</data>
+  <data key="d24">26-12-2021</data>
+  <data key="d25">05-01-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.75</data>
+  <data key="d28">14.5</data>
+  <data key="d29">4</data>
+  <data key="d30">46</data>
+</edge>
+<edge source="97e434a6" target="99b75528">
+  <data key="d20">116</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">22-01-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">58.0</data>
+  <data key="d28">58.0</data>
+  <data key="d29">41</data>
+  <data key="d30">75</data>
+</edge>
+<edge source="97e434a6" target="a343262c">
+  <data key="d20">702</data>
+  <data key="d21">13</data>
+  <data key="d22">11</data>
+  <data key="d23">13</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">04-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">54.0</data>
+  <data key="d28">24.0</data>
+  <data key="d29">1</data>
+  <data key="d30">200</data>
+</edge>
+<edge source="97e434a6" target="abb83e27">
+  <data key="d20">45</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">22-01-2021</data>
+  <data key="d25">04-03-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">15.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">45</data>
+</edge>
+<edge source="97e434a6" target="ad46c747">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">03-01-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="97e434a6" target="bdadf7da">
+  <data key="d20">188</data>
+  <data key="d21">4</data>
+  <data key="d22">3</data>
+  <data key="d23">4</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">08-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">47.0</data>
+  <data key="d28">48.0</data>
+  <data key="d29">19</data>
+  <data key="d30">73</data>
+</edge>
+<edge source="97e434a6" target="e087956b">
+  <data key="d20">352</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">16-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">176.0</data>
+  <data key="d28">176.0</data>
+  <data key="d29">92</data>
+  <data key="d30">260</data>
+</edge>
+<edge source="97e434a6" target="e94915e6">
+  <data key="d20">19</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">03-01-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.0</data>
+  <data key="d28">19.0</data>
+  <data key="d29">19</data>
+  <data key="d30">19</data>
+</edge>
+<edge source="97e434a6" target="e94bc520">
+  <data key="d20">39</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">02-06-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.5</data>
+  <data key="d28">19.5</data>
+  <data key="d29">5</data>
+  <data key="d30">34</data>
+</edge>
+<edge source="97e434a6" target="eba6a852">
+  <data key="d20">16</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">03-01-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">16.0</data>
+  <data key="d28">16.0</data>
+  <data key="d29">16</data>
+  <data key="d30">16</data>
+</edge>
+<edge source="97e434a6" target="fe0c5457">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">12-08-2021</data>
+  <data key="d25">12-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="99b75528" target="a343262c">
+  <data key="d20">293</data>
+  <data key="d21">12</data>
+  <data key="d22">9</data>
+  <data key="d23">12</data>
+  <data key="d24">24-01-2020</data>
+  <data key="d25">26-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">24.416666666666668</data>
+  <data key="d28">10.0</data>
+  <data key="d29">0</data>
+  <data key="d30">97</data>
+</edge>
+<edge source="99b75528" target="abb83e27">
+  <data key="d20">47</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">26-12-2021</data>
+  <data key="d25">05-01-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">15.666666666666666</data>
+  <data key="d28">13.0</data>
+  <data key="d29">9</data>
+  <data key="d30">25</data>
+</edge>
+<edge source="99b75528" target="ad46c747">
+  <data key="d20">91</data>
+  <data key="d21">4</data>
+  <data key="d22">3</data>
+  <data key="d23">4</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">05-02-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">22.75</data>
+  <data key="d28">20.0</data>
+  <data key="d29">3</data>
+  <data key="d30">48</data>
+</edge>
+<edge source="99b75528" target="bb351c23">
+  <data key="d20">23</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">12-08-2021</data>
+  <data key="d25">12-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">23.0</data>
+  <data key="d28">23.0</data>
+  <data key="d29">23</data>
+  <data key="d30">23</data>
+</edge>
+<edge source="99b75528" target="d12143bf">
+  <data key="d20">3</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">26-12-2021</data>
+  <data key="d25">26-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">3.0</data>
+  <data key="d28">3.0</data>
+  <data key="d29">3</data>
+  <data key="d30">3</data>
+</edge>
+<edge source="99b75528" target="e087956b">
+  <data key="d20">167</data>
+  <data key="d21">6</data>
+  <data key="d22">4</data>
+  <data key="d23">6</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">16-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">27.833333333333332</data>
+  <data key="d28">25.5</data>
+  <data key="d29">1</data>
+  <data key="d30">67</data>
+</edge>
+<edge source="99b75528" target="e94915e6">
+  <data key="d20">31</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">24-01-2020</data>
+  <data key="d25">12-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.333333333333334</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">31</data>
+</edge>
+<edge source="99b75528" target="e94bc520">
+  <data key="d20">348</data>
+  <data key="d21">8</data>
+  <data key="d22">7</data>
+  <data key="d23">8</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">08-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">43.5</data>
+  <data key="d28">32.5</data>
+  <data key="d29">3</data>
+  <data key="d30">140</data>
+</edge>
+<edge source="99b75528" target="eba6a852">
+  <data key="d20">4</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">16-12-2021</data>
+  <data key="d25">16-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">4.0</data>
+  <data key="d29">4</data>
+  <data key="d30">4</data>
+</edge>
+<edge source="9caf69a1" target="a343262c">
+  <data key="d20">92</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">04-12-2025</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">46.0</data>
+  <data key="d28">46.0</data>
+  <data key="d29">40</data>
+  <data key="d30">52</data>
+</edge>
+<edge source="9caf69a1" target="c834c290">
+  <data key="d20">91</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-12-2025</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">91.0</data>
+  <data key="d28">91.0</data>
+  <data key="d29">91</data>
+  <data key="d30">91</data>
+</edge>
+<edge source="9caf69a1" target="cad40f5e">
+  <data key="d20">52</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">17-12-2025</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">52.0</data>
+  <data key="d28">52.0</data>
+  <data key="d29">52</data>
+  <data key="d30">52</data>
+</edge>
+<edge source="9caf69a1" target="e087956b">
+  <data key="d20">175</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">09-12-2022</data>
+  <data key="d25">26-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">43.75</data>
+  <data key="d28">35.0</data>
+  <data key="d29">9</data>
+  <data key="d30">96</data>
+</edge>
+<edge source="a343262c" target="aa710a58">
+  <data key="d20">184</data>
+  <data key="d21">5</data>
+  <data key="d22">5</data>
+  <data key="d23">5</data>
+  <data key="d24">04-06-2026</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">36.8</data>
+  <data key="d28">27.0</data>
+  <data key="d29">15</data>
+  <data key="d30">74</data>
+</edge>
+<edge source="a343262c" target="abb83e27">
+  <data key="d20">1466</data>
+  <data key="d21">25</data>
+  <data key="d22">19</data>
+  <data key="d23">25</data>
+  <data key="d24">14-01-2021</data>
+  <data key="d25">07-03-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">58.64</data>
+  <data key="d28">42.0</data>
+  <data key="d29">0</data>
+  <data key="d30">269</data>
+</edge>
+<edge source="a343262c" target="ad46c747">
+  <data key="d20">91</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">14-01-2021</data>
+  <data key="d25">22-01-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">45.5</data>
+  <data key="d28">45.5</data>
+  <data key="d29">10</data>
+  <data key="d30">81</data>
+</edge>
+<edge source="a343262c" target="ad9c32a2">
+  <data key="d20">582</data>
+  <data key="d21">7</data>
+  <data key="d22">7</data>
+  <data key="d23">7</data>
+  <data key="d24">25-08-2021</data>
+  <data key="d25">14-01-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">83.14285714285714</data>
+  <data key="d28">49.0</data>
+  <data key="d29">0</data>
+  <data key="d30">162</data>
+</edge>
+<edge source="a343262c" target="bb351c23">
+  <data key="d20">115</data>
+  <data key="d21">6</data>
+  <data key="d22">6</data>
+  <data key="d23">6</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.166666666666668</data>
+  <data key="d28">15.0</data>
+  <data key="d29">0</data>
+  <data key="d30">58</data>
+</edge>
+<edge source="a343262c" target="bdadf7da">
+  <data key="d20">107</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">24-01-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">35.666666666666664</data>
+  <data key="d28">34.0</data>
+  <data key="d29">31</data>
+  <data key="d30">42</data>
+</edge>
+<edge source="a343262c" target="c834c290">
+  <data key="d20">467</data>
+  <data key="d21">15</data>
+  <data key="d22">14</data>
+  <data key="d23">15</data>
+  <data key="d24">10-07-2024</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">31.133333333333333</data>
+  <data key="d28">11.0</data>
+  <data key="d29">0</data>
+  <data key="d30">94</data>
+</edge>
+<edge source="a343262c" target="c9c0fe50">
+  <data key="d20">136</data>
+  <data key="d21">7</data>
+  <data key="d22">6</data>
+  <data key="d23">7</data>
+  <data key="d24">16-03-2022</data>
+  <data key="d25">17-08-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.428571428571427</data>
+  <data key="d28">13.0</data>
+  <data key="d29">2</data>
+  <data key="d30">76</data>
+</edge>
+<edge source="a343262c" target="cad40f5e">
+  <data key="d20">7</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">04-12-2025</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">3.5</data>
+  <data key="d28">3.5</data>
+  <data key="d29">0</data>
+  <data key="d30">7</data>
+</edge>
+<edge source="a343262c" target="d12143bf">
+  <data key="d20">30</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">12-08-2021</data>
+  <data key="d25">07-03-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.0</data>
+  <data key="d28">6.0</data>
+  <data key="d29">4</data>
+  <data key="d30">20</data>
+</edge>
+<edge source="a343262c" target="e087956b">
+  <data key="d20">1678</data>
+  <data key="d21">43</data>
+  <data key="d22">35</data>
+  <data key="d23">43</data>
+  <data key="d24">16-01-2020</data>
+  <data key="d25">04-01-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">39.02325581395349</data>
+  <data key="d28">21.0</data>
+  <data key="d29">0</data>
+  <data key="d30">142</data>
+</edge>
+<edge source="a343262c" target="e36e9dd3">
+  <data key="d20">51</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">23-02-2024</data>
+  <data key="d25">29-08-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">17.0</data>
+  <data key="d28">2.0</data>
+  <data key="d29">1</data>
+  <data key="d30">48</data>
+</edge>
+<edge source="a343262c" target="e94915e6">
+  <data key="d20">116</data>
+  <data key="d21">6</data>
+  <data key="d22">5</data>
+  <data key="d23">6</data>
+  <data key="d24">24-01-2020</data>
+  <data key="d25">12-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.333333333333332</data>
+  <data key="d28">16.5</data>
+  <data key="d29">0</data>
+  <data key="d30">46</data>
+</edge>
+<edge source="a343262c" target="e94bc520">
+  <data key="d20">1946</data>
+  <data key="d21">47</data>
+  <data key="d22">42</data>
+  <data key="d23">47</data>
+  <data key="d24">24-01-2020</data>
+  <data key="d25">21-11-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">41.40425531914894</data>
+  <data key="d28">24.0</data>
+  <data key="d29">0</data>
+  <data key="d30">187</data>
+</edge>
+<edge source="a343262c" target="eba6a852">
+  <data key="d20">76</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">24-01-2020</data>
+  <data key="d25">16-06-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.0</data>
+  <data key="d28">20.5</data>
+  <data key="d29">8</data>
+  <data key="d30">27</data>
+</edge>
+<edge source="a343262c" target="fd770945">
+  <data key="d20">374</data>
+  <data key="d21">8</data>
+  <data key="d22">7</data>
+  <data key="d23">8</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">07-03-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">46.75</data>
+  <data key="d28">11.0</data>
+  <data key="d29">1</data>
+  <data key="d30">120</data>
+</edge>
+<edge source="a343262c" target="fe0c5457">
+  <data key="d20">79</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">12-08-2021</data>
+  <data key="d25">26-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">19.75</data>
+  <data key="d28">18.0</data>
+  <data key="d29">0</data>
+  <data key="d30">43</data>
+</edge>
+<edge source="a343262c" target="ff154ecd">
+  <data key="d20">296</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">17-06-2026</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">74.0</data>
+  <data key="d28">69.0</data>
+  <data key="d29">8</data>
+  <data key="d30">150</data>
+</edge>
+<edge source="aa710a58" target="ff154ecd">
+  <data key="d20">38</data>
+  <data key="d21">4</data>
+  <data key="d22">3</data>
+  <data key="d23">4</data>
+  <data key="d24">19-08-2026</data>
+  <data key="d25">09-09-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">9.5</data>
+  <data key="d28">12.0</data>
+  <data key="d29">2</data>
+  <data key="d30">12</data>
+</edge>
+<edge source="abb83e27" target="bb351c23">
+  <data key="d20">28</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-07-2023</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">28.0</data>
+  <data key="d28">28.0</data>
+  <data key="d29">28</data>
+  <data key="d30">28</data>
+</edge>
+<edge source="abb83e27" target="c16d4035">
+  <data key="d20">92</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">01-07-2022</data>
+  <data key="d25">01-07-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">92.0</data>
+  <data key="d28">92.0</data>
+  <data key="d29">92</data>
+  <data key="d30">92</data>
+</edge>
+<edge source="abb83e27" target="c9c0fe50">
+  <data key="d20">106</data>
+  <data key="d21">5</data>
+  <data key="d22">4</data>
+  <data key="d23">5</data>
+  <data key="d24">24-03-2022</data>
+  <data key="d25">17-08-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">21.2</data>
+  <data key="d28">24.0</data>
+  <data key="d29">0</data>
+  <data key="d30">41</data>
+</edge>
+<edge source="abb83e27" target="d12143bf">
+  <data key="d20">66</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">19-07-2023</data>
+  <data key="d25">19-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">66.0</data>
+  <data key="d28">66.0</data>
+  <data key="d29">66</data>
+  <data key="d30">66</data>
+</edge>
+<edge source="abb83e27" target="e087956b">
+  <data key="d20">747</data>
+  <data key="d21">17</data>
+  <data key="d22">14</data>
+  <data key="d23">17</data>
+  <data key="d24">04-03-2021</data>
+  <data key="d25">23-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">43.94117647058823</data>
+  <data key="d28">34.0</data>
+  <data key="d29">0</data>
+  <data key="d30">179</data>
+</edge>
+<edge source="abb83e27" target="e94bc520">
+  <data key="d20">138</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">02-09-2021</data>
+  <data key="d25">02-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">34.5</data>
+  <data key="d28">18.0</data>
+  <data key="d29">13</data>
+  <data key="d30">89</data>
+</edge>
+<edge source="abb83e27" target="e9987a94">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">08-03-2022</data>
+  <data key="d25">08-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="abb83e27" target="eba6a852">
+  <data key="d20">116</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">05-01-2022</data>
+  <data key="d25">19-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">29.0</data>
+  <data key="d28">21.5</data>
+  <data key="d29">18</data>
+  <data key="d30">55</data>
+</edge>
+<edge source="abb83e27" target="fd770945">
+  <data key="d20">103</data>
+  <data key="d21">6</data>
+  <data key="d22">5</data>
+  <data key="d23">6</data>
+  <data key="d24">08-03-2022</data>
+  <data key="d25">23-02-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">17.166666666666668</data>
+  <data key="d28">1.0</data>
+  <data key="d29">0</data>
+  <data key="d30">99</data>
+</edge>
+<edge source="ad46c747" target="d12143bf">
+  <data key="d20">43</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">08-07-2020</data>
+  <data key="d25">24-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">21.5</data>
+  <data key="d28">21.5</data>
+  <data key="d29">13</data>
+  <data key="d30">30</data>
+</edge>
+<edge source="ad46c747" target="e94915e6">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">16-07-2020</data>
+  <data key="d25">16-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="ad46c747" target="e94bc520">
+  <data key="d20">26</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">08-07-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">8.666666666666666</data>
+  <data key="d28">13.0</data>
+  <data key="d29">0</data>
+  <data key="d30">13</data>
+</edge>
+<edge source="ad46c747" target="eba6a852">
+  <data key="d20">154</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">16-07-2020</data>
+  <data key="d25">21-08-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">51.333333333333336</data>
+  <data key="d28">42.0</data>
+  <data key="d29">36</data>
+  <data key="d30">76</data>
+</edge>
+<edge source="ad9c32a2" target="e087956b">
+  <data key="d20">7</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">16-12-2021</data>
+  <data key="d25">05-01-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">3.5</data>
+  <data key="d28">3.5</data>
+  <data key="d29">0</data>
+  <data key="d30">7</data>
+</edge>
+<edge source="ad9c32a2" target="e94bc520">
+  <data key="d20">9</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-09-2021</data>
+  <data key="d25">02-09-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">9.0</data>
+  <data key="d28">9.0</data>
+  <data key="d29">9</data>
+  <data key="d30">9</data>
+</edge>
+<edge source="ad9c32a2" target="e9987a94">
+  <data key="d20">1</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-09-2021</data>
+  <data key="d25">02-09-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">1.0</data>
+  <data key="d28">1.0</data>
+  <data key="d29">1</data>
+  <data key="d30">1</data>
+</edge>
+<edge source="ad9c32a2" target="fe0c5457">
+  <data key="d20">99</data>
+  <data key="d21">7</data>
+  <data key="d22">5</data>
+  <data key="d23">7</data>
+  <data key="d24">25-08-2021</data>
+  <data key="d25">26-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">14.142857142857142</data>
+  <data key="d28">11.0</data>
+  <data key="d29">0</data>
+  <data key="d30">38</data>
+</edge>
+<edge source="bb351c23" target="e087956b">
+  <data key="d20">58</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">16-06-2023</data>
+  <data key="d25">06-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">29.0</data>
+  <data key="d28">29.0</data>
+  <data key="d29">14</data>
+  <data key="d30">44</data>
+</edge>
+<edge source="bb351c23" target="e94915e6">
+  <data key="d20">0</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">25-08-2021</data>
+  <data key="d25">25-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">0.0</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">0</data>
+</edge>
+<edge source="bb351c23" target="e94bc520">
+  <data key="d20">71</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">02-09-2021</data>
+  <data key="d25">02-09-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">71.0</data>
+  <data key="d28">71.0</data>
+  <data key="d29">71</data>
+  <data key="d30">71</data>
+</edge>
+<edge source="bb351c23" target="eba6a852">
+  <data key="d20">38</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">13-02-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">38.0</data>
+  <data key="d28">38.0</data>
+  <data key="d29">38</data>
+  <data key="d30">38</data>
+</edge>
+<edge source="bb351c23" target="fd770945">
+  <data key="d20">18</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">13-02-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">18.0</data>
+  <data key="d28">18.0</data>
+  <data key="d29">18</data>
+  <data key="d30">18</data>
+</edge>
+<edge source="bdadf7da" target="e087956b">
+  <data key="d20">22</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">03-01-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">22.0</data>
+  <data key="d28">22.0</data>
+  <data key="d29">22</data>
+  <data key="d30">22</data>
+</edge>
+<edge source="c16d4035" target="e94bc520">
+  <data key="d20">31</data>
+  <data key="d21">2</data>
+  <data key="d22">1</data>
+  <data key="d23">2</data>
+  <data key="d24">14-01-2022</data>
+  <data key="d25">14-01-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">15.5</data>
+  <data key="d28">15.5</data>
+  <data key="d29">6</data>
+  <data key="d30">25</data>
+</edge>
+<edge source="c16d4035" target="eba6a852">
+  <data key="d20">7</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">01-07-2022</data>
+  <data key="d25">01-07-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">7.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">7</data>
+  <data key="d30">7</data>
+</edge>
+<edge source="c834c290" target="cad40f5e">
+  <data key="d20">142</data>
+  <data key="d21">5</data>
+  <data key="d22">4</data>
+  <data key="d23">5</data>
+  <data key="d24">15-10-2024</data>
+  <data key="d25">21-11-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">28.4</data>
+  <data key="d28">23.0</data>
+  <data key="d29">1</data>
+  <data key="d30">84</data>
+</edge>
+<edge source="c834c290" target="d12143bf">
+  <data key="d20">4</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">10-07-2024</data>
+  <data key="d25">10-07-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">4.0</data>
+  <data key="d29">4</data>
+  <data key="d30">4</data>
+</edge>
+<edge source="c834c290" target="e087956b">
+  <data key="d20">222</data>
+  <data key="d21">11</data>
+  <data key="d22">10</data>
+  <data key="d23">11</data>
+  <data key="d24">18-07-2024</data>
+  <data key="d25">04-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">20.181818181818183</data>
+  <data key="d28">10.0</data>
+  <data key="d29">0</data>
+  <data key="d30">70</data>
+</edge>
+<edge source="c834c290" target="e36e9dd3">
+  <data key="d20">25</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">10-07-2024</data>
+  <data key="d25">25-06-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">8.333333333333334</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">25</data>
+</edge>
+<edge source="c834c290" target="e94bc520">
+  <data key="d20">29</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">06-09-2024</data>
+  <data key="d25">06-09-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">29.0</data>
+  <data key="d28">29.0</data>
+  <data key="d29">29</data>
+  <data key="d30">29</data>
+</edge>
+<edge source="c834c290" target="ff154ecd">
+  <data key="d20">67</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">27-08-2026</data>
+  <data key="d25">27-08-2026</data>
+  <data key="d26">Test</data>
+  <data key="d27">67.0</data>
+  <data key="d28">67.0</data>
+  <data key="d29">67</data>
+  <data key="d30">67</data>
+</edge>
+<edge source="c9c0fe50" target="e087956b">
+  <data key="d20">24</data>
+  <data key="d21">3</data>
+  <data key="d22">2</data>
+  <data key="d23">3</data>
+  <data key="d24">24-03-2022</data>
+  <data key="d25">17-08-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">8.0</data>
+  <data key="d28">7.0</data>
+  <data key="d29">5</data>
+  <data key="d30">12</data>
+</edge>
+<edge source="c9c0fe50" target="e94bc520">
+  <data key="d20">216</data>
+  <data key="d21">5</data>
+  <data key="d22">4</data>
+  <data key="d23">5</data>
+  <data key="d24">02-06-2022</data>
+  <data key="d25">17-08-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">43.2</data>
+  <data key="d28">18.0</data>
+  <data key="d29">0</data>
+  <data key="d30">141</data>
+</edge>
+<edge source="c9c0fe50" target="fd770945">
+  <data key="d20">3</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">24-03-2022</data>
+  <data key="d25">24-03-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">3.0</data>
+  <data key="d28">3.0</data>
+  <data key="d29">3</data>
+  <data key="d30">3</data>
+</edge>
+<edge source="cad40f5e" target="e087956b">
+  <data key="d20">172</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">15-10-2024</data>
+  <data key="d25">17-12-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">43.0</data>
+  <data key="d28">38.5</data>
+  <data key="d29">0</data>
+  <data key="d30">95</data>
+</edge>
+<edge source="cad40f5e" target="e36e9dd3">
+  <data key="d20">64</data>
+  <data key="d21">5</data>
+  <data key="d22">5</data>
+  <data key="d23">5</data>
+  <data key="d24">28-11-2024</data>
+  <data key="d25">10-07-2025</data>
+  <data key="d26">Test</data>
+  <data key="d27">12.8</data>
+  <data key="d28">14.0</data>
+  <data key="d29">3</data>
+  <data key="d30">25</data>
+</edge>
+<edge source="d12143bf" target="e36e9dd3">
+  <data key="d20">19</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">02-02-2024</data>
+  <data key="d25">07-03-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">6.333333333333333</data>
+  <data key="d28">0.0</data>
+  <data key="d29">0</data>
+  <data key="d30">19</data>
+</edge>
+<edge source="d12143bf" target="e94915e6">
+  <data key="d20">23</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">04-08-2021</data>
+  <data key="d25">04-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">23.0</data>
+  <data key="d28">23.0</data>
+  <data key="d29">23</data>
+  <data key="d30">23</data>
+</edge>
+<edge source="d12143bf" target="e94bc520">
+  <data key="d20">35</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">03-01-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">35.0</data>
+  <data key="d28">35.0</data>
+  <data key="d29">35</data>
+  <data key="d30">35</data>
+</edge>
+<edge source="d12143bf" target="eba6a852">
+  <data key="d20">87</data>
+  <data key="d21">8</data>
+  <data key="d22">6</data>
+  <data key="d23">8</data>
+  <data key="d24">05-08-2020</data>
+  <data key="d25">27-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">10.875</data>
+  <data key="d28">13.0</data>
+  <data key="d29">0</data>
+  <data key="d30">22</data>
+</edge>
+<edge source="d12143bf" target="fd770945">
+  <data key="d20">12</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">24-02-2021</data>
+  <data key="d25">08-09-2022</data>
+  <data key="d26">Test</data>
+  <data key="d27">4.0</data>
+  <data key="d28">5.0</data>
+  <data key="d29">0</data>
+  <data key="d30">7</data>
+</edge>
+<edge source="e087956b" target="e94bc520">
+  <data key="d20">636</data>
+  <data key="d21">18</data>
+  <data key="d22">16</data>
+  <data key="d23">18</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">14-12-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">35.333333333333336</data>
+  <data key="d28">19.0</data>
+  <data key="d29">1</data>
+  <data key="d30">203</data>
+</edge>
+<edge source="e087956b" target="eba6a852">
+  <data key="d20">211</data>
+  <data key="d21">4</data>
+  <data key="d22">4</data>
+  <data key="d23">4</data>
+  <data key="d24">16-12-2021</data>
+  <data key="d25">06-07-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">52.75</data>
+  <data key="d28">43.5</data>
+  <data key="d29">16</data>
+  <data key="d30">108</data>
+</edge>
+<edge source="e087956b" target="fd770945">
+  <data key="d20">360</data>
+  <data key="d21">12</data>
+  <data key="d22">10</data>
+  <data key="d23">12</data>
+  <data key="d24">24-02-2021</data>
+  <data key="d25">07-03-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">30.0</data>
+  <data key="d28">13.5</data>
+  <data key="d29">0</data>
+  <data key="d30">173</data>
+</edge>
+<edge source="e087956b" target="fe0c5457">
+  <data key="d20">18</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">08-12-2021</data>
+  <data key="d25">08-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">18.0</data>
+  <data key="d28">18.0</data>
+  <data key="d29">18</data>
+  <data key="d30">18</data>
+</edge>
+<edge source="e36e9dd3" target="fd770945">
+  <data key="d20">47</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">23-02-2024</data>
+  <data key="d25">07-03-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">23.5</data>
+  <data key="d28">23.5</data>
+  <data key="d29">12</data>
+  <data key="d30">35</data>
+</edge>
+<edge source="e94915e6" target="e94bc520">
+  <data key="d20">69</data>
+  <data key="d21">2</data>
+  <data key="d22">2</data>
+  <data key="d23">2</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">16-01-2020</data>
+  <data key="d26">Test</data>
+  <data key="d27">34.5</data>
+  <data key="d28">34.5</data>
+  <data key="d29">10</data>
+  <data key="d30">59</data>
+</edge>
+<edge source="e94915e6" target="e9987a94">
+  <data key="d20">35</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">25-08-2021</data>
+  <data key="d25">25-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">35.0</data>
+  <data key="d28">35.0</data>
+  <data key="d29">35</data>
+  <data key="d30">35</data>
+</edge>
+<edge source="e94915e6" target="eba6a852">
+  <data key="d20">5</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">04-08-2021</data>
+  <data key="d25">04-08-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">5.0</data>
+  <data key="d28">5.0</data>
+  <data key="d29">5</data>
+  <data key="d30">5</data>
+</edge>
+<edge source="e94bc520" target="eba6a852">
+  <data key="d20">35</data>
+  <data key="d21">3</data>
+  <data key="d22">3</data>
+  <data key="d23">3</data>
+  <data key="d24">03-01-2020</data>
+  <data key="d25">16-02-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">11.666666666666666</data>
+  <data key="d28">14.0</data>
+  <data key="d29">3</data>
+  <data key="d30">18</data>
+</edge>
+<edge source="e94bc520" target="fd770945">
+  <data key="d20">177</data>
+  <data key="d21">5</data>
+  <data key="d22">5</data>
+  <data key="d23">5</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">25-01-2024</data>
+  <data key="d26">Test</data>
+  <data key="d27">35.4</data>
+  <data key="d28">16.0</data>
+  <data key="d29">4</data>
+  <data key="d30">112</data>
+</edge>
+<edge source="e94bc520" target="fe0c5457">
+  <data key="d20">31</data>
+  <data key="d21">1</data>
+  <data key="d22">1</data>
+  <data key="d23">1</data>
+  <data key="d24">08-12-2021</data>
+  <data key="d25">08-12-2021</data>
+  <data key="d26">Test</data>
+  <data key="d27">31.0</data>
+  <data key="d28">31.0</data>
+  <data key="d29">31</data>
+  <data key="d30">31</data>
+</edge>
+<edge source="eba6a852" target="fd770945">
+  <data key="d20">125</data>
+  <data key="d21">8</data>
+  <data key="d22">8</data>
+  <data key="d23">8</data>
+  <data key="d24">13-02-2021</data>
+  <data key="d25">24-02-2023</data>
+  <data key="d26">Test</data>
+  <data key="d27">15.625</data>
+  <data key="d28">12.0</data>
+  <data key="d29">3</data>
+  <data key="d30">41</data>
+</edge>
+</graph></graphml>
