@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+# extracted raw archive (reproducible from data/raw/england_male_json.zip)
+data/raw/england_male_json/
+# third-party paper kept locally only
+docs/reference/*.pdf
+~$*
