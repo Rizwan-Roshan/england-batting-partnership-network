@@ -1,0 +1,37 @@
+format,check,passed,detail
+Test,no_self_loops,True,
+Test,canonical_pair_order,True,
+Test,edge_count_equals_unique_pairs,True,335 edges / 335 pairs
+Test,weight_equals_sum_of_observation_runs,True,
+Test,partnership_count_equals_observation_count,True,
+Test,total_matches_correct,True,
+Test,total_innings_correct,True,
+Test,sum_of_weights_equals_sum_of_observation_runs,True,43080 runs
+Test,every_edge_has_observations,True,
+Test,node_set_equals_players_in_observations,True,51 nodes
+Test,distinct_partners_equals_degree,True,
+Test,node_observations_sum_is_twice_observations,True,
+ODI,no_self_loops,True,
+ODI,canonical_pair_order,True,
+ODI,edge_count_equals_unique_pairs,True,262 edges / 262 pairs
+ODI,weight_equals_sum_of_observation_runs,True,
+ODI,partnership_count_equals_observation_count,True,
+ODI,total_matches_correct,True,
+ODI,total_innings_correct,True,
+ODI,sum_of_weights_equals_sum_of_observation_runs,True,22929 runs
+ODI,every_edge_has_observations,True,
+ODI,node_set_equals_players_in_observations,True,50 nodes
+ODI,distinct_partners_equals_degree,True,
+ODI,node_observations_sum_is_twice_observations,True,
+T20I,no_self_loops,True,
+T20I,canonical_pair_order,True,
+T20I,edge_count_equals_unique_pairs,True,222 edges / 222 pairs
+T20I,weight_equals_sum_of_observation_runs,True,
+T20I,partnership_count_equals_observation_count,True,
+T20I,total_matches_correct,True,
+T20I,total_innings_correct,True,
+T20I,sum_of_weights_equals_sum_of_observation_runs,True,18974 runs
+T20I,every_edge_has_observations,True,
+T20I,node_set_equals_players_in_observations,True,44 nodes
+T20I,distinct_partners_equals_degree,True,
+T20I,node_observations_sum_is_twice_observations,True,
