@@ -1,10 +1,10 @@
-2026-11-16 20:27:19,827 INFO batnet.03_extract: matches: 287, England innings: 350 (qualifying 350), observations: 2828, warnings: 0
-2026-11-16 20:27:19,828 INFO batnet.03_extract: observations by format:
+2026-11-16 20:50:08,234 INFO batnet.03_extract: matches: 287, England innings: 350 (qualifying 350), observations: 2828, warnings: 0
+2026-11-16 20:50:08,235 INFO batnet.03_extract: observations by format:
 format
 Test    1357
 ODI      708
 T20I     763
-2026-11-16 20:27:19,829 INFO batnet.03_extract: why partnerships ended:
+2026-11-16 20:50:08,236 INFO batnet.03_extract: why partnerships ended:
 boundary_reason
 dismissal:caught               1642
 dismissal:bowled                508

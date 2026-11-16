@@ -1,11 +1,11 @@
-2026-11-16 20:27:17,049 INFO batnet.02_filter: files audited: 961, included: 287
-2026-11-16 20:27:17,050 INFO batnet.02_filter: exclusion reasons:
+2026-11-16 20:50:05,101 INFO batnet.02_filter: files audited: 961, included: 287
+2026-11-16 20:50:05,102 INFO batnet.02_filter: exclusion reasons:
 exclusion_reason
 before_window    674
-2026-11-16 20:27:17,051 INFO batnet.02_filter: included by format:
+2026-11-16 20:50:05,103 INFO batnet.02_filter: included by format:
 format
 Test     81
 ODI      88
 T20I    118
-2026-11-16 20:27:17,052 INFO batnet.02_filter: included window: 2020-01-03 .. 2026-10-29
-2026-11-16 20:27:17,053 INFO batnet.02_filter: included matches with no England innings: 7 ['1185311', '1239536', '1276912', '1415706', '1433377', '1491719', '1496574']
+2026-11-16 20:50:05,103 INFO batnet.02_filter: included window: 2020-01-03 .. 2026-10-29
+2026-11-16 20:50:05,104 INFO batnet.02_filter: included matches with no England innings: 7 ['1185311', '1239536', '1276912', '1415706', '1433377', '1491719', '1496574']
