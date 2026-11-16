@@ -1,7 +1,7 @@
 # Gephi workflow
 
 Gephi is the visualisation tool selected for the project. The GraphML files in
-`outputs/graphml/` are written by `scripts/07_export_graphml.py` and are the only
+`outputs/graphml/` are written by `notebooks/07_export_graphml.ipynb` and are the only
 input Gephi needs. Gephi is used for drawing only: every number in the report
 comes from the Python tables.
 

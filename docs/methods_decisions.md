@@ -1,8 +1,8 @@
 # Methods decision register
 
 One entry per measure. The same definition is used for Test, ODI and T20I.
-Software: NetworkX 3.4.2 (see `requirements.txt`). Code: `src/batnet/metrics.py`.
-Random seed for every stochastic step: 42 (`src/batnet/config.py`).
+Software: NetworkX 3.4.2 (see `requirements.txt`). Code: `notebooks/library/lib_05_network_measures.ipynb`.
+Random seed for every stochastic step: 42 (`notebooks/library/lib_00_settings.ipynb`).
 
 Research questions (RQ): 1 structural characteristics; 2 structurally prominent
 batters; 3 grouping, cohesion and redundancy; 4 weighted degree; 5 communities;
