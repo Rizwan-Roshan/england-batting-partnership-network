@@ -1,4 +1,4 @@
-2026-11-14 19:16:14,394 INFO batnet.08_figures: wrote network_test.png
-2026-11-14 19:16:14,883 INFO batnet.08_figures: wrote network_odi.png
-2026-11-14 19:16:15,332 INFO batnet.08_figures: wrote network_t20i.png
-2026-11-14 19:16:16,529 INFO batnet.08_figures: wrote network_comparison.png, degree_distributions.png
+2026-11-16 20:27:35,500 INFO batnet.08_figures: wrote network_test.png
+2026-11-16 20:27:35,981 INFO batnet.08_figures: wrote network_odi.png
+2026-11-16 20:27:36,430 INFO batnet.08_figures: wrote network_t20i.png
+2026-11-16 20:27:37,633 INFO batnet.08_figures: wrote network_comparison.png, degree_distributions.png
