@@ -3,8 +3,8 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .ipynb_checkpoints/
-# extracted raw archive (reproducible from data/raw/england_male_json.zip)
+# unzipped copy of the raw data (rebuilt from data/raw/england_male_json.zip by stage 1)
 data/raw/england_male_json/
-# third-party paper kept locally only
+# our project proposal, kept only on our own computers
 docs/reference/*.pdf
 ~$*

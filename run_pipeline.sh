@@ -1,7 +1,7 @@
 #!/bin/bash
-# Run the whole project, from the raw archive to the PDF report.
-# Each notebook is executed in place, so its saved outputs show the latest run.
-# The script stops at the first notebook that fails (for example a failed validation gate).
+# Runs the whole project, from the Cricsheet zip file to the PDF report.
+# Every notebook is executed and saved with its outputs, so opening a notebook shows the latest run.
+# If a notebook fails (for example a data check that does not pass), the script stops right there.
 set -euo pipefail
 cd "$(dirname "$0")/notebooks"
 
@@ -13,9 +13,8 @@ NOTEBOOKS=(
   04_validate_observations
   05_build_networks
   06_compute_measures
-  07_export_graphml
-  08_make_figures
-  09_write_report
+  07_make_figures
+  08_write_report
 )
 
 for notebook in "${NOTEBOOKS[@]}"; do
@@ -24,7 +23,7 @@ for notebook in "${NOTEBOOKS[@]}"; do
     --ExecutePreprocessor.timeout=900 --ExecutePreprocessor.kernel_name=python3 "$notebook.ipynb"
 done
 
-# Record the software versions used for this run.
+# Write down the Python and package versions of this run.
 python3 - <<'PY'
 import importlib.metadata as metadata, platform, pathlib
 packages = ["networkx", "pandas", "numpy", "scipy", "matplotlib", "python-docx", "nbformat", "nbconvert", "ipykernel"]
