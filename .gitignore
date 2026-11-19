@@ -8,3 +8,7 @@ data/raw/england_male_json/
 # our project proposal, kept only on our own computers
 docs/reference/*.pdf
 ~$*
+.venv
+notebooks/08_write_report.ipynb
+report
+docs/reference
