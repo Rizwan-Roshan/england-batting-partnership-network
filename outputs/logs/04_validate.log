@@ -1,5 +1,4 @@
-2026-11-16 20:50:11,382 INFO batnet.04_validate: structural checks passed: 13/13
-2026-11-16 20:50:11,383 INFO batnet.04_validate: scorecard checks passed: 318/318
-2026-11-16 20:50:11,383 INFO batnet.04_validate: spot checks passed: 5/5
-2026-11-16 20:50:11,383 INFO batnet.04_validate: extraction warnings: 0
-2026-11-16 20:50:11,384 INFO batnet.04_validate: GATE PASSED
+2026-11-19 18:05:07,911 INFO partnerships.04_validate: structural checks passed: 13/13
+2026-11-19 18:05:07,911 INFO partnerships.04_validate: scorecard checks passed: 318/318
+2026-11-19 18:05:07,911 INFO partnerships.04_validate: extraction warnings: 0
+2026-11-19 18:05:07,912 INFO partnerships.04_validate: CHECKS PASSED

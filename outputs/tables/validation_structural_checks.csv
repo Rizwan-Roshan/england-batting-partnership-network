@@ -1,5 +1,5 @@
 check,passed,detail
-innings_partnership_runs_equal_delivery_runs,True,"350 qualifying innings, 84983 runs"
+innings_partnership_runs_equal_delivery_runs,True,"350 innings, 84983 runs"
 distinct_players_in_pair,True,
 canonical_pair_order,True,
 all_player_ids_resolved,True,
@@ -8,7 +8,7 @@ runs_equal_batter_plus_extras,True,
 every_observation_has_a_delivery,True,
 sequence_numbers_contiguous,True,
 innings_end_only_on_last_observation,True,
-observation_count_matches_innings_table,True,2828 observations
+observation_count_matches_innings_table,True,2828 partnerships
 only_england_batting,True,
 formats_canonical,True,
 dates_inside_window,True,

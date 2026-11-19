@@ -1,5 +1,5 @@
-2026-11-16 20:50:14,201 INFO batnet.05_networks: Test: 51 nodes, 335 edges, total weight 43080
-2026-11-16 20:50:14,213 INFO batnet.05_networks: ODI: 50 nodes, 262 edges, total weight 22929
-2026-11-16 20:50:14,224 INFO batnet.05_networks: T20I: 44 nodes, 222 edges, total weight 18974
-2026-11-16 20:50:14,228 INFO batnet.05_networks: players with more than one name spelling: 0
-2026-11-16 20:50:14,229 INFO batnet.05_networks: aggregation checks passed: 36/36 - GATE PASSED
+2026-11-19 18:05:10,316 INFO partnerships.05_networks: Test: 51 nodes, 335 edges, total weight 43080
+2026-11-19 18:05:10,331 INFO partnerships.05_networks: ODI: 50 nodes, 262 edges, total weight 22929
+2026-11-19 18:05:10,344 INFO partnerships.05_networks: T20I: 44 nodes, 222 edges, total weight 18974
+2026-11-19 18:05:10,348 INFO partnerships.05_networks: players with more than one spelling of their name: 0
+2026-11-19 18:05:10,349 INFO partnerships.05_networks: network checks passed: 36/36, CHECKS PASSED
