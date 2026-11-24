@@ -5,8 +5,6 @@ each international format. A node is an England batter, an edge joins two batter
 least one partnership, and the edge weight is the total number of runs the pair added together. The networks
 are undirected, weighted and one-mode. We analyse all three with the same measures and compare them.
 
-The order in which everything runs, and what every file is for, is in [EXECUTION_SEQUENCE.md](EXECUTION_SEQUENCE.md).
-
 ## Main numbers
 
 | | Test | ODI | T20I |
